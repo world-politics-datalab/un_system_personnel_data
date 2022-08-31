@@ -1,0 +1,3758 @@
+﻿REGION,SUBREGION,COUNTRY,DS,ORGCD,Total Sum of Count
+Africa,Northern Africa,Algeria,Algiers,FAO,4
+Africa,Northern Africa,Algeria,Algiers,ILO,27
+Africa,Northern Africa,Algeria,Algiers,IOM,10
+Africa,Northern Africa,Algeria,Algiers,UN,14
+Africa,Northern Africa,Algeria,Algiers,UNAIDS,3
+Africa,Northern Africa,Algeria,Algiers,UNDP,32
+Africa,Northern Africa,Algeria,Algiers,UNFPA,8
+Africa,Northern Africa,Algeria,Algiers,UNHCR,22
+Africa,Northern Africa,Algeria,Algiers,UNICEF,22
+Africa,Northern Africa,Algeria,Algiers,UNIDO,4
+Africa,Northern Africa,Algeria,Algiers,WFP,13
+Africa,Northern Africa,Algeria,Algiers,WHO,14
+Africa,Northern Africa,Algeria,Algiers,WIPO,1
+Africa,Northern Africa,Algeria,Tindouf,UN,9
+Africa,Northern Africa,Algeria,Tindouf,UNHCR,40
+Africa,Northern Africa,Algeria,Tindouf,UNICEF,3
+Africa,Northern Africa,Algeria,Tindouf,UNOPS,1
+Africa,Northern Africa,Algeria,Tindouf,WFP,8
+Africa,Northern Africa,Egypt,Alexandria,UNHCR,18
+Africa,Northern Africa,Egypt,Cairo,FAO,69
+Africa,Northern Africa,Egypt,Cairo,ICAO,22
+Africa,Northern Africa,Egypt,Cairo,IFAD,19
+Africa,Northern Africa,Egypt,Cairo,ILO,76
+Africa,Northern Africa,Egypt,Cairo,IOM,128
+Africa,Northern Africa,Egypt,Cairo,ITU,10
+Africa,Northern Africa,Egypt,Cairo,UN,84
+Africa,Northern Africa,Egypt,Cairo,UN WOMEN,36
+Africa,Northern Africa,Egypt,Cairo,UNAIDS,11
+Africa,Northern Africa,Egypt,Cairo,UNDP,55
+Africa,Northern Africa,Egypt,Cairo,UNESCO,17
+Africa,Northern Africa,Egypt,Cairo,UNFPA,64
+Africa,Northern Africa,Egypt,Cairo,UNHCR,147
+Africa,Northern Africa,Egypt,Cairo,UNICEF,75
+Africa,Northern Africa,Egypt,Cairo,UNIDO,7
+Africa,Northern Africa,Egypt,Cairo,UPU,1
+Africa,Northern Africa,Egypt,Cairo,WFP,139
+Africa,Northern Africa,Egypt,Cairo,WHO,451
+Africa,Northern Africa,Libya,Benghazi,IOM,2
+Africa,Northern Africa,Libya,Benghazi,UN,4
+Africa,Northern Africa,Libya,Benghazi,UNHCR,6
+Africa,Northern Africa,Libya,Benghazi,UNICEF,7
+Africa,Northern Africa,Libya,Benghazi,WHO,2
+Africa,Northern Africa,Libya,Misurata,UNHCR,1
+Africa,Northern Africa,Libya,Sebha,UN,2
+Africa,Northern Africa,Libya,Sebha,WHO,1
+Africa,Northern Africa,Libya,Tripoli,IOM,29
+Africa,Northern Africa,Libya,Tripoli,UN,221
+Africa,Northern Africa,Libya,Tripoli,UNDP,28
+Africa,Northern Africa,Libya,Tripoli,UNFPA,12
+Africa,Northern Africa,Libya,Tripoli,UNHCR,112
+Africa,Northern Africa,Libya,Tripoli,UNICEF,47
+Africa,Northern Africa,Libya,Tripoli,UNOPS,1
+Africa,Northern Africa,Libya,Tripoli,WFP,6
+Africa,Northern Africa,Libya,Tripoli,WHO,26
+Africa,Northern Africa,Morocco,Casablanca,UNOPS,1
+Africa,Northern Africa,Morocco,Rabat,FAO,6
+Africa,Northern Africa,Morocco,Rabat,IFAD,1
+Africa,Northern Africa,Morocco,Rabat,ILO,12
+Africa,Northern Africa,Morocco,Rabat,IOM,48
+Africa,Northern Africa,Morocco,Rabat,UN,37
+Africa,Northern Africa,Morocco,Rabat,UN WOMEN,11
+Africa,Northern Africa,Morocco,Rabat,UNAIDS,4
+Africa,Northern Africa,Morocco,Rabat,UNDP,28
+Africa,Northern Africa,Morocco,Rabat,UNESCO,13
+Africa,Northern Africa,Morocco,Rabat,UNFPA,13
+Africa,Northern Africa,Morocco,Rabat,UNHCR,24
+Africa,Northern Africa,Morocco,Rabat,UNICEF,39
+Africa,Northern Africa,Morocco,Rabat,UNIDO,2
+Africa,Northern Africa,Morocco,Rabat,WHO,12
+Africa,Northern Africa,Morocco,Tangier,IOM,20
+Africa,Northern Africa,Morocco,Tetouan,IOM,6
+Africa,Northern Africa,Sudan,Abu Jubayhah,UNHCR,2
+Africa,Northern Africa,Sudan,Abyei,IOM,4
+Africa,Northern Africa,Sudan,Abyei,UN,199
+Africa,Northern Africa,Sudan,Abyei,UNOPS,4
+Africa,Northern Africa,Sudan,Ad Damazin,UN,4
+Africa,Northern Africa,Sudan,Ad Damazin,WFP,7
+Africa,Northern Africa,Sudan,Damazine,UN,2
+Africa,Northern Africa,Sudan,Damazine,UNHCR,6
+Africa,Northern Africa,Sudan,Damazine,UNICEF,15
+Africa,Northern Africa,Sudan,Damazine,WHO,1
+Africa,Northern Africa,Sudan,Doka,UNHCR,10
+Africa,Northern Africa,Sudan,Ed Daein,ILO,1
+Africa,Northern Africa,Sudan,Ed Daein,UNDP,1
+Africa,Northern Africa,Sudan,Ed Daein,UNHCR,25
+Africa,Northern Africa,Sudan,Ed Daein,UNICEF,6
+Africa,Northern Africa,Sudan,Ed Daein,WFP,9
+Africa,Northern Africa,Sudan,El Fasher,FAO,2
+Africa,Northern Africa,Sudan,El Fasher,IOM,1
+Africa,Northern Africa,Sudan,El Fasher,UN,214
+Africa,Northern Africa,Sudan,El Fasher,UNDP,7
+Africa,Northern Africa,Sudan,El Fasher,UNHCR,41
+Africa,Northern Africa,Sudan,El Fasher,UNICEF,21
+Africa,Northern Africa,Sudan,El Fasher,WFP,55
+Africa,Northern Africa,Sudan,El Fasher,WHO,2
+Africa,Northern Africa,Sudan,El Fula,ILO,1
+Africa,Northern Africa,Sudan,El Fula,UNHCR,16
+Africa,Northern Africa,Sudan,El Fula,UNICEF,3
+Africa,Northern Africa,Sudan,El Fula,WFP,4
+Africa,Northern Africa,Sudan,El Gedaref,IOM,2
+Africa,Northern Africa,Sudan,El Gedaref,UNHCR,39
+Africa,Northern Africa,Sudan,El Geneina,IOM,2
+Africa,Northern Africa,Sudan,El Geneina,UN,7
+Africa,Northern Africa,Sudan,El Geneina,UNDP,2
+Africa,Northern Africa,Sudan,El Geneina,UNHCR,20
+Africa,Northern Africa,Sudan,El Geneina,UNICEF,16
+Africa,Northern Africa,Sudan,El Geneina,WFP,33
+Africa,Northern Africa,Sudan,El Geneina,WHO,1
+Africa,Northern Africa,Sudan,El-Obeid,ILO,2
+Africa,Northern Africa,Sudan,El-Obeid,UNHCR,7
+Africa,Northern Africa,Sudan,El-Obeid,WFP,37
+Africa,Northern Africa,Sudan,Golo,UN,1
+Africa,Northern Africa,Sudan,Kadugli,UN,56
+Africa,Northern Africa,Sudan,Kadugli,UNDP,1
+Africa,Northern Africa,Sudan,Kadugli,UNHCR,19
+Africa,Northern Africa,Sudan,Kadugli,UNICEF,21
+Africa,Northern Africa,Sudan,Kadugli,WFP,11
+Africa,Northern Africa,Sudan,Kadugli,WHO,1
+Africa,Northern Africa,Sudan,Kassala,IOM,1
+Africa,Northern Africa,Sudan,Kassala,UN,10
+Africa,Northern Africa,Sudan,Kassala,UNDP,1
+Africa,Northern Africa,Sudan,Kassala,UNHCR,41
+Africa,Northern Africa,Sudan,Kassala,UNICEF,17
+Africa,Northern Africa,Sudan,Kassala,WFP,31
+Africa,Northern Africa,Sudan,Kassala,WHO,1
+Africa,Northern Africa,Sudan,Khartoum,FAO,14
+Africa,Northern Africa,Sudan,Khartoum,IFAD,4
+Africa,Northern Africa,Sudan,Khartoum,ILO,17
+Africa,Northern Africa,Sudan,Khartoum,IOM,62
+Africa,Northern Africa,Sudan,Khartoum,UN,231
+Africa,Northern Africa,Sudan,Khartoum,UN WOMEN,6
+Africa,Northern Africa,Sudan,Khartoum,UNAIDS,3
+Africa,Northern Africa,Sudan,Khartoum,UNDP,91
+Africa,Northern Africa,Sudan,Khartoum,UNESCO,7
+Africa,Northern Africa,Sudan,Khartoum,UNFPA,28
+Africa,Northern Africa,Sudan,Khartoum,UNHCR,101
+Africa,Northern Africa,Sudan,Khartoum,UNICEF,102
+Africa,Northern Africa,Sudan,Khartoum,UNIDO,3
+Africa,Northern Africa,Sudan,Khartoum,WFP,215
+Africa,Northern Africa,Sudan,Khartoum,WHO,54
+Africa,Northern Africa,Sudan,Khashm El Girba,UNHCR,14
+Africa,Northern Africa,Sudan,Kosti,ILO,2
+Africa,Northern Africa,Sudan,Kosti,UNHCR,39
+Africa,Northern Africa,Sudan,Kosti,UNICEF,3
+Africa,Northern Africa,Sudan,Kosti,WFP,8
+Africa,Northern Africa,Sudan,Nyala,UN,13
+Africa,Northern Africa,Sudan,Nyala,UNDP,3
+Africa,Northern Africa,Sudan,Nyala,UNHCR,25
+Africa,Northern Africa,Sudan,Nyala,UNICEF,15
+Africa,Northern Africa,Sudan,Nyala,WFP,50
+Africa,Northern Africa,Sudan,Nyala,WHO,2
+Africa,Northern Africa,Sudan,Other,WFP,1
+Africa,Northern Africa,Sudan,Port Sudan,UNICEF,3
+Africa,Northern Africa,Sudan,Port Sudan,WFP,28
+Africa,Northern Africa,Sudan,Zalingei,UN,5
+Africa,Northern Africa,Sudan,Zalingei,UNHCR,14
+Africa,Northern Africa,Sudan,Zalingei,UNICEF,9
+Africa,Northern Africa,Sudan,Zalingei,WFP,4
+Africa,Northern Africa,Tunisia,Gabes,ILO,1
+Africa,Northern Africa,Tunisia,Gafsa,ILO,1
+Africa,Northern Africa,Tunisia,Jendouba,ILO,3
+Africa,Northern Africa,Tunisia,Kairouan,ILO,2
+Africa,Northern Africa,Tunisia,Kasserine,ILO,1
+Africa,Northern Africa,Tunisia,Sfax,IOM,1
+Africa,Northern Africa,Tunisia,Tataouine,ILO,2
+Africa,Northern Africa,Tunisia,Tunis,FAO,21
+Africa,Northern Africa,Tunisia,Tunis,ILO,46
+Africa,Northern Africa,Tunisia,Tunis,IOM,71
+Africa,Northern Africa,Tunisia,Tunis,UN,60
+Africa,Northern Africa,Tunisia,Tunis,UN WOMEN,5
+Africa,Northern Africa,Tunisia,Tunis,UNAIDS,1
+Africa,Northern Africa,Tunisia,Tunis,UNDP,39
+Africa,Northern Africa,Tunisia,Tunis,UNESCO,1
+Africa,Northern Africa,Tunisia,Tunis,UNFPA,15
+Africa,Northern Africa,Tunisia,Tunis,UNHCR,39
+Africa,Northern Africa,Tunisia,Tunis,UNICEF,33
+Africa,Northern Africa,Tunisia,Tunis,UNIDO,1
+Africa,Northern Africa,Tunisia,Tunis,UNOPS,6
+Africa,Northern Africa,Tunisia,Tunis,WFP,12
+Africa,Northern Africa,Tunisia,Tunis,WHO,50
+Africa,Northern Africa,Tunisia,Zarzis,IOM,2
+Africa,Northern Africa,Tunisia,Zarzis,UNDP,1
+Africa,Northern Africa,Tunisia,Zarzis,UNHCR,6
+Africa,Northern Africa,Western Sahara,Laayoune,UN,205
+Africa,Northern Africa,Western Sahara,Laayoune,UNHCR,12
+Africa,Northern Africa,Western Sahara,Laayoune,UNOPS,2
+Africa,Sub-Saharan Africa,Angola,Benguela,UNDP,1
+Africa,Sub-Saharan Africa,Angola,Dundo,UNHCR,15
+Africa,Sub-Saharan Africa,Angola,Kuito,UNICEF,1
+Africa,Sub-Saharan Africa,Angola,Luanda,FAO,9
+Africa,Sub-Saharan Africa,Angola,Luanda,ICAO,1
+Africa,Sub-Saharan Africa,Angola,Luanda,IFAD,1
+Africa,Sub-Saharan Africa,Angola,Luanda,ILO,2
+Africa,Sub-Saharan Africa,Angola,Luanda,UN,13
+Africa,Sub-Saharan Africa,Angola,Luanda,UNAIDS,6
+Africa,Sub-Saharan Africa,Angola,Luanda,UNDP,27
+Africa,Sub-Saharan Africa,Angola,Luanda,UNESCO,3
+Africa,Sub-Saharan Africa,Angola,Luanda,UNFPA,13
+Africa,Sub-Saharan Africa,Angola,Luanda,UNHCR,17
+Africa,Sub-Saharan Africa,Angola,Luanda,UNICEF,51
+Africa,Sub-Saharan Africa,Angola,Luanda,WFP,2
+Africa,Sub-Saharan Africa,Angola,Luanda,WHO,43
+Africa,Sub-Saharan Africa,Angola,Lubango,UNICEF,2
+Africa,Sub-Saharan Africa,Angola,Uige,UNICEF,2
+Africa,Sub-Saharan Africa,Benin,Cotonou,FAO,7
+Africa,Sub-Saharan Africa,Benin,Cotonou,IOM,5
+Africa,Sub-Saharan Africa,Benin,Cotonou,UN,8
+Africa,Sub-Saharan Africa,Benin,Cotonou,UNAIDS,5
+Africa,Sub-Saharan Africa,Benin,Cotonou,UNDP,38
+Africa,Sub-Saharan Africa,Benin,Cotonou,UNESCO,1
+Africa,Sub-Saharan Africa,Benin,Cotonou,UNFPA,26
+Africa,Sub-Saharan Africa,Benin,Cotonou,UNHCR,1
+Africa,Sub-Saharan Africa,Benin,Cotonou,UNICEF,67
+Africa,Sub-Saharan Africa,Benin,Cotonou,UPU,1
+Africa,Sub-Saharan Africa,Benin,Cotonou,WFP,28
+Africa,Sub-Saharan Africa,Benin,Cotonou,WHO,27
+Africa,Sub-Saharan Africa,Benin,Other,WFP,1
+Africa,Sub-Saharan Africa,Benin,Parakou,UNICEF,11
+Africa,Sub-Saharan Africa,Botswana,Dukwi,UNHCR,1
+Africa,Sub-Saharan Africa,Botswana,Gaborone,FAO,4
+Africa,Sub-Saharan Africa,Botswana,Gaborone,UN,10
+Africa,Sub-Saharan Africa,Botswana,Gaborone,UNAIDS,6
+Africa,Sub-Saharan Africa,Botswana,Gaborone,UNDP,19
+Africa,Sub-Saharan Africa,Botswana,Gaborone,UNESCO,1
+Africa,Sub-Saharan Africa,Botswana,Gaborone,UNFPA,7
+Africa,Sub-Saharan Africa,Botswana,Gaborone,UNICEF,22
+Africa,Sub-Saharan Africa,Botswana,Gaborone,WHO,13
+Africa,Sub-Saharan Africa,Burkina Faso,Bobo-Dioulasso,UNDP,1
+Africa,Sub-Saharan Africa,Burkina Faso,Bobo-Dioulasso,UNHCR,9
+Africa,Sub-Saharan Africa,Burkina Faso,Djibo,UNDP,1
+Africa,Sub-Saharan Africa,Burkina Faso,Dori,UN,3
+Africa,Sub-Saharan Africa,Burkina Faso,Dori,UNDP,1
+Africa,Sub-Saharan Africa,Burkina Faso,Dori,UNHCR,27
+Africa,Sub-Saharan Africa,Burkina Faso,Dori,UNICEF,13
+Africa,Sub-Saharan Africa,Burkina Faso,Dori,WFP,3
+Africa,Sub-Saharan Africa,Burkina Faso,Fada Ngourma,UNHCR,2
+Africa,Sub-Saharan Africa,Burkina Faso,Fada Ngourma,UNICEF,9
+Africa,Sub-Saharan Africa,Burkina Faso,Kaya,UN,2
+Africa,Sub-Saharan Africa,Burkina Faso,Kaya,UNHCR,29
+Africa,Sub-Saharan Africa,Burkina Faso,Kaya,UNICEF,2
+Africa,Sub-Saharan Africa,Burkina Faso,Kaya,WFP,1
+Africa,Sub-Saharan Africa,Burkina Faso,Other,WFP,2
+Africa,Sub-Saharan Africa,Burkina Faso,Ouagadougou,FAO,11
+Africa,Sub-Saharan Africa,Burkina Faso,Ouagadougou,IFAD,2
+Africa,Sub-Saharan Africa,Burkina Faso,Ouagadougou,ILO,7
+Africa,Sub-Saharan Africa,Burkina Faso,Ouagadougou,IOM,10
+Africa,Sub-Saharan Africa,Burkina Faso,Ouagadougou,ITC,1
+Africa,Sub-Saharan Africa,Burkina Faso,Ouagadougou,UN,40
+Africa,Sub-Saharan Africa,Burkina Faso,Ouagadougou,UNAIDS,4
+Africa,Sub-Saharan Africa,Burkina Faso,Ouagadougou,UNDP,44
+Africa,Sub-Saharan Africa,Burkina Faso,Ouagadougou,UNESCO,2
+Africa,Sub-Saharan Africa,Burkina Faso,Ouagadougou,UNFPA,25
+Africa,Sub-Saharan Africa,Burkina Faso,Ouagadougou,UNHCR,63
+Africa,Sub-Saharan Africa,Burkina Faso,Ouagadougou,UNICEF,100
+Africa,Sub-Saharan Africa,Burkina Faso,Ouagadougou,WFP,74
+Africa,Sub-Saharan Africa,Burkina Faso,Ouagadougou,WHO,79
+Africa,Sub-Saharan Africa,Burkina Faso,Ouahigouya,UN,2
+Africa,Sub-Saharan Africa,Burkina Faso,Ouahigouya,UNDP,1
+Africa,Sub-Saharan Africa,Burkina Faso,Ouahigouya,UNHCR,11
+Africa,Sub-Saharan Africa,Burkina Faso,Tenkodogo,IOM,2
+Africa,Sub-Saharan Africa,Burundi,Bujumbura,FAO,7
+Africa,Sub-Saharan Africa,Burundi,Bujumbura,IFAD,1
+Africa,Sub-Saharan Africa,Burundi,Bujumbura,ILO,1
+Africa,Sub-Saharan Africa,Burundi,Bujumbura,IOM,84
+Africa,Sub-Saharan Africa,Burundi,Bujumbura,UN,27
+Africa,Sub-Saharan Africa,Burundi,Bujumbura,UN WOMEN,5
+Africa,Sub-Saharan Africa,Burundi,Bujumbura,UNAIDS,4
+Africa,Sub-Saharan Africa,Burundi,Bujumbura,UNDP,56
+Africa,Sub-Saharan Africa,Burundi,Bujumbura,UNESCO,1
+Africa,Sub-Saharan Africa,Burundi,Bujumbura,UNFPA,22
+Africa,Sub-Saharan Africa,Burundi,Bujumbura,UNHCR,46
+Africa,Sub-Saharan Africa,Burundi,Bujumbura,UNICEF,86
+Africa,Sub-Saharan Africa,Burundi,Bujumbura,WFP,66
+Africa,Sub-Saharan Africa,Burundi,Bujumbura,WHO,31
+Africa,Sub-Saharan Africa,Burundi,Gitega,IOM,2
+Africa,Sub-Saharan Africa,Burundi,Gitega,UNDP,1
+Africa,Sub-Saharan Africa,Burundi,Gitega,WFP,12
+Africa,Sub-Saharan Africa,Burundi,Makamba,UNDP,1
+Africa,Sub-Saharan Africa,Burundi,Makamba,UNHCR,14
+Africa,Sub-Saharan Africa,Burundi,Makamba,UNICEF,2
+Africa,Sub-Saharan Africa,Burundi,Muyinga,IOM,1
+Africa,Sub-Saharan Africa,Burundi,Muyinga,UNHCR,17
+Africa,Sub-Saharan Africa,Burundi,Ngozi,UNDP,1
+Africa,Sub-Saharan Africa,Burundi,Ngozi,UNICEF,1
+Africa,Sub-Saharan Africa,Burundi,Ngozi,WFP,26
+Africa,Sub-Saharan Africa,Burundi,Ruyigi,UNDP,1
+Africa,Sub-Saharan Africa,Burundi,Ruyigi,UNHCR,25
+Africa,Sub-Saharan Africa,Cameroon,Bamenda,ILO,1
+Africa,Sub-Saharan Africa,Cameroon,Bamenda,UN,6
+Africa,Sub-Saharan Africa,Cameroon,Bamenda,UNDP,1
+Africa,Sub-Saharan Africa,Cameroon,Bamenda,UNFPA,2
+Africa,Sub-Saharan Africa,Cameroon,Bamenda,UNHCR,15
+Africa,Sub-Saharan Africa,Cameroon,Bamenda,WFP,4
+Africa,Sub-Saharan Africa,Cameroon,Batouri,UNHCR,16
+Africa,Sub-Saharan Africa,Cameroon,Batouri,WFP,5
+Africa,Sub-Saharan Africa,Cameroon,Bertoua,ILO,6
+Africa,Sub-Saharan Africa,Cameroon,Bertoua,UNHCR,17
+Africa,Sub-Saharan Africa,Cameroon,Bertoua,UNICEF,13
+Africa,Sub-Saharan Africa,Cameroon,Bertoua,WFP,13
+Africa,Sub-Saharan Africa,Cameroon,Buea,UN,6
+Africa,Sub-Saharan Africa,Cameroon,Buea,UNDP,1
+Africa,Sub-Saharan Africa,Cameroon,Buea,UNFPA,2
+Africa,Sub-Saharan Africa,Cameroon,Buea,UNHCR,14
+Africa,Sub-Saharan Africa,Cameroon,Buea,UNICEF,3
+Africa,Sub-Saharan Africa,Cameroon,Buea,WFP,1
+Africa,Sub-Saharan Africa,Cameroon,Djohung,UNHCR,10
+Africa,Sub-Saharan Africa,Cameroon,Douala,UN,2
+Africa,Sub-Saharan Africa,Cameroon,Douala,UNDP,1
+Africa,Sub-Saharan Africa,Cameroon,Douala,UNHCR,14
+Africa,Sub-Saharan Africa,Cameroon,Douala,UNICEF,2
+Africa,Sub-Saharan Africa,Cameroon,Douala,WFP,15
+Africa,Sub-Saharan Africa,Cameroon,Kousseri,UN,1
+Africa,Sub-Saharan Africa,Cameroon,Kousseri,UNHCR,4
+Africa,Sub-Saharan Africa,Cameroon,Kousseri,WFP,4
+Africa,Sub-Saharan Africa,Cameroon,Maroua,ILO,2
+Africa,Sub-Saharan Africa,Cameroon,Maroua,IOM,1
+Africa,Sub-Saharan Africa,Cameroon,Maroua,UN,5
+Africa,Sub-Saharan Africa,Cameroon,Maroua,UNDP,2
+Africa,Sub-Saharan Africa,Cameroon,Maroua,UNFPA,2
+Africa,Sub-Saharan Africa,Cameroon,Maroua,UNHCR,29
+Africa,Sub-Saharan Africa,Cameroon,Maroua,UNICEF,13
+Africa,Sub-Saharan Africa,Cameroon,Maroua,WFP,21
+Africa,Sub-Saharan Africa,Cameroon,Maroua,WHO,2
+Africa,Sub-Saharan Africa,Cameroon,Meiganga,UNHCR,22
+Africa,Sub-Saharan Africa,Cameroon,Meiganga,WFP,5
+Africa,Sub-Saharan Africa,Cameroon,Ngaoundere,WFP,7
+Africa,Sub-Saharan Africa,Cameroon,Touboro,UNHCR,7
+Africa,Sub-Saharan Africa,Cameroon,Yaounde,FAO,9
+Africa,Sub-Saharan Africa,Cameroon,Yaounde,IFAD,10
+Africa,Sub-Saharan Africa,Cameroon,Yaounde,ILO,25
+Africa,Sub-Saharan Africa,Cameroon,Yaounde,IOM,4
+Africa,Sub-Saharan Africa,Cameroon,Yaounde,ITU,3
+Africa,Sub-Saharan Africa,Cameroon,Yaounde,UN,68
+Africa,Sub-Saharan Africa,Cameroon,Yaounde,UN WOMEN,4
+Africa,Sub-Saharan Africa,Cameroon,Yaounde,UNAIDS,5
+Africa,Sub-Saharan Africa,Cameroon,Yaounde,UNDP,42
+Africa,Sub-Saharan Africa,Cameroon,Yaounde,UNESCO,20
+Africa,Sub-Saharan Africa,Cameroon,Yaounde,UNFPA,22
+Africa,Sub-Saharan Africa,Cameroon,Yaounde,UNHCR,58
+Africa,Sub-Saharan Africa,Cameroon,Yaounde,UNICEF,83
+Africa,Sub-Saharan Africa,Cameroon,Yaounde,UNIDO,3
+Africa,Sub-Saharan Africa,Cameroon,Yaounde,WFP,53
+Africa,Sub-Saharan Africa,Cameroon,Yaounde,WHO,24
+Africa,Sub-Saharan Africa,Cape Verde,Praia,FAO,4
+Africa,Sub-Saharan Africa,Cape Verde,Praia,ILO,4
+Africa,Sub-Saharan Africa,Cape Verde,Praia,IOM,1
+Africa,Sub-Saharan Africa,Cape Verde,Praia,UN,7
+Africa,Sub-Saharan Africa,Cape Verde,Praia,UNDP,34
+Africa,Sub-Saharan Africa,Cape Verde,Praia,WHO,9
+Africa,Sub-Saharan Africa,Central African Republic,Bambari,UN,50
+Africa,Sub-Saharan Africa,Central African Republic,Bambari,UNDP,1
+Africa,Sub-Saharan Africa,Central African Republic,Bambari,UNHCR,11
+Africa,Sub-Saharan Africa,Central African Republic,Bambari,UNICEF,11
+Africa,Sub-Saharan Africa,Central African Republic,Bambari,WFP,7
+Africa,Sub-Saharan Africa,Central African Republic,Bambari,WHO,1
+Africa,Sub-Saharan Africa,Central African Republic,Bangassou,UN,26
+Africa,Sub-Saharan Africa,Central African Republic,Bangassou,UNHCR,1
+Africa,Sub-Saharan Africa,Central African Republic,Bangassou,WFP,1
+Africa,Sub-Saharan Africa,Central African Republic,Bangui,FAO,7
+Africa,Sub-Saharan Africa,Central African Republic,Bangui,IOM,2
+Africa,Sub-Saharan Africa,Central African Republic,Bangui,ITC,1
+Africa,Sub-Saharan Africa,Central African Republic,Bangui,UN,926
+Africa,Sub-Saharan Africa,Central African Republic,Bangui,UN WOMEN,1
+Africa,Sub-Saharan Africa,Central African Republic,Bangui,UNAIDS,4
+Africa,Sub-Saharan Africa,Central African Republic,Bangui,UNDP,78
+Africa,Sub-Saharan Africa,Central African Republic,Bangui,UNFPA,19
+Africa,Sub-Saharan Africa,Central African Republic,Bangui,UNHCR,59
+Africa,Sub-Saharan Africa,Central African Republic,Bangui,UNICEF,89
+Africa,Sub-Saharan Africa,Central African Republic,Bangui,UNOPS,2
+Africa,Sub-Saharan Africa,Central African Republic,Bangui,WFP,74
+Africa,Sub-Saharan Africa,Central African Republic,Bangui,WHO,35
+Africa,Sub-Saharan Africa,Central African Republic,Berberati,UN,27
+Africa,Sub-Saharan Africa,Central African Republic,Berberati,UNHCR,8
+Africa,Sub-Saharan Africa,Central African Republic,Birao,UN,14
+Africa,Sub-Saharan Africa,Central African Republic,Bossangoa,UN,37
+Africa,Sub-Saharan Africa,Central African Republic,Bossangoa,UNICEF,12
+Africa,Sub-Saharan Africa,Central African Republic,Bossangoa,WFP,3
+Africa,Sub-Saharan Africa,Central African Republic,Bouar,UN,64
+Africa,Sub-Saharan Africa,Central African Republic,Bouar,UNHCR,16
+Africa,Sub-Saharan Africa,Central African Republic,Bouar,UNICEF,10
+Africa,Sub-Saharan Africa,Central African Republic,Bouar,WFP,2
+Africa,Sub-Saharan Africa,Central African Republic,Bozoum,UN,1
+Africa,Sub-Saharan Africa,Central African Republic,Bria,UN,47
+Africa,Sub-Saharan Africa,Central African Republic,Bria,UNDP,1
+Africa,Sub-Saharan Africa,Central African Republic,Bria,UNHCR,1
+Africa,Sub-Saharan Africa,Central African Republic,Bria,WFP,1
+Africa,Sub-Saharan Africa,Central African Republic,Kaga Bandoro,UN,67
+Africa,Sub-Saharan Africa,Central African Republic,Kaga Bandoro,UNDP,2
+Africa,Sub-Saharan Africa,Central African Republic,Kaga Bandoro,UNHCR,10
+Africa,Sub-Saharan Africa,Central African Republic,Kaga Bandoro,UNICEF,10
+Africa,Sub-Saharan Africa,Central African Republic,Kaga Bandoro,WFP,6
+Africa,Sub-Saharan Africa,Central African Republic,Mboki,UN,2
+Africa,Sub-Saharan Africa,Central African Republic,Ndele,UN,19
+Africa,Sub-Saharan Africa,Central African Republic,Ndele,UNDP,2
+Africa,Sub-Saharan Africa,Central African Republic,Obo,UN,19
+Africa,Sub-Saharan Africa,Central African Republic,Obo,UNHCR,6
+Africa,Sub-Saharan Africa,Central African Republic,Paoua,UN,24
+Africa,Sub-Saharan Africa,Central African Republic,Paoua,UNHCR,11
+Africa,Sub-Saharan Africa,Central African Republic,Paoua,WFP,5
+Africa,Sub-Saharan Africa,Chad,Abeche,UN,5
+Africa,Sub-Saharan Africa,Chad,Abeche,UNFPA,4
+Africa,Sub-Saharan Africa,Chad,Abeche,UNHCR,6
+Africa,Sub-Saharan Africa,Chad,Abeche,UNICEF,14
+Africa,Sub-Saharan Africa,Chad,Abeche,WFP,19
+Africa,Sub-Saharan Africa,Chad,Abeche,WHO,2
+Africa,Sub-Saharan Africa,Chad,Amdjarass,UNHCR,12
+Africa,Sub-Saharan Africa,Chad,Ati,WFP,3
+Africa,Sub-Saharan Africa,Chad,Baga Sola,UN,3
+Africa,Sub-Saharan Africa,Chad,Baga Sola,UNHCR,16
+Africa,Sub-Saharan Africa,Chad,Baga Sola,WFP,9
+Africa,Sub-Saharan Africa,Chad,Bol,UNDP,2
+Africa,Sub-Saharan Africa,Chad,Bol,UNICEF,11
+Africa,Sub-Saharan Africa,Chad,Bol,WFP,9
+Africa,Sub-Saharan Africa,Chad,Bol,WHO,1
+Africa,Sub-Saharan Africa,Chad,Farchana,UN,1
+Africa,Sub-Saharan Africa,Chad,Farchana,UNHCR,31
+Africa,Sub-Saharan Africa,Chad,Farchana,WFP,7
+Africa,Sub-Saharan Africa,Chad,Gore,UN,1
+Africa,Sub-Saharan Africa,Chad,Gore,UNHCR,37
+Africa,Sub-Saharan Africa,Chad,Gore,WFP,5
+Africa,Sub-Saharan Africa,Chad,Goz Beida,UN,2
+Africa,Sub-Saharan Africa,Chad,Goz Beida,UNHCR,20
+Africa,Sub-Saharan Africa,Chad,Goz Beida,WFP,4
+Africa,Sub-Saharan Africa,Chad,Guereda,UNHCR,16
+Africa,Sub-Saharan Africa,Chad,Guereda,WFP,2
+Africa,Sub-Saharan Africa,Chad,Haraze,UNHCR,7
+Africa,Sub-Saharan Africa,Chad,Iriba,UNHCR,27
+Africa,Sub-Saharan Africa,Chad,Iriba,WFP,5
+Africa,Sub-Saharan Africa,Chad,Koukou,UN,2
+Africa,Sub-Saharan Africa,Chad,Mao,WFP,5
+Africa,Sub-Saharan Africa,Chad,Maro,UNHCR,12
+Africa,Sub-Saharan Africa,Chad,Moissala,UNHCR,9
+Africa,Sub-Saharan Africa,Chad,Mongo,UNICEF,10
+Africa,Sub-Saharan Africa,Chad,Mongo,WFP,11
+Africa,Sub-Saharan Africa,Chad,Moundou,UNICEF,16
+Africa,Sub-Saharan Africa,Chad,Moundou,WFP,1
+Africa,Sub-Saharan Africa,Chad,Moussoro,IOM,1
+Africa,Sub-Saharan Africa,Chad,Moussoro,WFP,2
+Africa,Sub-Saharan Africa,Chad,Ndjamena,FAO,10
+Africa,Sub-Saharan Africa,Chad,Ndjamena,IOM,9
+Africa,Sub-Saharan Africa,Chad,Ndjamena,UN,44
+Africa,Sub-Saharan Africa,Chad,Ndjamena,UNAIDS,4
+Africa,Sub-Saharan Africa,Chad,Ndjamena,UNDP,60
+Africa,Sub-Saharan Africa,Chad,Ndjamena,UNESCO,3
+Africa,Sub-Saharan Africa,Chad,Ndjamena,UNFPA,24
+Africa,Sub-Saharan Africa,Chad,Ndjamena,UNHCR,75
+Africa,Sub-Saharan Africa,Chad,Ndjamena,UNICEF,121
+Africa,Sub-Saharan Africa,Chad,Ndjamena,WFP,105
+Africa,Sub-Saharan Africa,Chad,Ndjamena,WHO,50
+Africa,Sub-Saharan Africa,Chad,Other,UNDP,1
+Africa,Sub-Saharan Africa,Comoros,Moroni,FAO,1
+Africa,Sub-Saharan Africa,Comoros,Moroni,UN,8
+Africa,Sub-Saharan Africa,Comoros,Moroni,UNDP,30
+Africa,Sub-Saharan Africa,Comoros,Moroni,UNFPA,10
+Africa,Sub-Saharan Africa,Comoros,Moroni,UNICEF,26
+Africa,Sub-Saharan Africa,Comoros,Moroni,WHO,15
+Africa,Sub-Saharan Africa,Congo,Betou,UNHCR,14
+Africa,Sub-Saharan Africa,Congo,Brazzaville,FAO,6
+Africa,Sub-Saharan Africa,Congo,Brazzaville,UN,8
+Africa,Sub-Saharan Africa,Congo,Brazzaville,UNAIDS,3
+Africa,Sub-Saharan Africa,Congo,Brazzaville,UNDP,26
+Africa,Sub-Saharan Africa,Congo,Brazzaville,UNESCO,8
+Africa,Sub-Saharan Africa,Congo,Brazzaville,UNFPA,17
+Africa,Sub-Saharan Africa,Congo,Brazzaville,UNHCR,28
+Africa,Sub-Saharan Africa,Congo,Brazzaville,UNICEF,35
+Africa,Sub-Saharan Africa,Congo,Brazzaville,WFP,32
+Africa,Sub-Saharan Africa,Congo,Brazzaville,WHO,485
+Africa,Sub-Saharan Africa,Congo,Gamboma,UNHCR,7
+Africa,Sub-Saharan Africa,Congo,Other,WFP,3
+Africa,Sub-Saharan Africa,Congo,Pointe Noire,UNICEF,1
+Africa,Sub-Saharan Africa,Congo,Pointe Noire,WFP,3
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Aba,UNHCR,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Aru,UN,3
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Aru,UNHCR,19
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Baraka,UN,8
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Baraka,UNHCR,22
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Bendera,UN,3
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Beni,UN,162
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Beni,UNHCR,8
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Beni,UNICEF,2
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Beni,WFP,2
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Bili,UNHCR,6
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Bukavu,IOM,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Bukavu,UN,221
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Bukavu,UNDP,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Bukavu,UNFPA,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Bukavu,UNHCR,14
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Bukavu,UNICEF,23
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Bukavu,WFP,33
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Bukavu,WHO,4
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Bunia,UN,204
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Bunia,UNHCR,7
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Bunia,UNICEF,28
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Bunia,WFP,28
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Butembo,UN,14
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Faradje,UNHCR,11
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Gbadolite,UNHCR,31
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Gbadolite,WFP,9
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Goma,FAO,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Goma,UN,668
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Goma,UN WOMEN,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Goma,UNAIDS,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Goma,UNDP,16
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Goma,UNFPA,11
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Goma,UNHCR,41
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Goma,UNICEF,45
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Goma,UNOPS,2
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Goma,WFP,66
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Goma,WHO,4
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Ituri,UN,13
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kalehe,UN,2
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kalemie,UN,99
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kalemie,UNFPA,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kalemie,UNHCR,25
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kalemie,UNICEF,21
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kalemie,WFP,30
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kananga,UN,17
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kananga,UNDP,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kananga,UNFPA,3
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kananga,UNHCR,23
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kananga,UNICEF,23
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kananga,WFP,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kananga,WHO,3
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kindu,UN,2
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kinshasa,FAO,15
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kinshasa,IFAD,3
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kinshasa,ILO,12
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kinshasa,IOM,7
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kinshasa,UN,753
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kinshasa,UN WOMEN,6
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kinshasa,UNAIDS,10
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kinshasa,UNDP,97
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kinshasa,UNESCO,10
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kinshasa,UNFPA,49
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kinshasa,UNHCR,88
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kinshasa,UNICEF,175
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kinshasa,UNIDO,3
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kinshasa,UNOPS,5
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kinshasa,WFP,117
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kinshasa,WHO,70
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kisangani,UN,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kisangani,UNDP,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kisangani,UNICEF,9
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kisangani,WHO,2
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kitshanga,UN,3
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kiwanja,UN,8
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Kolwezi,ILO,5
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Ligenge,UNHCR,13
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Ligenge,WFP,5
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Lubero,UN,6
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Lubumbashi,IOM,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Lubumbashi,UN,3
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Lubumbashi,UNAIDS,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Lubumbashi,UNFPA,5
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Lubumbashi,UNHCR,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Lubumbashi,UNICEF,27
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Lubumbashi,WFP,11
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Lubumbashi,WHO,2
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Mbandaka,UNICEF,19
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Mbandaka,WFP,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Mbandaka,WHO,2
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Mbuji Mayi,UN,2
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Mbuji Mayi,UNAIDS,2
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Mbuji Mayi,UNICEF,9
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Mbuji Mayi,WHO,2
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Minembwe,UN,4
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Moba,UN,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Monigi,UN,2
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Mwenga,UN,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Nyabiondo,UN,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Nyamilima,UN,2
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Nyanzale,UN,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Rutshuru,UN,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Rwindi,UN,2
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Sake,UN,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Sanga,UN,4
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Shabunda,UN,2
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Tongo,UN,2
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Tshikapa,UN,3
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Tshikapa,UNHCR,14
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Tshikapa,WFP,1
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Uvira,UN,73
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Uvira,UNHCR,6
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Uvira,WFP,4
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Walungu,UN,4
+Africa,Sub-Saharan Africa,Democratic Republic of the Congo,Yakoma,UNHCR,3
+Africa,Sub-Saharan Africa,Djibouti,Ali Sabieh,UNHCR,8
+Africa,Sub-Saharan Africa,Djibouti,Djibouti,FAO,8
+Africa,Sub-Saharan Africa,Djibouti,Djibouti,ILO,2
+Africa,Sub-Saharan Africa,Djibouti,Djibouti,IOM,6
+Africa,Sub-Saharan Africa,Djibouti,Djibouti,UN,10
+Africa,Sub-Saharan Africa,Djibouti,Djibouti,UNAIDS,3
+Africa,Sub-Saharan Africa,Djibouti,Djibouti,UNDP,16
+Africa,Sub-Saharan Africa,Djibouti,Djibouti,UNFPA,7
+Africa,Sub-Saharan Africa,Djibouti,Djibouti,UNHCR,22
+Africa,Sub-Saharan Africa,Djibouti,Djibouti,UNICEF,31
+Africa,Sub-Saharan Africa,Djibouti,Djibouti,UNOPS,6
+Africa,Sub-Saharan Africa,Djibouti,Djibouti,WFP,50
+Africa,Sub-Saharan Africa,Djibouti,Djibouti,WHO,10
+Africa,Sub-Saharan Africa,Djibouti,Obock,UNHCR,5
+Africa,Sub-Saharan Africa,Equatorial Guinea,Bata,FAO,1
+Africa,Sub-Saharan Africa,Equatorial Guinea,Bata,UNICEF,2
+Africa,Sub-Saharan Africa,Equatorial Guinea,Malabo,FAO,4
+Africa,Sub-Saharan Africa,Equatorial Guinea,Malabo,ILO,1
+Africa,Sub-Saharan Africa,Equatorial Guinea,Malabo,UN,10
+Africa,Sub-Saharan Africa,Equatorial Guinea,Malabo,UNAIDS,1
+Africa,Sub-Saharan Africa,Equatorial Guinea,Malabo,UNDP,17
+Africa,Sub-Saharan Africa,Equatorial Guinea,Malabo,UNFPA,8
+Africa,Sub-Saharan Africa,Equatorial Guinea,Malabo,UNICEF,14
+Africa,Sub-Saharan Africa,Equatorial Guinea,Malabo,WHO,9
+Africa,Sub-Saharan Africa,Eritrea,Asmara,FAO,5
+Africa,Sub-Saharan Africa,Eritrea,Asmara,IOM,1
+Africa,Sub-Saharan Africa,Eritrea,Asmara,UN,14
+Africa,Sub-Saharan Africa,Eritrea,Asmara,UNAIDS,2
+Africa,Sub-Saharan Africa,Eritrea,Asmara,UNDP,31
+Africa,Sub-Saharan Africa,Eritrea,Asmara,UNFPA,11
+Africa,Sub-Saharan Africa,Eritrea,Asmara,UNHCR,12
+Africa,Sub-Saharan Africa,Eritrea,Asmara,UNICEF,47
+Africa,Sub-Saharan Africa,Eritrea,Asmara,WFP,4
+Africa,Sub-Saharan Africa,Eritrea,Asmara,WHO,20
+Africa,Sub-Saharan Africa,Ethiopia,Abi-adi,UN,1
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,FAO,40
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,IFAD,7
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,ILO,72
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,IOM,191
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,ITU,9
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,UN,835
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,UN WOMEN,24
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,UNAIDS,16
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,UNDP,176
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,UNESCO,31
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,UNFPA,68
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,UNHCR,116
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,UNICEF,223
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,UNIDO,5
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,UNOPS,2
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,WFP,211
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,WHO,129
+Africa,Sub-Saharan Africa,Ethiopia,Addis Ababa,WMO,9
+Africa,Sub-Saharan Africa,Ethiopia,Adigrat,UN,1
+Africa,Sub-Saharan Africa,Ethiopia,Afar region,UN,1
+Africa,Sub-Saharan Africa,Ethiopia,Afar region,UNFPA,2
+Africa,Sub-Saharan Africa,Ethiopia,Alamata,UNHCR,3
+Africa,Sub-Saharan Africa,Ethiopia,Asaita,UNHCR,3
+Africa,Sub-Saharan Africa,Ethiopia,Asosa,IOM,2
+Africa,Sub-Saharan Africa,Ethiopia,Asosa,UN,2
+Africa,Sub-Saharan Africa,Ethiopia,Asosa,UNICEF,12
+Africa,Sub-Saharan Africa,Ethiopia,Asosa,WFP,7
+Africa,Sub-Saharan Africa,Ethiopia,Assosa,UNHCR,40
+Africa,Sub-Saharan Africa,Ethiopia,Awasa,IOM,1
+Africa,Sub-Saharan Africa,Ethiopia,Awasa,UN,3
+Africa,Sub-Saharan Africa,Ethiopia,Awasa,UNICEF,27
+Africa,Sub-Saharan Africa,Ethiopia,Awasa,WFP,11
+Africa,Sub-Saharan Africa,Ethiopia,Bahir Dar,IOM,1
+Africa,Sub-Saharan Africa,Ethiopia,Bahir Dar,UN,1
+Africa,Sub-Saharan Africa,Ethiopia,Bahir Dar,UNFPA,1
+Africa,Sub-Saharan Africa,Ethiopia,Bahir Dar,UNICEF,24
+Africa,Sub-Saharan Africa,Ethiopia,Bahir Dar,WFP,3
+Africa,Sub-Saharan Africa,Ethiopia,Bambasi,UNHCR,4
+Africa,Sub-Saharan Africa,Ethiopia,Berhale,UNHCR,2
+Africa,Sub-Saharan Africa,Ethiopia,Bule Hora,UN,1
+Africa,Sub-Saharan Africa,Ethiopia,Bule Hora,UNHCR,4
+Africa,Sub-Saharan Africa,Ethiopia,Debark,UNHCR,9
+Africa,Sub-Saharan Africa,Ethiopia,Dessie,UN,2
+Africa,Sub-Saharan Africa,Ethiopia,Dessie,WFP,19
+Africa,Sub-Saharan Africa,Ethiopia,Dimma,UNHCR,7
+Africa,Sub-Saharan Africa,Ethiopia,Dire Dawa,IOM,3
+Africa,Sub-Saharan Africa,Ethiopia,Dire Dawa,UN,4
+Africa,Sub-Saharan Africa,Ethiopia,Dire Dawa,UNHCR,2
+Africa,Sub-Saharan Africa,Ethiopia,Dire Dawa,WFP,39
+Africa,Sub-Saharan Africa,Ethiopia,Dollo Addo,IOM,4
+Africa,Sub-Saharan Africa,Ethiopia,Dollo Addo,UNDP,4
+Africa,Sub-Saharan Africa,Ethiopia,Dollo Addo,UNHCR,64
+Africa,Sub-Saharan Africa,Ethiopia,Dollo Addo,WFP,19
+Africa,Sub-Saharan Africa,Ethiopia,Funyido,UNHCR,22
+Africa,Sub-Saharan Africa,Ethiopia,Gambela,IOM,5
+Africa,Sub-Saharan Africa,Ethiopia,Gambela,UN,4
+Africa,Sub-Saharan Africa,Ethiopia,Gambela,UNDP,5
+Africa,Sub-Saharan Africa,Ethiopia,Gambela,UNFPA,2
+Africa,Sub-Saharan Africa,Ethiopia,Gambela,UNHCR,79
+Africa,Sub-Saharan Africa,Ethiopia,Gambela,UNICEF,21
+Africa,Sub-Saharan Africa,Ethiopia,Gambela,WFP,21
+Africa,Sub-Saharan Africa,Ethiopia,Gambela,WHO,1
+Africa,Sub-Saharan Africa,Ethiopia,Gode,UN,1
+Africa,Sub-Saharan Africa,Ethiopia,Gode,WFP,24
+Africa,Sub-Saharan Africa,Ethiopia,Jijiga,IOM,14
+Africa,Sub-Saharan Africa,Ethiopia,Jijiga,UN,10
+Africa,Sub-Saharan Africa,Ethiopia,Jijiga,UNDP,5
+Africa,Sub-Saharan Africa,Ethiopia,Jijiga,UNFPA,3
+Africa,Sub-Saharan Africa,Ethiopia,Jijiga,UNHCR,28
+Africa,Sub-Saharan Africa,Ethiopia,Jijiga,UNICEF,33
+Africa,Sub-Saharan Africa,Ethiopia,Jijiga,WFP,59
+Africa,Sub-Saharan Africa,Ethiopia,Jijiga,WHO,2
+Africa,Sub-Saharan Africa,Ethiopia,Kebri Dehar,UN,1
+Africa,Sub-Saharan Africa,Ethiopia,Kebri Dehar,WFP,12
+Africa,Sub-Saharan Africa,Ethiopia,Mekele,IOM,3
+Africa,Sub-Saharan Africa,Ethiopia,Mekele,UN,11
+Africa,Sub-Saharan Africa,Ethiopia,Mekele,UNFPA,4
+Africa,Sub-Saharan Africa,Ethiopia,Mekele,UNHCR,34
+Africa,Sub-Saharan Africa,Ethiopia,Mekele,UNICEF,32
+Africa,Sub-Saharan Africa,Ethiopia,Mekele,WFP,24
+Africa,Sub-Saharan Africa,Ethiopia,Mekele,WHO,7
+Africa,Sub-Saharan Africa,Ethiopia,Moyale,IOM,1
+Africa,Sub-Saharan Africa,Ethiopia,Nazareth,UN,2
+Africa,Sub-Saharan Africa,Ethiopia,Nazareth,WFP,64
+Africa,Sub-Saharan Africa,Ethiopia,Nekempt,UNHCR,5
+Africa,Sub-Saharan Africa,Ethiopia,Nekemte,UN,3
+Africa,Sub-Saharan Africa,Ethiopia,Semera,IOM,1
+Africa,Sub-Saharan Africa,Ethiopia,Semera,UN,2
+Africa,Sub-Saharan Africa,Ethiopia,Semera,UNICEF,17
+Africa,Sub-Saharan Africa,Ethiopia,Semera,WFP,19
+Africa,Sub-Saharan Africa,Ethiopia,Sheder,UNHCR,3
+Africa,Sub-Saharan Africa,Ethiopia,Shire,IOM,11
+Africa,Sub-Saharan Africa,Ethiopia,Shire,UN,6
+Africa,Sub-Saharan Africa,Ethiopia,Shire,UNHCR,45
+Africa,Sub-Saharan Africa,Ethiopia,Shire,UNICEF,2
+Africa,Sub-Saharan Africa,Ethiopia,Shire,WFP,2
+Africa,Sub-Saharan Africa,Ethiopia,Tefreber,UNHCR,6
+Africa,Sub-Saharan Africa,Ethiopia,Tongo,UNHCR,8
+Africa,Sub-Saharan Africa,Gabon,Libreville,FAO,17
+Africa,Sub-Saharan Africa,Gabon,Libreville,ILO,3
+Africa,Sub-Saharan Africa,Gabon,Libreville,UN,53
+Africa,Sub-Saharan Africa,Gabon,Libreville,UNAIDS,2
+Africa,Sub-Saharan Africa,Gabon,Libreville,UNDP,9
+Africa,Sub-Saharan Africa,Gabon,Libreville,UNESCO,8
+Africa,Sub-Saharan Africa,Gabon,Libreville,UNFPA,7
+Africa,Sub-Saharan Africa,Gabon,Libreville,UNHCR,3
+Africa,Sub-Saharan Africa,Gabon,Libreville,UNICEF,19
+Africa,Sub-Saharan Africa,Gabon,Libreville,WHO,55
+Africa,Sub-Saharan Africa,Gambia,Banjul,FAO,6
+Africa,Sub-Saharan Africa,Gambia,Banjul,IOM,13
+Africa,Sub-Saharan Africa,Gambia,Banjul,ITC,1
+Africa,Sub-Saharan Africa,Gambia,Banjul,UN,10
+Africa,Sub-Saharan Africa,Gambia,Banjul,UNAIDS,3
+Africa,Sub-Saharan Africa,Gambia,Banjul,UNDP,39
+Africa,Sub-Saharan Africa,Gambia,Banjul,UNFPA,13
+Africa,Sub-Saharan Africa,Gambia,Banjul,UNICEF,36
+Africa,Sub-Saharan Africa,Gambia,Banjul,WFP,28
+Africa,Sub-Saharan Africa,Gambia,Banjul,WHO,18
+Africa,Sub-Saharan Africa,Ghana,Accra,FAO,83
+Africa,Sub-Saharan Africa,Ghana,Accra,IFAD,5
+Africa,Sub-Saharan Africa,Ghana,Accra,ILO,7
+Africa,Sub-Saharan Africa,Ghana,Accra,IMO,1
+Africa,Sub-Saharan Africa,Ghana,Accra,IOM,69
+Africa,Sub-Saharan Africa,Ghana,Accra,UN,18
+Africa,Sub-Saharan Africa,Ghana,Accra,UNAIDS,5
+Africa,Sub-Saharan Africa,Ghana,Accra,UNDP,41
+Africa,Sub-Saharan Africa,Ghana,Accra,UNESCO,15
+Africa,Sub-Saharan Africa,Ghana,Accra,UNFPA,26
+Africa,Sub-Saharan Africa,Ghana,Accra,UNHCR,23
+Africa,Sub-Saharan Africa,Ghana,Accra,UNICEF,77
+Africa,Sub-Saharan Africa,Ghana,Accra,UNIDO,3
+Africa,Sub-Saharan Africa,Ghana,Accra,UNOPS,2
+Africa,Sub-Saharan Africa,Ghana,Accra,UNU,1
+Africa,Sub-Saharan Africa,Ghana,Accra,WFP,40
+Africa,Sub-Saharan Africa,Ghana,Accra,WHO,36
+Africa,Sub-Saharan Africa,Ghana,Takoradi,UNHCR,9
+Africa,Sub-Saharan Africa,Ghana,Tamale,UNDP,2
+Africa,Sub-Saharan Africa,Ghana,Tamale,UNFPA,5
+Africa,Sub-Saharan Africa,Ghana,Tamale,UNICEF,18
+Africa,Sub-Saharan Africa,Ghana,Tamale,WFP,6
+Africa,Sub-Saharan Africa,Guinea,Boke,WFP,2
+Africa,Sub-Saharan Africa,Guinea,Conakry,FAO,6
+Africa,Sub-Saharan Africa,Guinea,Conakry,IFAD,1
+Africa,Sub-Saharan Africa,Guinea,Conakry,IOM,22
+Africa,Sub-Saharan Africa,Guinea,Conakry,UN,31
+Africa,Sub-Saharan Africa,Guinea,Conakry,UNAIDS,4
+Africa,Sub-Saharan Africa,Guinea,Conakry,UNDP,52
+Africa,Sub-Saharan Africa,Guinea,Conakry,UNFPA,25
+Africa,Sub-Saharan Africa,Guinea,Conakry,UNHCR,9
+Africa,Sub-Saharan Africa,Guinea,Conakry,UNICEF,72
+Africa,Sub-Saharan Africa,Guinea,Conakry,UNIDO,2
+Africa,Sub-Saharan Africa,Guinea,Conakry,WFP,55
+Africa,Sub-Saharan Africa,Guinea,Conakry,WHO,36
+Africa,Sub-Saharan Africa,Guinea,Gueckedou,WFP,1
+Africa,Sub-Saharan Africa,Guinea,Kankan,UNFPA,1
+Africa,Sub-Saharan Africa,Guinea,Kankan,UNICEF,12
+Africa,Sub-Saharan Africa,Guinea,Kankan,WFP,1
+Africa,Sub-Saharan Africa,Guinea,Labe,UNDP,1
+Africa,Sub-Saharan Africa,Guinea,Labe,UNICEF,12
+Africa,Sub-Saharan Africa,Guinea,Labe,WFP,2
+Africa,Sub-Saharan Africa,Guinea,Mamou,UNDP,1
+Africa,Sub-Saharan Africa,Guinea,Nzerekore,UNICEF,11
+Africa,Sub-Saharan Africa,Guinea,Nzerekore,WFP,4
+Africa,Sub-Saharan Africa,Guinea-Bissau,Bissau,FAO,4
+Africa,Sub-Saharan Africa,Guinea-Bissau,Bissau,IOM,1
+Africa,Sub-Saharan Africa,Guinea-Bissau,Bissau,UN,9
+Africa,Sub-Saharan Africa,Guinea-Bissau,Bissau,UNDP,40
+Africa,Sub-Saharan Africa,Guinea-Bissau,Bissau,UNFPA,12
+Africa,Sub-Saharan Africa,Guinea-Bissau,Bissau,UNHCR,6
+Africa,Sub-Saharan Africa,Guinea-Bissau,Bissau,UNICEF,41
+Africa,Sub-Saharan Africa,Guinea-Bissau,Bissau,WFP,31
+Africa,Sub-Saharan Africa,Guinea-Bissau,Bissau,WHO,11
+Africa,Sub-Saharan Africa,Ivory Coast,Abidjan,FAO,10
+Africa,Sub-Saharan Africa,Ivory Coast,Abidjan,IFAD,13
+Africa,Sub-Saharan Africa,Ivory Coast,Abidjan,ILO,60
+Africa,Sub-Saharan Africa,Ivory Coast,Abidjan,IOM,16
+Africa,Sub-Saharan Africa,Ivory Coast,Abidjan,UN,15
+Africa,Sub-Saharan Africa,Ivory Coast,Abidjan,UN WOMEN,5
+Africa,Sub-Saharan Africa,Ivory Coast,Abidjan,UNAIDS,9
+Africa,Sub-Saharan Africa,Ivory Coast,Abidjan,UNDP,40
+Africa,Sub-Saharan Africa,Ivory Coast,Abidjan,UNESCO,12
+Africa,Sub-Saharan Africa,Ivory Coast,Abidjan,UNFPA,24
+Africa,Sub-Saharan Africa,Ivory Coast,Abidjan,UNHCR,32
+Africa,Sub-Saharan Africa,Ivory Coast,Abidjan,UNICEF,89
+Africa,Sub-Saharan Africa,Ivory Coast,Abidjan,UNIDO,4
+Africa,Sub-Saharan Africa,Ivory Coast,Abidjan,WFP,35
+Africa,Sub-Saharan Africa,Ivory Coast,Abidjan,WHO,36
+Africa,Sub-Saharan Africa,Ivory Coast,Bondoukou,UNFPA,1
+Africa,Sub-Saharan Africa,Ivory Coast,Bouake,UNFPA,4
+Africa,Sub-Saharan Africa,Ivory Coast,Bouake,WFP,1
+Africa,Sub-Saharan Africa,Ivory Coast,Guiglo,UNFPA,4
+Africa,Sub-Saharan Africa,Ivory Coast,Guiglo,UNHCR,11
+Africa,Sub-Saharan Africa,Ivory Coast,Korhogo,UNICEF,6
+Africa,Sub-Saharan Africa,Ivory Coast,Man,UNICEF,13
+Africa,Sub-Saharan Africa,Ivory Coast,Yamoussoukro,UNFPA,1
+Africa,Sub-Saharan Africa,Kenya,Dadaab,IOM,2
+Africa,Sub-Saharan Africa,Kenya,Dadaab,UN,2
+Africa,Sub-Saharan Africa,Kenya,Dadaab,UNHCR,95
+Africa,Sub-Saharan Africa,Kenya,Dadaab,UNICEF,3
+Africa,Sub-Saharan Africa,Kenya,Dadaab,WFP,5
+Africa,Sub-Saharan Africa,Kenya,Garissa,UNHCR,3
+Africa,Sub-Saharan Africa,Kenya,Garissa,UNICEF,16
+Africa,Sub-Saharan Africa,Kenya,Garissa,WFP,4
+Africa,Sub-Saharan Africa,Kenya,Garissa,WHO,2
+Africa,Sub-Saharan Africa,Kenya,Kakuma,IOM,12
+Africa,Sub-Saharan Africa,Kenya,Kakuma,UN,4
+Africa,Sub-Saharan Africa,Kenya,Kakuma,UNHCR,89
+Africa,Sub-Saharan Africa,Kenya,Kakuma,WFP,6
+Africa,Sub-Saharan Africa,Kenya,Kisumu,UNICEF,12
+Africa,Sub-Saharan Africa,Kenya,Lodwar,UNDP,1
+Africa,Sub-Saharan Africa,Kenya,Lodwar,UNICEF,12
+Africa,Sub-Saharan Africa,Kenya,Lodwar,WFP,7
+Africa,Sub-Saharan Africa,Kenya,Mandera,WFP,1
+Africa,Sub-Saharan Africa,Kenya,Marsabit,WFP,3
+Africa,Sub-Saharan Africa,Kenya,Mombasa,IOM,2
+Africa,Sub-Saharan Africa,Kenya,Mombasa,UN,17
+Africa,Sub-Saharan Africa,Kenya,Mombasa,WFP,29
+Africa,Sub-Saharan Africa,Kenya,Nairobi,FAO,32
+Africa,Sub-Saharan Africa,Kenya,Nairobi,ICAO,24
+Africa,Sub-Saharan Africa,Kenya,Nairobi,IFAD,25
+Africa,Sub-Saharan Africa,Kenya,Nairobi,ILO,35
+Africa,Sub-Saharan Africa,Kenya,Nairobi,IMO,3
+Africa,Sub-Saharan Africa,Kenya,Nairobi,IOM,263
+Africa,Sub-Saharan Africa,Kenya,Nairobi,UN,1 896
+Africa,Sub-Saharan Africa,Kenya,Nairobi,UN WOMEN,34
+Africa,Sub-Saharan Africa,Kenya,Nairobi,UNAIDS,18
+Africa,Sub-Saharan Africa,Kenya,Nairobi,UNDP,101
+Africa,Sub-Saharan Africa,Kenya,Nairobi,UNESCO,26
+Africa,Sub-Saharan Africa,Kenya,Nairobi,UNFPA,36
+Africa,Sub-Saharan Africa,Kenya,Nairobi,UNHCR,272
+Africa,Sub-Saharan Africa,Kenya,Nairobi,UNICEF,280
+Africa,Sub-Saharan Africa,Kenya,Nairobi,UNIDO,4
+Africa,Sub-Saharan Africa,Kenya,Nairobi,UNJSPF,1
+Africa,Sub-Saharan Africa,Kenya,Nairobi,UNOPS,12
+Africa,Sub-Saharan Africa,Kenya,Nairobi,WFP,341
+Africa,Sub-Saharan Africa,Kenya,Nairobi,WHO,73
+Africa,Sub-Saharan Africa,Kenya,Nairobi,WMO,6
+Africa,Sub-Saharan Africa,Kenya,Wajir,UN,1
+Africa,Sub-Saharan Africa,Kenya,Wajir,WFP,1
+Africa,Sub-Saharan Africa,Lesotho,Maseru,FAO,6
+Africa,Sub-Saharan Africa,Lesotho,Maseru,IOM,2
+Africa,Sub-Saharan Africa,Lesotho,Maseru,UN,9
+Africa,Sub-Saharan Africa,Lesotho,Maseru,UNAIDS,5
+Africa,Sub-Saharan Africa,Lesotho,Maseru,UNDP,31
+Africa,Sub-Saharan Africa,Lesotho,Maseru,UNESCO,1
+Africa,Sub-Saharan Africa,Lesotho,Maseru,UNFPA,14
+Africa,Sub-Saharan Africa,Lesotho,Maseru,UNICEF,27
+Africa,Sub-Saharan Africa,Lesotho,Maseru,WFP,31
+Africa,Sub-Saharan Africa,Lesotho,Maseru,WHO,15
+Africa,Sub-Saharan Africa,Liberia,Harper,WFP,9
+Africa,Sub-Saharan Africa,Liberia,Monrovia,FAO,7
+Africa,Sub-Saharan Africa,Liberia,Monrovia,ILO,3
+Africa,Sub-Saharan Africa,Liberia,Monrovia,IOM,2
+Africa,Sub-Saharan Africa,Liberia,Monrovia,UN,19
+Africa,Sub-Saharan Africa,Liberia,Monrovia,UN WOMEN,11
+Africa,Sub-Saharan Africa,Liberia,Monrovia,UNAIDS,3
+Africa,Sub-Saharan Africa,Liberia,Monrovia,UNDP,50
+Africa,Sub-Saharan Africa,Liberia,Monrovia,UNFPA,20
+Africa,Sub-Saharan Africa,Liberia,Monrovia,UNHCR,24
+Africa,Sub-Saharan Africa,Liberia,Monrovia,UNICEF,65
+Africa,Sub-Saharan Africa,Liberia,Monrovia,WFP,40
+Africa,Sub-Saharan Africa,Liberia,Monrovia,WHO,24
+Africa,Sub-Saharan Africa,Liberia,Other,WFP,2
+Africa,Sub-Saharan Africa,Liberia,Zwedru,UNHCR,14
+Africa,Sub-Saharan Africa,Madagascar,Ambositra,UNICEF,2
+Africa,Sub-Saharan Africa,Madagascar,Ambovombe,UNDP,1
+Africa,Sub-Saharan Africa,Madagascar,Ambovombe,UNICEF,6
+Africa,Sub-Saharan Africa,Madagascar,Ambovombe,WFP,4
+Africa,Sub-Saharan Africa,Madagascar,Antananarivo,FAO,14
+Africa,Sub-Saharan Africa,Madagascar,Antananarivo,IFAD,2
+Africa,Sub-Saharan Africa,Madagascar,Antananarivo,ILO,33
+Africa,Sub-Saharan Africa,Madagascar,Antananarivo,UN,17
+Africa,Sub-Saharan Africa,Madagascar,Antananarivo,UNAIDS,4
+Africa,Sub-Saharan Africa,Madagascar,Antananarivo,UNDP,46
+Africa,Sub-Saharan Africa,Madagascar,Antananarivo,UNESCO,3
+Africa,Sub-Saharan Africa,Madagascar,Antananarivo,UNFPA,35
+Africa,Sub-Saharan Africa,Madagascar,Antananarivo,UNICEF,114
+Africa,Sub-Saharan Africa,Madagascar,Antananarivo,UNIDO,3
+Africa,Sub-Saharan Africa,Madagascar,Antananarivo,WFP,74
+Africa,Sub-Saharan Africa,Madagascar,Antananarivo,WHO,29
+Africa,Sub-Saharan Africa,Madagascar,Antsirabe,UNICEF,3
+Africa,Sub-Saharan Africa,Madagascar,Diego-Suarez,UNICEF,1
+Africa,Sub-Saharan Africa,Madagascar,Farafangana,UNICEF,4
+Africa,Sub-Saharan Africa,Madagascar,Fenerive-Est,UNICEF,3
+Africa,Sub-Saharan Africa,Madagascar,Fianarantsoa,UNICEF,2
+Africa,Sub-Saharan Africa,Madagascar,Fort Dauphin,UNICEF,7
+Africa,Sub-Saharan Africa,Madagascar,Majunga,UNHCR,1
+Africa,Sub-Saharan Africa,Madagascar,Majunga,UNICEF,5
+Africa,Sub-Saharan Africa,Madagascar,Manakara,UNICEF,2
+Africa,Sub-Saharan Africa,Madagascar,Manakara,WFP,2
+Africa,Sub-Saharan Africa,Madagascar,Miarinarivo,UNICEF,1
+Africa,Sub-Saharan Africa,Madagascar,Nosy-Be,UNICEF,1
+Africa,Sub-Saharan Africa,Madagascar,Sambava,ILO,2
+Africa,Sub-Saharan Africa,Madagascar,Sambava,UNICEF,1
+Africa,Sub-Saharan Africa,Madagascar,Tamatave,WFP,2
+Africa,Sub-Saharan Africa,Madagascar,Tomasina,UNICEF,3
+Africa,Sub-Saharan Africa,Madagascar,Tulear/Toliara,UNFPA,3
+Africa,Sub-Saharan Africa,Madagascar,Tulear/Toliara,UNICEF,6
+Africa,Sub-Saharan Africa,Madagascar,Tulear/Toliara,WFP,3
+Africa,Sub-Saharan Africa,Malawi,Blantyre,WFP,14
+Africa,Sub-Saharan Africa,Malawi,Karonga,UNHCR,1
+Africa,Sub-Saharan Africa,Malawi,Lilongwe,FAO,14
+Africa,Sub-Saharan Africa,Malawi,Lilongwe,ILO,11
+Africa,Sub-Saharan Africa,Malawi,Lilongwe,IOM,1
+Africa,Sub-Saharan Africa,Malawi,Lilongwe,UN,10
+Africa,Sub-Saharan Africa,Malawi,Lilongwe,UN WOMEN,10
+Africa,Sub-Saharan Africa,Malawi,Lilongwe,UNAIDS,6
+Africa,Sub-Saharan Africa,Malawi,Lilongwe,UNDP,66
+Africa,Sub-Saharan Africa,Malawi,Lilongwe,UNESCO,1
+Africa,Sub-Saharan Africa,Malawi,Lilongwe,UNFPA,32
+Africa,Sub-Saharan Africa,Malawi,Lilongwe,UNHCR,24
+Africa,Sub-Saharan Africa,Malawi,Lilongwe,UNICEF,131
+Africa,Sub-Saharan Africa,Malawi,Lilongwe,WFP,97
+Africa,Sub-Saharan Africa,Malawi,Lilongwe,WHO,25
+Africa,Sub-Saharan Africa,Mali,Bamako,FAO,11
+Africa,Sub-Saharan Africa,Mali,Bamako,IFAD,1
+Africa,Sub-Saharan Africa,Mali,Bamako,ILO,9
+Africa,Sub-Saharan Africa,Mali,Bamako,IOM,46
+Africa,Sub-Saharan Africa,Mali,Bamako,UN,978
+Africa,Sub-Saharan Africa,Mali,Bamako,UN WOMEN,19
+Africa,Sub-Saharan Africa,Mali,Bamako,UNAIDS,6
+Africa,Sub-Saharan Africa,Mali,Bamako,UNDP,54
+Africa,Sub-Saharan Africa,Mali,Bamako,UNESCO,11
+Africa,Sub-Saharan Africa,Mali,Bamako,UNFPA,35
+Africa,Sub-Saharan Africa,Mali,Bamako,UNHCR,51
+Africa,Sub-Saharan Africa,Mali,Bamako,UNICEF,122
+Africa,Sub-Saharan Africa,Mali,Bamako,UNIDO,1
+Africa,Sub-Saharan Africa,Mali,Bamako,UNOPS,16
+Africa,Sub-Saharan Africa,Mali,Bamako,WFP,100
+Africa,Sub-Saharan Africa,Mali,Bamako,WHO,27
+Africa,Sub-Saharan Africa,Mali,Gao,IOM,4
+Africa,Sub-Saharan Africa,Mali,Gao,UN,233
+Africa,Sub-Saharan Africa,Mali,Gao,UN WOMEN,2
+Africa,Sub-Saharan Africa,Mali,Gao,UNFPA,2
+Africa,Sub-Saharan Africa,Mali,Gao,UNHCR,17
+Africa,Sub-Saharan Africa,Mali,Gao,UNICEF,15
+Africa,Sub-Saharan Africa,Mali,Gao,UNOPS,4
+Africa,Sub-Saharan Africa,Mali,Gao,WFP,11
+Africa,Sub-Saharan Africa,Mali,Kayes,IOM,6
+Africa,Sub-Saharan Africa,Mali,Kayes,UNICEF,12
+Africa,Sub-Saharan Africa,Mali,Kayes,WFP,4
+Africa,Sub-Saharan Africa,Mali,Kidal,UN,112
+Africa,Sub-Saharan Africa,Mali,Kidal,UNOPS,1
+Africa,Sub-Saharan Africa,Mali,Koulikoro,WFP,3
+Africa,Sub-Saharan Africa,Mali,Menaka,UN,41
+Africa,Sub-Saharan Africa,Mali,Mopti,IOM,2
+Africa,Sub-Saharan Africa,Mali,Mopti,UN,154
+Africa,Sub-Saharan Africa,Mali,Mopti,UN WOMEN,1
+Africa,Sub-Saharan Africa,Mali,Mopti,UNDP,1
+Africa,Sub-Saharan Africa,Mali,Mopti,UNFPA,3
+Africa,Sub-Saharan Africa,Mali,Mopti,UNHCR,11
+Africa,Sub-Saharan Africa,Mali,Mopti,UNICEF,24
+Africa,Sub-Saharan Africa,Mali,Mopti,UNOPS,2
+Africa,Sub-Saharan Africa,Mali,Mopti,WFP,21
+Africa,Sub-Saharan Africa,Mali,Sikasso,UNICEF,14
+Africa,Sub-Saharan Africa,Mali,Tessalit,UN,25
+Africa,Sub-Saharan Africa,Mali,Tomboctou,IOM,3
+Africa,Sub-Saharan Africa,Mali,Tomboctou,UN,166
+Africa,Sub-Saharan Africa,Mali,Tomboctou,UNHCR,12
+Africa,Sub-Saharan Africa,Mali,Tomboctou,UNICEF,11
+Africa,Sub-Saharan Africa,Mali,Tomboctou,WFP,15
+Africa,Sub-Saharan Africa,Mauritania,Bassikounou,ILO,1
+Africa,Sub-Saharan Africa,Mauritania,Bassikounou,UNHCR,39
+Africa,Sub-Saharan Africa,Mauritania,Bassikounou,UNICEF,8
+Africa,Sub-Saharan Africa,Mauritania,Kaedi,WFP,6
+Africa,Sub-Saharan Africa,Mauritania,Kiffa,UNICEF,1
+Africa,Sub-Saharan Africa,Mauritania,Nouadhibou,UNHCR,3
+Africa,Sub-Saharan Africa,Mauritania,Nouakchott,FAO,6
+Africa,Sub-Saharan Africa,Mauritania,Nouakchott,ILO,25
+Africa,Sub-Saharan Africa,Mauritania,Nouakchott,IOM,14
+Africa,Sub-Saharan Africa,Mauritania,Nouakchott,UN,30
+Africa,Sub-Saharan Africa,Mauritania,Nouakchott,UNAIDS,3
+Africa,Sub-Saharan Africa,Mauritania,Nouakchott,UNDP,30
+Africa,Sub-Saharan Africa,Mauritania,Nouakchott,UNESCO,2
+Africa,Sub-Saharan Africa,Mauritania,Nouakchott,UNFPA,19
+Africa,Sub-Saharan Africa,Mauritania,Nouakchott,UNHCR,30
+Africa,Sub-Saharan Africa,Mauritania,Nouakchott,UNICEF,55
+Africa,Sub-Saharan Africa,Mauritania,Nouakchott,WFP,45
+Africa,Sub-Saharan Africa,Mauritania,Nouakchott,WHO,19
+Africa,Sub-Saharan Africa,Mauritania,Other,WFP,11
+Africa,Sub-Saharan Africa,Mauritania,Selibaby,ILO,1
+Africa,Sub-Saharan Africa,Mauritius,Port Louis,ILO,1
+Africa,Sub-Saharan Africa,Mauritius,Port Louis,IOM,3
+Africa,Sub-Saharan Africa,Mauritius,Port Louis,UN,7
+Africa,Sub-Saharan Africa,Mauritius,Port Louis,UNDP,20
+Africa,Sub-Saharan Africa,Mauritius,Port Louis,UNOPS,1
+Africa,Sub-Saharan Africa,Mauritius,Port Louis,WHO,11
+Africa,Sub-Saharan Africa,Mozambique,Beira,UNDP,2
+Africa,Sub-Saharan Africa,Mozambique,Beira,UNICEF,7
+Africa,Sub-Saharan Africa,Mozambique,Beira,WFP,10
+Africa,Sub-Saharan Africa,Mozambique,Maputo,FAO,17
+Africa,Sub-Saharan Africa,Mozambique,Maputo,IFAD,2
+Africa,Sub-Saharan Africa,Mozambique,Maputo,ILO,13
+Africa,Sub-Saharan Africa,Mozambique,Maputo,IOM,19
+Africa,Sub-Saharan Africa,Mozambique,Maputo,UN,20
+Africa,Sub-Saharan Africa,Mozambique,Maputo,UN WOMEN,7
+Africa,Sub-Saharan Africa,Mozambique,Maputo,UNAIDS,7
+Africa,Sub-Saharan Africa,Mozambique,Maputo,UNDP,38
+Africa,Sub-Saharan Africa,Mozambique,Maputo,UNESCO,10
+Africa,Sub-Saharan Africa,Mozambique,Maputo,UNFPA,38
+Africa,Sub-Saharan Africa,Mozambique,Maputo,UNHCR,22
+Africa,Sub-Saharan Africa,Mozambique,Maputo,UNICEF,115
+Africa,Sub-Saharan Africa,Mozambique,Maputo,UNIDO,3
+Africa,Sub-Saharan Africa,Mozambique,Maputo,UNU,4
+Africa,Sub-Saharan Africa,Mozambique,Maputo,WFP,55
+Africa,Sub-Saharan Africa,Mozambique,Maputo,WHO,41
+Africa,Sub-Saharan Africa,Mozambique,Nampula,UNFPA,1
+Africa,Sub-Saharan Africa,Mozambique,Nampula,UNHCR,12
+Africa,Sub-Saharan Africa,Mozambique,Nampula,UNICEF,8
+Africa,Sub-Saharan Africa,Mozambique,Nampula,WFP,2
+Africa,Sub-Saharan Africa,Mozambique,Pemba,IOM,6
+Africa,Sub-Saharan Africa,Mozambique,Pemba,UN,2
+Africa,Sub-Saharan Africa,Mozambique,Pemba,UNDP,4
+Africa,Sub-Saharan Africa,Mozambique,Pemba,UNFPA,2
+Africa,Sub-Saharan Africa,Mozambique,Pemba,UNHCR,17
+Africa,Sub-Saharan Africa,Mozambique,Pemba,UNICEF,7
+Africa,Sub-Saharan Africa,Mozambique,Pemba,WFP,3
+Africa,Sub-Saharan Africa,Mozambique,Quelimane,FAO,1
+Africa,Sub-Saharan Africa,Mozambique,Quelimane,UNICEF,10
+Africa,Sub-Saharan Africa,Mozambique,Sofala,UNFPA,2
+Africa,Sub-Saharan Africa,Mozambique,Tete,UNFPA,1
+Africa,Sub-Saharan Africa,Mozambique,Tete,WFP,7
+Africa,Sub-Saharan Africa,Mozambique,Xai Xai,WFP,2
+Africa,Sub-Saharan Africa,Namibia,Windhoek,FAO,6
+Africa,Sub-Saharan Africa,Namibia,Windhoek,ILO,2
+Africa,Sub-Saharan Africa,Namibia,Windhoek,UN,11
+Africa,Sub-Saharan Africa,Namibia,Windhoek,UNAIDS,6
+Africa,Sub-Saharan Africa,Namibia,Windhoek,UNDP,18
+Africa,Sub-Saharan Africa,Namibia,Windhoek,UNESCO,10
+Africa,Sub-Saharan Africa,Namibia,Windhoek,UNFPA,12
+Africa,Sub-Saharan Africa,Namibia,Windhoek,UNHCR,5
+Africa,Sub-Saharan Africa,Namibia,Windhoek,UNICEF,28
+Africa,Sub-Saharan Africa,Namibia,Windhoek,UNOPS,1
+Africa,Sub-Saharan Africa,Namibia,Windhoek,WFP,4
+Africa,Sub-Saharan Africa,Namibia,Windhoek,WHO,16
+Africa,Sub-Saharan Africa,Niger,Abala,UNHCR,13
+Africa,Sub-Saharan Africa,Niger,Agadez,IOM,22
+Africa,Sub-Saharan Africa,Niger,Agadez,UNHCR,19
+Africa,Sub-Saharan Africa,Niger,Agadez,UNICEF,5
+Africa,Sub-Saharan Africa,Niger,Agadez,WFP,7
+Africa,Sub-Saharan Africa,Niger,Arlit,IOM,8
+Africa,Sub-Saharan Africa,Niger,Diffa,IOM,7
+Africa,Sub-Saharan Africa,Niger,Diffa,UN,5
+Africa,Sub-Saharan Africa,Niger,Diffa,UNDP,1
+Africa,Sub-Saharan Africa,Niger,Diffa,UNHCR,37
+Africa,Sub-Saharan Africa,Niger,Diffa,UNICEF,21
+Africa,Sub-Saharan Africa,Niger,Diffa,WFP,22
+Africa,Sub-Saharan Africa,Niger,Diffa,WHO,2
+Africa,Sub-Saharan Africa,Niger,Maradi,IOM,2
+Africa,Sub-Saharan Africa,Niger,Maradi,UN,3
+Africa,Sub-Saharan Africa,Niger,Maradi,UNHCR,21
+Africa,Sub-Saharan Africa,Niger,Maradi,UNICEF,28
+Africa,Sub-Saharan Africa,Niger,Maradi,WFP,23
+Africa,Sub-Saharan Africa,Niger,Maradi,WHO,2
+Africa,Sub-Saharan Africa,Niger,Niamey,FAO,13
+Africa,Sub-Saharan Africa,Niger,Niamey,IFAD,1
+Africa,Sub-Saharan Africa,Niger,Niamey,ILO,6
+Africa,Sub-Saharan Africa,Niger,Niamey,IOM,88
+Africa,Sub-Saharan Africa,Niger,Niamey,UN,55
+Africa,Sub-Saharan Africa,Niger,Niamey,UN WOMEN,4
+Africa,Sub-Saharan Africa,Niger,Niamey,UNAIDS,4
+Africa,Sub-Saharan Africa,Niger,Niamey,UNDP,52
+Africa,Sub-Saharan Africa,Niger,Niamey,UNESCO,3
+Africa,Sub-Saharan Africa,Niger,Niamey,UNFPA,32
+Africa,Sub-Saharan Africa,Niger,Niamey,UNHCR,118
+Africa,Sub-Saharan Africa,Niger,Niamey,UNICEF,108
+Africa,Sub-Saharan Africa,Niger,Niamey,UNOPS,1
+Africa,Sub-Saharan Africa,Niger,Niamey,WFP,136
+Africa,Sub-Saharan Africa,Niger,Niamey,WHO,36
+Africa,Sub-Saharan Africa,Niger,Ouallam,UNHCR,11
+Africa,Sub-Saharan Africa,Niger,Tahoua,IOM,6
+Africa,Sub-Saharan Africa,Niger,Tahoua,UN,2
+Africa,Sub-Saharan Africa,Niger,Tahoua,UNFPA,4
+Africa,Sub-Saharan Africa,Niger,Tahoua,UNHCR,12
+Africa,Sub-Saharan Africa,Niger,Tahoua,UNICEF,17
+Africa,Sub-Saharan Africa,Niger,Tahoua,WFP,23
+Africa,Sub-Saharan Africa,Niger,Tahoua,WHO,1
+Africa,Sub-Saharan Africa,Niger,Tillabery,ILO,2
+Africa,Sub-Saharan Africa,Niger,Tillabery,IOM,3
+Africa,Sub-Saharan Africa,Niger,Tillabery,UN,7
+Africa,Sub-Saharan Africa,Niger,Tillabery,UNHCR,21
+Africa,Sub-Saharan Africa,Niger,Tillabery,WHO,1
+Africa,Sub-Saharan Africa,Niger,Zinder,IOM,2
+Africa,Sub-Saharan Africa,Niger,Zinder,UN,1
+Africa,Sub-Saharan Africa,Niger,Zinder,WFP,22
+Africa,Sub-Saharan Africa,Nigeria,Abuja,FAO,9
+Africa,Sub-Saharan Africa,Nigeria,Abuja,IFAD,6
+Africa,Sub-Saharan Africa,Nigeria,Abuja,ILO,25
+Africa,Sub-Saharan Africa,Nigeria,Abuja,IOM,38
+Africa,Sub-Saharan Africa,Nigeria,Abuja,UN,41
+Africa,Sub-Saharan Africa,Nigeria,Abuja,UN WOMEN,8
+Africa,Sub-Saharan Africa,Nigeria,Abuja,UNAIDS,15
+Africa,Sub-Saharan Africa,Nigeria,Abuja,UNDP,74
+Africa,Sub-Saharan Africa,Nigeria,Abuja,UNESCO,14
+Africa,Sub-Saharan Africa,Nigeria,Abuja,UNFPA,35
+Africa,Sub-Saharan Africa,Nigeria,Abuja,UNHCR,43
+Africa,Sub-Saharan Africa,Nigeria,Abuja,UNICEF,137
+Africa,Sub-Saharan Africa,Nigeria,Abuja,UNIDO,8
+Africa,Sub-Saharan Africa,Nigeria,Abuja,WFP,99
+Africa,Sub-Saharan Africa,Nigeria,Abuja,WHO,127
+Africa,Sub-Saharan Africa,Nigeria,Abuja,WIPO,1
+Africa,Sub-Saharan Africa,Nigeria,Abuja,WMO,5
+Africa,Sub-Saharan Africa,Nigeria,Adikpo,UNHCR,10
+Africa,Sub-Saharan Africa,Nigeria,Akure,UNICEF,13
+Africa,Sub-Saharan Africa,Nigeria,Bama,UNDP,1
+Africa,Sub-Saharan Africa,Nigeria,Bama,UNHCR,1
+Africa,Sub-Saharan Africa,Nigeria,Banki,UNDP,1
+Africa,Sub-Saharan Africa,Nigeria,Banki,UNHCR,1
+Africa,Sub-Saharan Africa,Nigeria,Bauchi,UNFPA,2
+Africa,Sub-Saharan Africa,Nigeria,Bauchi,UNICEF,34
+Africa,Sub-Saharan Africa,Nigeria,Bauchi,WHO,23
+Africa,Sub-Saharan Africa,Nigeria,Calabar,UNFPA,6
+Africa,Sub-Saharan Africa,Nigeria,Calabar,UNHCR,6
+Africa,Sub-Saharan Africa,Nigeria,Damaturu,UN,4
+Africa,Sub-Saharan Africa,Nigeria,Damaturu,UNDP,1
+Africa,Sub-Saharan Africa,Nigeria,Damaturu,UNFPA,2
+Africa,Sub-Saharan Africa,Nigeria,Damaturu,WFP,44
+Africa,Sub-Saharan Africa,Nigeria,Damaturu,WHO,7
+Africa,Sub-Saharan Africa,Nigeria,Dutse,UNDP,1
+Africa,Sub-Saharan Africa,Nigeria,Enugu,UN,1
+Africa,Sub-Saharan Africa,Nigeria,Enugu,UNICEF,26
+Africa,Sub-Saharan Africa,Nigeria,Enugu,WHO,13
+Africa,Sub-Saharan Africa,Nigeria,Gembu,UNHCR,1
+Africa,Sub-Saharan Africa,Nigeria,Gombe,UNFPA,4
+Africa,Sub-Saharan Africa,Nigeria,Gwoza,UNDP,1
+Africa,Sub-Saharan Africa,Nigeria,Gwoza,UNHCR,1
+Africa,Sub-Saharan Africa,Nigeria,Ibadan,UNFPA,1
+Africa,Sub-Saharan Africa,Nigeria,Ibadan,WHO,17
+Africa,Sub-Saharan Africa,Nigeria,Jos,WHO,4
+Africa,Sub-Saharan Africa,Nigeria,Kaduna,UN,2
+Africa,Sub-Saharan Africa,Nigeria,Kaduna,UNFPA,6
+Africa,Sub-Saharan Africa,Nigeria,Kaduna,UNICEF,22
+Africa,Sub-Saharan Africa,Nigeria,Kaduna,WHO,6
+Africa,Sub-Saharan Africa,Nigeria,Kano,UNDP,1
+Africa,Sub-Saharan Africa,Nigeria,Kano,UNICEF,37
+Africa,Sub-Saharan Africa,Nigeria,Kano,WFP,2
+Africa,Sub-Saharan Africa,Nigeria,Kano,WHO,18
+Africa,Sub-Saharan Africa,Nigeria,Katsina,WHO,2
+Africa,Sub-Saharan Africa,Nigeria,Koko-Ogheye,WHO,3
+Africa,Sub-Saharan Africa,Nigeria,Lagos,FAO,2
+Africa,Sub-Saharan Africa,Nigeria,Lagos,IOM,17
+Africa,Sub-Saharan Africa,Nigeria,Lagos,UN,8
+Africa,Sub-Saharan Africa,Nigeria,Lagos,UN WOMEN,1
+Africa,Sub-Saharan Africa,Nigeria,Lagos,UNAIDS,1
+Africa,Sub-Saharan Africa,Nigeria,Lagos,UNDP,9
+Africa,Sub-Saharan Africa,Nigeria,Lagos,UNFPA,12
+Africa,Sub-Saharan Africa,Nigeria,Lagos,UNHCR,4
+Africa,Sub-Saharan Africa,Nigeria,Lagos,UNICEF,15
+Africa,Sub-Saharan Africa,Nigeria,Lagos,UNIDO,1
+Africa,Sub-Saharan Africa,Nigeria,Lagos,WFP,2
+Africa,Sub-Saharan Africa,Nigeria,Lagos,WHO,15
+Africa,Sub-Saharan Africa,Nigeria,Maiduguri,FAO,2
+Africa,Sub-Saharan Africa,Nigeria,Maiduguri,IOM,9
+Africa,Sub-Saharan Africa,Nigeria,Maiduguri,UN,42
+Africa,Sub-Saharan Africa,Nigeria,Maiduguri,UN WOMEN,1
+Africa,Sub-Saharan Africa,Nigeria,Maiduguri,UNDP,44
+Africa,Sub-Saharan Africa,Nigeria,Maiduguri,UNFPA,5
+Africa,Sub-Saharan Africa,Nigeria,Maiduguri,UNHCR,43
+Africa,Sub-Saharan Africa,Nigeria,Maiduguri,UNICEF,52
+Africa,Sub-Saharan Africa,Nigeria,Maiduguri,UNOPS,1
+Africa,Sub-Saharan Africa,Nigeria,Maiduguri,WFP,128
+Africa,Sub-Saharan Africa,Nigeria,Maiduguri,WHO,29
+Africa,Sub-Saharan Africa,Nigeria,Minna,WHO,12
+Africa,Sub-Saharan Africa,Nigeria,Moguno,UNDP,1
+Africa,Sub-Saharan Africa,Nigeria,Moguno,UNHCR,1
+Africa,Sub-Saharan Africa,Nigeria,Mubi,UNHCR,4
+Africa,Sub-Saharan Africa,Nigeria,Ngala,UNDP,1
+Africa,Sub-Saharan Africa,Nigeria,Ogoja,UNHCR,34
+Africa,Sub-Saharan Africa,Nigeria,Port Harcourt,UN,1
+Africa,Sub-Saharan Africa,Nigeria,Port Harcourt,UNICEF,12
+Africa,Sub-Saharan Africa,Nigeria,Port Harcourt,WFP,1
+Africa,Sub-Saharan Africa,Nigeria,Port Harcourt,WHO,11
+Africa,Sub-Saharan Africa,Nigeria,Sokoto,UNDP,1
+Africa,Sub-Saharan Africa,Nigeria,Sokoto,UNFPA,2
+Africa,Sub-Saharan Africa,Nigeria,Sokoto,UNICEF,28
+Africa,Sub-Saharan Africa,Nigeria,Sokoto,WHO,12
+Africa,Sub-Saharan Africa,Nigeria,Takum,UNHCR,6
+Africa,Sub-Saharan Africa,Nigeria,Umuahia,WHO,1
+Africa,Sub-Saharan Africa,Nigeria,Yola,IOM,1
+Africa,Sub-Saharan Africa,Nigeria,Yola,UN,3
+Africa,Sub-Saharan Africa,Nigeria,Yola,UNDP,2
+Africa,Sub-Saharan Africa,Nigeria,Yola,UNFPA,2
+Africa,Sub-Saharan Africa,Nigeria,Yola,UNHCR,6
+Africa,Sub-Saharan Africa,Nigeria,Zamfara,WHO,2
+Africa,Sub-Saharan Africa,Rwanda,Butare,UNHCR,14
+Africa,Sub-Saharan Africa,Rwanda,Butare,WFP,7
+Africa,Sub-Saharan Africa,Rwanda,Byumba,UNHCR,12
+Africa,Sub-Saharan Africa,Rwanda,Kabarore,UNHCR,8
+Africa,Sub-Saharan Africa,Rwanda,Kibuye,UNHCR,20
+Africa,Sub-Saharan Africa,Rwanda,Kigali,FAO,6
+Africa,Sub-Saharan Africa,Rwanda,Kigali,IFAD,1
+Africa,Sub-Saharan Africa,Rwanda,Kigali,IOM,52
+Africa,Sub-Saharan Africa,Rwanda,Kigali,UN,61
+Africa,Sub-Saharan Africa,Rwanda,Kigali,UN WOMEN,7
+Africa,Sub-Saharan Africa,Rwanda,Kigali,UNAIDS,5
+Africa,Sub-Saharan Africa,Rwanda,Kigali,UNDP,48
+Africa,Sub-Saharan Africa,Rwanda,Kigali,UNFPA,22
+Africa,Sub-Saharan Africa,Rwanda,Kigali,UNHCR,95
+Africa,Sub-Saharan Africa,Rwanda,Kigali,UNICEF,73
+Africa,Sub-Saharan Africa,Rwanda,Kigali,UNIDO,1
+Africa,Sub-Saharan Africa,Rwanda,Kigali,WFP,74
+Africa,Sub-Saharan Africa,Rwanda,Kigali,WHO,19
+Africa,Sub-Saharan Africa,Rwanda,Kirehe,UNHCR,23
+Africa,Sub-Saharan Africa,Rwanda,Kirehe,WFP,1
+Africa,Sub-Saharan Africa,Sao Tome and Principe,Sao Tome,FAO,2
+Africa,Sub-Saharan Africa,Sao Tome and Principe,Sao Tome,ILO,3
+Africa,Sub-Saharan Africa,Sao Tome and Principe,Sao Tome,UN,8
+Africa,Sub-Saharan Africa,Sao Tome and Principe,Sao Tome,UNDP,21
+Africa,Sub-Saharan Africa,Sao Tome and Principe,Sao Tome,UNFPA,6
+Africa,Sub-Saharan Africa,Sao Tome and Principe,Sao Tome,UNICEF,16
+Africa,Sub-Saharan Africa,Sao Tome and Principe,Sao Tome,WFP,5
+Africa,Sub-Saharan Africa,Sao Tome and Principe,Sao Tome,WHO,9
+Africa,Sub-Saharan Africa,Senegal,Dakar,FAO,29
+Africa,Sub-Saharan Africa,Senegal,Dakar,ICAO,24
+Africa,Sub-Saharan Africa,Senegal,Dakar,IFAD,15
+Africa,Sub-Saharan Africa,Senegal,Dakar,ILO,41
+Africa,Sub-Saharan Africa,Senegal,Dakar,IOM,84
+Africa,Sub-Saharan Africa,Senegal,Dakar,ITU,3
+Africa,Sub-Saharan Africa,Senegal,Dakar,UN,214
+Africa,Sub-Saharan Africa,Senegal,Dakar,UN WOMEN,28
+Africa,Sub-Saharan Africa,Senegal,Dakar,UNAIDS,18
+Africa,Sub-Saharan Africa,Senegal,Dakar,UNDP,103
+Africa,Sub-Saharan Africa,Senegal,Dakar,UNESCO,70
+Africa,Sub-Saharan Africa,Senegal,Dakar,UNFPA,71
+Africa,Sub-Saharan Africa,Senegal,Dakar,UNHCR,125
+Africa,Sub-Saharan Africa,Senegal,Dakar,UNICEF,203
+Africa,Sub-Saharan Africa,Senegal,Dakar,UNIDO,3
+Africa,Sub-Saharan Africa,Senegal,Dakar,UNOPS,3
+Africa,Sub-Saharan Africa,Senegal,Dakar,WFP,150
+Africa,Sub-Saharan Africa,Senegal,Dakar,WHO,37
+Africa,Sub-Saharan Africa,Senegal,Kolda,UNICEF,8
+Africa,Sub-Saharan Africa,Senegal,Ziguinchor,WFP,1
+Africa,Sub-Saharan Africa,Seychelles,Victoria,FAO,16
+Africa,Sub-Saharan Africa,Seychelles,Victoria,UN,1
+Africa,Sub-Saharan Africa,Seychelles,Victoria,WHO,5
+Africa,Sub-Saharan Africa,Sierra Leone,Freetown,FAO,6
+Africa,Sub-Saharan Africa,Sierra Leone,Freetown,IFAD,1
+Africa,Sub-Saharan Africa,Sierra Leone,Freetown,IOM,19
+Africa,Sub-Saharan Africa,Sierra Leone,Freetown,UN,12
+Africa,Sub-Saharan Africa,Sierra Leone,Freetown,UN WOMEN,3
+Africa,Sub-Saharan Africa,Sierra Leone,Freetown,UNAIDS,4
+Africa,Sub-Saharan Africa,Sierra Leone,Freetown,UNDP,49
+Africa,Sub-Saharan Africa,Sierra Leone,Freetown,UNFPA,33
+Africa,Sub-Saharan Africa,Sierra Leone,Freetown,UNICEF,92
+Africa,Sub-Saharan Africa,Sierra Leone,Freetown,UNIDO,2
+Africa,Sub-Saharan Africa,Sierra Leone,Freetown,WFP,39
+Africa,Sub-Saharan Africa,Sierra Leone,Freetown,WHO,52
+Africa,Sub-Saharan Africa,Sierra Leone,Kamakwie,IOM,2
+Africa,Sub-Saharan Africa,Sierra Leone,Kenema,UNICEF,7
+Africa,Sub-Saharan Africa,Sierra Leone,Kenema,WFP,1
+Africa,Sub-Saharan Africa,Sierra Leone,Makeni,UNICEF,3
+Africa,Sub-Saharan Africa,Somalia,Baidoa,ILO,2
+Africa,Sub-Saharan Africa,Somalia,Baidoa,UN,40
+Africa,Sub-Saharan Africa,Somalia,Baidoa,UNDP,1
+Africa,Sub-Saharan Africa,Somalia,Baidoa,UNHCR,6
+Africa,Sub-Saharan Africa,Somalia,Baidoa,UNICEF,13
+Africa,Sub-Saharan Africa,Somalia,Baidoa,WFP,11
+Africa,Sub-Saharan Africa,Somalia,Baidoa,WHO,2
+Africa,Sub-Saharan Africa,Somalia,Bardera,IOM,1
+Africa,Sub-Saharan Africa,Somalia,Belet Weyne,UN,20
+Africa,Sub-Saharan Africa,Somalia,Belet Weyne,UNDP,1
+Africa,Sub-Saharan Africa,Somalia,Belet Weyne,WFP,9
+Africa,Sub-Saharan Africa,Somalia,Berbera,UNHCR,2
+Africa,Sub-Saharan Africa,Somalia,Berbera,WFP,11
+Africa,Sub-Saharan Africa,Somalia,Bosaso,IOM,3
+Africa,Sub-Saharan Africa,Somalia,Bosaso,UN,4
+Africa,Sub-Saharan Africa,Somalia,Bosaso,UNDP,1
+Africa,Sub-Saharan Africa,Somalia,Bosaso,UNHCR,14
+Africa,Sub-Saharan Africa,Somalia,Bosaso,WFP,29
+Africa,Sub-Saharan Africa,Somalia,Bosaso,WHO,2
+Africa,Sub-Saharan Africa,Somalia,Dhobley,UNHCR,4
+Africa,Sub-Saharan Africa,Somalia,Dhuusamarreeb,UN,4
+Africa,Sub-Saharan Africa,Somalia,Dhuusamarreeb,WFP,4
+Africa,Sub-Saharan Africa,Somalia,Dolow,UNDP,1
+Africa,Sub-Saharan Africa,Somalia,Dolow,UNHCR,7
+Africa,Sub-Saharan Africa,Somalia,Dolow,UNICEF,1
+Africa,Sub-Saharan Africa,Somalia,Dolow,WFP,12
+Africa,Sub-Saharan Africa,Somalia,Gaalkacyo,UN,3
+Africa,Sub-Saharan Africa,Somalia,Gaalkacyo,UNDP,2
+Africa,Sub-Saharan Africa,Somalia,Gaalkacyo,UNHCR,18
+Africa,Sub-Saharan Africa,Somalia,Gaalkacyo,WFP,24
+Africa,Sub-Saharan Africa,Somalia,Garowe,ILO,1
+Africa,Sub-Saharan Africa,Somalia,Garowe,IOM,3
+Africa,Sub-Saharan Africa,Somalia,Garowe,UN,31
+Africa,Sub-Saharan Africa,Somalia,Garowe,UNDP,13
+Africa,Sub-Saharan Africa,Somalia,Garowe,UNFPA,6
+Africa,Sub-Saharan Africa,Somalia,Garowe,UNHCR,3
+Africa,Sub-Saharan Africa,Somalia,Garowe,UNICEF,44
+Africa,Sub-Saharan Africa,Somalia,Garowe,WFP,30
+Africa,Sub-Saharan Africa,Somalia,Garowe,WHO,10
+Africa,Sub-Saharan Africa,Somalia,Gedo Region,UN,1
+Africa,Sub-Saharan Africa,Somalia,Gedo Region,WFP,3
+Africa,Sub-Saharan Africa,Somalia,Hargeisa,FAO,1
+Africa,Sub-Saharan Africa,Somalia,Hargeisa,ILO,2
+Africa,Sub-Saharan Africa,Somalia,Hargeisa,IOM,13
+Africa,Sub-Saharan Africa,Somalia,Hargeisa,UN,21
+Africa,Sub-Saharan Africa,Somalia,Hargeisa,UNDP,17
+Africa,Sub-Saharan Africa,Somalia,Hargeisa,UNFPA,8
+Africa,Sub-Saharan Africa,Somalia,Hargeisa,UNHCR,23
+Africa,Sub-Saharan Africa,Somalia,Hargeisa,UNICEF,48
+Africa,Sub-Saharan Africa,Somalia,Hargeisa,WFP,42
+Africa,Sub-Saharan Africa,Somalia,Hargeisa,WHO,21
+Africa,Sub-Saharan Africa,Somalia,Jowhar,UN,14
+Africa,Sub-Saharan Africa,Somalia,Jowhar,UNOPS,1
+Africa,Sub-Saharan Africa,Somalia,Kismayo,UN,37
+Africa,Sub-Saharan Africa,Somalia,Kismayo,UNHCR,8
+Africa,Sub-Saharan Africa,Somalia,Kismayo,WFP,9
+Africa,Sub-Saharan Africa,Somalia,Mogadishu,FAO,10
+Africa,Sub-Saharan Africa,Somalia,Mogadishu,ICAO,1
+Africa,Sub-Saharan Africa,Somalia,Mogadishu,ILO,6
+Africa,Sub-Saharan Africa,Somalia,Mogadishu,IOM,27
+Africa,Sub-Saharan Africa,Somalia,Mogadishu,UN,464
+Africa,Sub-Saharan Africa,Somalia,Mogadishu,UN WOMEN,4
+Africa,Sub-Saharan Africa,Somalia,Mogadishu,UNDP,71
+Africa,Sub-Saharan Africa,Somalia,Mogadishu,UNFPA,14
+Africa,Sub-Saharan Africa,Somalia,Mogadishu,UNHCR,62
+Africa,Sub-Saharan Africa,Somalia,Mogadishu,UNICEF,143
+Africa,Sub-Saharan Africa,Somalia,Mogadishu,UNIDO,1
+Africa,Sub-Saharan Africa,Somalia,Mogadishu,UNOPS,26
+Africa,Sub-Saharan Africa,Somalia,Mogadishu,WFP,61
+Africa,Sub-Saharan Africa,Somalia,Mogadishu,WHO,34
+Africa,Sub-Saharan Africa,South Africa,Cape Town,UN,1
+Africa,Sub-Saharan Africa,South Africa,Cape Town,UNHCR,8
+Africa,Sub-Saharan Africa,South Africa,Cape Town,WHO,1
+Africa,Sub-Saharan Africa,South Africa,Durban,UNAIDS,1
+Africa,Sub-Saharan Africa,South Africa,Johannesburg,FAO,9
+Africa,Sub-Saharan Africa,South Africa,Johannesburg,IFAD,9
+Africa,Sub-Saharan Africa,South Africa,Johannesburg,UN,2
+Africa,Sub-Saharan Africa,South Africa,Johannesburg,UN WOMEN,5
+Africa,Sub-Saharan Africa,South Africa,Johannesburg,UNAIDS,23
+Africa,Sub-Saharan Africa,South Africa,Johannesburg,UNDP,2
+Africa,Sub-Saharan Africa,South Africa,Johannesburg,UNESCO,4
+Africa,Sub-Saharan Africa,South Africa,Johannesburg,UNFPA,60
+Africa,Sub-Saharan Africa,South Africa,Johannesburg,UNICEF,12
+Africa,Sub-Saharan Africa,South Africa,Johannesburg,WFP,93
+Africa,Sub-Saharan Africa,South Africa,Johannesburg,WHO,1
+Africa,Sub-Saharan Africa,South Africa,Pietersburg,ILO,2
+Africa,Sub-Saharan Africa,South Africa,Pretoria,FAO,7
+Africa,Sub-Saharan Africa,South Africa,Pretoria,ILO,51
+Africa,Sub-Saharan Africa,South Africa,Pretoria,IOM,68
+Africa,Sub-Saharan Africa,South Africa,Pretoria,UN,36
+Africa,Sub-Saharan Africa,South Africa,Pretoria,UN WOMEN,3
+Africa,Sub-Saharan Africa,South Africa,Pretoria,UNAIDS,12
+Africa,Sub-Saharan Africa,South Africa,Pretoria,UNDP,56
+Africa,Sub-Saharan Africa,South Africa,Pretoria,UNFPA,17
+Africa,Sub-Saharan Africa,South Africa,Pretoria,UNHCR,127
+Africa,Sub-Saharan Africa,South Africa,Pretoria,UNICEF,45
+Africa,Sub-Saharan Africa,South Africa,Pretoria,UNIDO,4
+Africa,Sub-Saharan Africa,South Africa,Pretoria,WFP,5
+Africa,Sub-Saharan Africa,South Africa,Pretoria,WHO,75
+Africa,Sub-Saharan Africa,South Africa,Pretoria,WIPO,1
+Africa,Sub-Saharan Africa,South Sudan,Akobo,UN,2
+Africa,Sub-Saharan Africa,South Sudan,Aweil,UN,84
+Africa,Sub-Saharan Africa,South Sudan,Aweil,UNICEF,12
+Africa,Sub-Saharan Africa,South Sudan,Aweil,WFP,13
+Africa,Sub-Saharan Africa,South Sudan,Aweil,WHO,2
+Africa,Sub-Saharan Africa,South Sudan,Bentiu,IOM,10
+Africa,Sub-Saharan Africa,South Sudan,Bentiu,UN,119
+Africa,Sub-Saharan Africa,South Sudan,Bentiu,UNHCR,15
+Africa,Sub-Saharan Africa,South Sudan,Bentiu,UNICEF,14
+Africa,Sub-Saharan Africa,South Sudan,Bentiu,WFP,7
+Africa,Sub-Saharan Africa,South Sudan,Bentiu,WHO,1
+Africa,Sub-Saharan Africa,South Sudan,Bor,FAO,1
+Africa,Sub-Saharan Africa,South Sudan,Bor,UN,114
+Africa,Sub-Saharan Africa,South Sudan,Bor,UNHCR,19
+Africa,Sub-Saharan Africa,South Sudan,Bor,UNICEF,16
+Africa,Sub-Saharan Africa,South Sudan,Bor,WFP,15
+Africa,Sub-Saharan Africa,South Sudan,Bor,WHO,2
+Africa,Sub-Saharan Africa,South Sudan,Bunj,UNHCR,58
+Africa,Sub-Saharan Africa,South Sudan,Gok Machar,UN,2
+Africa,Sub-Saharan Africa,South Sudan,Juba,FAO,19
+Africa,Sub-Saharan Africa,South Sudan,Juba,ILO,1
+Africa,Sub-Saharan Africa,South Sudan,Juba,IOM,49
+Africa,Sub-Saharan Africa,South Sudan,Juba,UN,1 314
+Africa,Sub-Saharan Africa,South Sudan,Juba,UN WOMEN,7
+Africa,Sub-Saharan Africa,South Sudan,Juba,UNAIDS,4
+Africa,Sub-Saharan Africa,South Sudan,Juba,UNDP,68
+Africa,Sub-Saharan Africa,South Sudan,Juba,UNESCO,10
+Africa,Sub-Saharan Africa,South Sudan,Juba,UNFPA,46
+Africa,Sub-Saharan Africa,South Sudan,Juba,UNHCR,156
+Africa,Sub-Saharan Africa,South Sudan,Juba,UNICEF,167
+Africa,Sub-Saharan Africa,South Sudan,Juba,UNOPS,6
+Africa,Sub-Saharan Africa,South Sudan,Juba,WFP,109
+Africa,Sub-Saharan Africa,South Sudan,Juba,WHO,55
+Africa,Sub-Saharan Africa,South Sudan,Kapoeta,WFP,6
+Africa,Sub-Saharan Africa,South Sudan,Kuajok,FAO,1
+Africa,Sub-Saharan Africa,South Sudan,Kuajok,UN,91
+Africa,Sub-Saharan Africa,South Sudan,Kuajok,UNICEF,7
+Africa,Sub-Saharan Africa,South Sudan,Kuajok,WFP,6
+Africa,Sub-Saharan Africa,South Sudan,Kuajok,WHO,2
+Africa,Sub-Saharan Africa,South Sudan,Maban,WFP,1
+Africa,Sub-Saharan Africa,South Sudan,Malakal County,IOM,10
+Africa,Sub-Saharan Africa,South Sudan,Malakal County,UN,168
+Africa,Sub-Saharan Africa,South Sudan,Malakal County,UNHCR,15
+Africa,Sub-Saharan Africa,South Sudan,Malakal County,UNICEF,22
+Africa,Sub-Saharan Africa,South Sudan,Malakal County,WFP,9
+Africa,Sub-Saharan Africa,South Sudan,Malakal County,WHO,2
+Africa,Sub-Saharan Africa,South Sudan,Pibor,UN,7
+Africa,Sub-Saharan Africa,South Sudan,Pibor,UNICEF,2
+Africa,Sub-Saharan Africa,South Sudan,Rumbek,FAO,1
+Africa,Sub-Saharan Africa,South Sudan,Rumbek,UN,101
+Africa,Sub-Saharan Africa,South Sudan,Rumbek,UNICEF,15
+Africa,Sub-Saharan Africa,South Sudan,Rumbek,WFP,14
+Africa,Sub-Saharan Africa,South Sudan,Rumbek,WHO,2
+Africa,Sub-Saharan Africa,South Sudan,Torit,UN,87
+Africa,Sub-Saharan Africa,South Sudan,Torit,UNHCR,1
+Africa,Sub-Saharan Africa,South Sudan,Torit,UNICEF,12
+Africa,Sub-Saharan Africa,South Sudan,Torit,WFP,1
+Africa,Sub-Saharan Africa,South Sudan,Torit,WHO,2
+Africa,Sub-Saharan Africa,South Sudan,Wau,FAO,1
+Africa,Sub-Saharan Africa,South Sudan,Wau,IOM,8
+Africa,Sub-Saharan Africa,South Sudan,Wau,UN,162
+Africa,Sub-Saharan Africa,South Sudan,Wau,UNFPA,1
+Africa,Sub-Saharan Africa,South Sudan,Wau,UNHCR,12
+Africa,Sub-Saharan Africa,South Sudan,Wau,UNICEF,22
+Africa,Sub-Saharan Africa,South Sudan,Wau,WFP,13
+Africa,Sub-Saharan Africa,South Sudan,Wau,WHO,2
+Africa,Sub-Saharan Africa,South Sudan,Wunrock,WFP,1
+Africa,Sub-Saharan Africa,South Sudan,Yambio,UN,90
+Africa,Sub-Saharan Africa,South Sudan,Yambio,UNHCR,18
+Africa,Sub-Saharan Africa,South Sudan,Yambio,UNICEF,16
+Africa,Sub-Saharan Africa,South Sudan,Yambio,WFP,1
+Africa,Sub-Saharan Africa,South Sudan,Yambio,WHO,2
+Africa,Sub-Saharan Africa,South Sudan,Yei,UN,11
+Africa,Sub-Saharan Africa,South Sudan,Yei,UNHCR,17
+Africa,Sub-Saharan Africa,South Sudan,Yei,UNICEF,4
+Africa,Sub-Saharan Africa,South Sudan,Yida,WFP,1
+Africa,Sub-Saharan Africa,Swaziland,Mbabane,FAO,2
+Africa,Sub-Saharan Africa,Swaziland,Mbabane,IOM,2
+Africa,Sub-Saharan Africa,Swaziland,Mbabane,UN,8
+Africa,Sub-Saharan Africa,Swaziland,Mbabane,UNAIDS,5
+Africa,Sub-Saharan Africa,Swaziland,Mbabane,UNDP,21
+Africa,Sub-Saharan Africa,Swaziland,Mbabane,UNESCO,2
+Africa,Sub-Saharan Africa,Swaziland,Mbabane,UNFPA,11
+Africa,Sub-Saharan Africa,Swaziland,Mbabane,UNICEF,22
+Africa,Sub-Saharan Africa,Swaziland,Mbabane,WFP,17
+Africa,Sub-Saharan Africa,Swaziland,Mbabane,WHO,15
+Africa,Sub-Saharan Africa,Tanzania,Arusha,UN,193
+Africa,Sub-Saharan Africa,Tanzania,Arusha,WFP,1
+Africa,Sub-Saharan Africa,Tanzania,Bariadi,UNFPA,3
+Africa,Sub-Saharan Africa,Tanzania,Dar-es-Salaam,FAO,10
+Africa,Sub-Saharan Africa,Tanzania,Dar-es-Salaam,IFAD,2
+Africa,Sub-Saharan Africa,Tanzania,Dar-es-Salaam,ILO,29
+Africa,Sub-Saharan Africa,Tanzania,Dar-es-Salaam,IOM,29
+Africa,Sub-Saharan Africa,Tanzania,Dar-es-Salaam,UN,19
+Africa,Sub-Saharan Africa,Tanzania,Dar-es-Salaam,UN WOMEN,15
+Africa,Sub-Saharan Africa,Tanzania,Dar-es-Salaam,UNAIDS,8
+Africa,Sub-Saharan Africa,Tanzania,Dar-es-Salaam,UNDP,64
+Africa,Sub-Saharan Africa,Tanzania,Dar-es-Salaam,UNESCO,16
+Africa,Sub-Saharan Africa,Tanzania,Dar-es-Salaam,UNFPA,27
+Africa,Sub-Saharan Africa,Tanzania,Dar-es-Salaam,UNHCR,50
+Africa,Sub-Saharan Africa,Tanzania,Dar-es-Salaam,UNICEF,98
+Africa,Sub-Saharan Africa,Tanzania,Dar-es-Salaam,UNIDO,3
+Africa,Sub-Saharan Africa,Tanzania,Dar-es-Salaam,UNOPS,1
+Africa,Sub-Saharan Africa,Tanzania,Dar-es-Salaam,WFP,65
+Africa,Sub-Saharan Africa,Tanzania,Dar-es-Salaam,WHO,42
+Africa,Sub-Saharan Africa,Tanzania,Dodoma,UNDP,1
+Africa,Sub-Saharan Africa,Tanzania,Dodoma,UNFPA,4
+Africa,Sub-Saharan Africa,Tanzania,Dodoma,UNHCR,2
+Africa,Sub-Saharan Africa,Tanzania,Dodoma,UNICEF,6
+Africa,Sub-Saharan Africa,Tanzania,Dodoma,WFP,15
+Africa,Sub-Saharan Africa,Tanzania,Isaka,WFP,4
+Africa,Sub-Saharan Africa,Tanzania,Kasulu,IOM,44
+Africa,Sub-Saharan Africa,Tanzania,Kasulu,UNDP,4
+Africa,Sub-Saharan Africa,Tanzania,Kasulu,UNFPA,1
+Africa,Sub-Saharan Africa,Tanzania,Kasulu,UNHCR,73
+Africa,Sub-Saharan Africa,Tanzania,Kasulu,WFP,11
+Africa,Sub-Saharan Africa,Tanzania,Kibondo,UNHCR,69
+Africa,Sub-Saharan Africa,Tanzania,Kibondo,UNICEF,5
+Africa,Sub-Saharan Africa,Tanzania,Kibondo,WFP,5
+Africa,Sub-Saharan Africa,Tanzania,Kigoma,FAO,1
+Africa,Sub-Saharan Africa,Tanzania,Kigoma,IOM,1
+Africa,Sub-Saharan Africa,Tanzania,Kigoma,UNHCR,13
+Africa,Sub-Saharan Africa,Tanzania,Kigoma,WFP,5
+Africa,Sub-Saharan Africa,Tanzania,Makere,IOM,1
+Africa,Sub-Saharan Africa,Tanzania,Mbeya,UNICEF,9
+Africa,Sub-Saharan Africa,Tanzania,Moshi,IOM,5
+Africa,Sub-Saharan Africa,Tanzania,Mwanza,UNHCR,1
+Africa,Sub-Saharan Africa,Tanzania,Zanzibar,ILO,1
+Africa,Sub-Saharan Africa,Tanzania,Zanzibar,UNAIDS,1
+Africa,Sub-Saharan Africa,Tanzania,Zanzibar,UNDP,4
+Africa,Sub-Saharan Africa,Tanzania,Zanzibar,UNFPA,5
+Africa,Sub-Saharan Africa,Tanzania,Zanzibar,UNICEF,9
+Africa,Sub-Saharan Africa,Tanzania,Zanzibar,WHO,2
+Africa,Sub-Saharan Africa,Togo,Lome,FAO,4
+Africa,Sub-Saharan Africa,Togo,Lome,ILO,1
+Africa,Sub-Saharan Africa,Togo,Lome,IOM,4
+Africa,Sub-Saharan Africa,Togo,Lome,UN,12
+Africa,Sub-Saharan Africa,Togo,Lome,UNAIDS,4
+Africa,Sub-Saharan Africa,Togo,Lome,UNDP,35
+Africa,Sub-Saharan Africa,Togo,Lome,UNESCO,1
+Africa,Sub-Saharan Africa,Togo,Lome,UNFPA,20
+Africa,Sub-Saharan Africa,Togo,Lome,UNHCR,10
+Africa,Sub-Saharan Africa,Togo,Lome,UNICEF,46
+Africa,Sub-Saharan Africa,Togo,Lome,WFP,11
+Africa,Sub-Saharan Africa,Togo,Lome,WHO,24
+Africa,Sub-Saharan Africa,Uganda,Adjumani,UNHCR,55
+Africa,Sub-Saharan Africa,Uganda,Arua,UNDP,1
+Africa,Sub-Saharan Africa,Uganda,Arua,UNFPA,1
+Africa,Sub-Saharan Africa,Uganda,Arua,UNHCR,68
+Africa,Sub-Saharan Africa,Uganda,Arua,WFP,11
+Africa,Sub-Saharan Africa,Uganda,Entebbe,IOM,3
+Africa,Sub-Saharan Africa,Uganda,Entebbe,UN,517
+Africa,Sub-Saharan Africa,Uganda,Entebbe,UNOPS,9
+Africa,Sub-Saharan Africa,Uganda,Entebbe,WHO,3
+Africa,Sub-Saharan Africa,Uganda,Gulu,FAO,1
+Africa,Sub-Saharan Africa,Uganda,Gulu,UN,6
+Africa,Sub-Saharan Africa,Uganda,Gulu,UN WOMEN,1
+Africa,Sub-Saharan Africa,Uganda,Gulu,UNDP,3
+Africa,Sub-Saharan Africa,Uganda,Gulu,UNFPA,5
+Africa,Sub-Saharan Africa,Uganda,Gulu,UNICEF,25
+Africa,Sub-Saharan Africa,Uganda,Gulu,WFP,7
+Africa,Sub-Saharan Africa,Uganda,Hoima,UNHCR,1
+Africa,Sub-Saharan Africa,Uganda,Jinja,FAO,2
+Africa,Sub-Saharan Africa,Uganda,Kampala,FAO,19
+Africa,Sub-Saharan Africa,Uganda,Kampala,IFAD,4
+Africa,Sub-Saharan Africa,Uganda,Kampala,ILO,21
+Africa,Sub-Saharan Africa,Uganda,Kampala,IOM,82
+Africa,Sub-Saharan Africa,Uganda,Kampala,UN,39
+Africa,Sub-Saharan Africa,Uganda,Kampala,UN WOMEN,24
+Africa,Sub-Saharan Africa,Uganda,Kampala,UNAIDS,7
+Africa,Sub-Saharan Africa,Uganda,Kampala,UNDP,77
+Africa,Sub-Saharan Africa,Uganda,Kampala,UNESCO,3
+Africa,Sub-Saharan Africa,Uganda,Kampala,UNFPA,43
+Africa,Sub-Saharan Africa,Uganda,Kampala,UNHCR,141
+Africa,Sub-Saharan Africa,Uganda,Kampala,UNICC,1
+Africa,Sub-Saharan Africa,Uganda,Kampala,UNICEF,130
+Africa,Sub-Saharan Africa,Uganda,Kampala,UNIDO,1
+Africa,Sub-Saharan Africa,Uganda,Kampala,UNOPS,2
+Africa,Sub-Saharan Africa,Uganda,Kampala,WFP,101
+Africa,Sub-Saharan Africa,Uganda,Kampala,WHO,49
+Africa,Sub-Saharan Africa,Uganda,Kiryandongo,UNHCR,12
+Africa,Sub-Saharan Africa,Uganda,Kisoro,UNHCR,9
+Africa,Sub-Saharan Africa,Uganda,Kitgum,UN,1
+Africa,Sub-Saharan Africa,Uganda,Kotido,UN,1
+Africa,Sub-Saharan Africa,Uganda,Kotido,WFP,7
+Africa,Sub-Saharan Africa,Uganda,Kyaka II,IOM,2
+Africa,Sub-Saharan Africa,Uganda,Kyangwali,IOM,3
+Africa,Sub-Saharan Africa,Uganda,Kyangwali,UNHCR,24
+Africa,Sub-Saharan Africa,Uganda,Kyara,UNHCR,22
+Africa,Sub-Saharan Africa,Uganda,Lamwo,UNHCR,9
+Africa,Sub-Saharan Africa,Uganda,Lira,UN,1
+Africa,Sub-Saharan Africa,Uganda,Mbarara,UNFPA,1
+Africa,Sub-Saharan Africa,Uganda,Mbarara,UNHCR,50
+Africa,Sub-Saharan Africa,Uganda,Mbarara,UNICEF,22
+Africa,Sub-Saharan Africa,Uganda,Mbarara,WFP,9
+Africa,Sub-Saharan Africa,Uganda,Moroto,UN,6
+Africa,Sub-Saharan Africa,Uganda,Moroto,UN WOMEN,2
+Africa,Sub-Saharan Africa,Uganda,Moroto,UNDP,2
+Africa,Sub-Saharan Africa,Uganda,Moroto,UNFPA,4
+Africa,Sub-Saharan Africa,Uganda,Moroto,UNICEF,23
+Africa,Sub-Saharan Africa,Uganda,Moroto,WFP,14
+Africa,Sub-Saharan Africa,Uganda,Moyo,UNFPA,2
+Africa,Sub-Saharan Africa,Uganda,Moyo,UNHCR,38
+Africa,Sub-Saharan Africa,Uganda,Nakapiripirit,WFP,2
+Africa,Sub-Saharan Africa,Uganda,Nakivale,IOM,4
+Africa,Sub-Saharan Africa,Uganda,Nakivale,UNHCR,22
+Africa,Sub-Saharan Africa,Uganda,Pader,UNDP,1
+Africa,Sub-Saharan Africa,Uganda,Soroti,UN,1
+Africa,Sub-Saharan Africa,Uganda,Soroti,WFP,1
+Africa,Sub-Saharan Africa,Uganda,Yumbe,UNHCR,52
+Africa,Sub-Saharan Africa,Zambia,Kaoma,UNHCR,3
+Africa,Sub-Saharan Africa,Zambia,Kawambwa,UNHCR,19
+Africa,Sub-Saharan Africa,Zambia,Lusaka,FAO,10
+Africa,Sub-Saharan Africa,Zambia,Lusaka,IFAD,1
+Africa,Sub-Saharan Africa,Zambia,Lusaka,ILO,24
+Africa,Sub-Saharan Africa,Zambia,Lusaka,IOM,13
+Africa,Sub-Saharan Africa,Zambia,Lusaka,UN,37
+Africa,Sub-Saharan Africa,Zambia,Lusaka,UNAIDS,8
+Africa,Sub-Saharan Africa,Zambia,Lusaka,UNDP,42
+Africa,Sub-Saharan Africa,Zambia,Lusaka,UNESCO,4
+Africa,Sub-Saharan Africa,Zambia,Lusaka,UNFPA,21
+Africa,Sub-Saharan Africa,Zambia,Lusaka,UNHCR,33
+Africa,Sub-Saharan Africa,Zambia,Lusaka,UNICEF,92
+Africa,Sub-Saharan Africa,Zambia,Lusaka,WFP,30
+Africa,Sub-Saharan Africa,Zambia,Lusaka,WHO,31
+Africa,Sub-Saharan Africa,Zambia,Ndola,WHO,1
+Africa,Sub-Saharan Africa,Zambia,Solwezi,UNHCR,13
+Africa,Sub-Saharan Africa,Zimbabwe,Bulawayo,WFP,8
+Africa,Sub-Saharan Africa,Zimbabwe,Harare,FAO,25
+Africa,Sub-Saharan Africa,Zimbabwe,Harare,ILO,18
+Africa,Sub-Saharan Africa,Zimbabwe,Harare,IOM,2
+Africa,Sub-Saharan Africa,Zimbabwe,Harare,ITU,3
+Africa,Sub-Saharan Africa,Zimbabwe,Harare,UN,18
+Africa,Sub-Saharan Africa,Zimbabwe,Harare,UN WOMEN,7
+Africa,Sub-Saharan Africa,Zimbabwe,Harare,UNAIDS,7
+Africa,Sub-Saharan Africa,Zimbabwe,Harare,UNDP,70
+Africa,Sub-Saharan Africa,Zimbabwe,Harare,UNESCO,24
+Africa,Sub-Saharan Africa,Zimbabwe,Harare,UNFPA,35
+Africa,Sub-Saharan Africa,Zimbabwe,Harare,UNHCR,19
+Africa,Sub-Saharan Africa,Zimbabwe,Harare,UNICEF,108
+Africa,Sub-Saharan Africa,Zimbabwe,Harare,UNIDO,1
+Africa,Sub-Saharan Africa,Zimbabwe,Harare,UPU,1
+Africa,Sub-Saharan Africa,Zimbabwe,Harare,WFP,76
+Africa,Sub-Saharan Africa,Zimbabwe,Harare,WHO,76
+Africa,Sub-Saharan Africa,Zimbabwe,Masvingo,WFP,6
+Africa,Sub-Saharan Africa,Zimbabwe,Mutare,WFP,1
+Africa,Sub-Saharan Africa,Zimbabwe,Tongogara,UNHCR,4
+Americas,Latin America and the Caribbean,Antigua and Barbuda,St. John,UN,1
+Americas,Latin America and the Caribbean,Argentina,Buenos Aires,FAO,1
+Americas,Latin America and the Caribbean,Argentina,Buenos Aires,ILO,22
+Americas,Latin America and the Caribbean,Argentina,Buenos Aires,IOM,29
+Americas,Latin America and the Caribbean,Argentina,Buenos Aires,PAHO,8
+Americas,Latin America and the Caribbean,Argentina,Buenos Aires,UN,25
+Americas,Latin America and the Caribbean,Argentina,Buenos Aires,UN WOMEN,1
+Americas,Latin America and the Caribbean,Argentina,Buenos Aires,UNAIDS,5
+Americas,Latin America and the Caribbean,Argentina,Buenos Aires,UNDP,49
+Americas,Latin America and the Caribbean,Argentina,Buenos Aires,UNESCO,15
+Americas,Latin America and the Caribbean,Argentina,Buenos Aires,UNFPA,2
+Americas,Latin America and the Caribbean,Argentina,Buenos Aires,UNHCR,32
+Americas,Latin America and the Caribbean,Argentina,Buenos Aires,UNICEF,88
+Americas,Latin America and the Caribbean,Argentina,Buenos Aires,UNOPS,1
+Americas,Latin America and the Caribbean,Aruba,Oranjestad,UNHCR,2
+Americas,Latin America and the Caribbean,Bahamas,Nassau,PAHO,3
+Americas,Latin America and the Caribbean,Bahamas,Nassau,UN,1
+Americas,Latin America and the Caribbean,Barbados,Bridgetown,FAO,19
+Americas,Latin America and the Caribbean,Barbados,Bridgetown,ITU,3
+Americas,Latin America and the Caribbean,Barbados,Bridgetown,PAHO,23
+Americas,Latin America and the Caribbean,Barbados,Bridgetown,UN,11
+Americas,Latin America and the Caribbean,Barbados,Bridgetown,UN WOMEN,10
+Americas,Latin America and the Caribbean,Barbados,Bridgetown,UNDP,19
+Americas,Latin America and the Caribbean,Barbados,Bridgetown,UNESCO,1
+Americas,Latin America and the Caribbean,Barbados,Bridgetown,UNFPA,2
+Americas,Latin America and the Caribbean,Barbados,Bridgetown,UNICEF,20
+Americas,Latin America and the Caribbean,Barbados,Bridgetown,WFP,2
+Americas,Latin America and the Caribbean,Belize,Belize City,PAHO,8
+Americas,Latin America and the Caribbean,Belize,Belize City,UN,7
+Americas,Latin America and the Caribbean,Belize,Belize City,UNDP,1
+Americas,Latin America and the Caribbean,Belize,Belize City,UNFPA,2
+Americas,Latin America and the Caribbean,Belize,Belize City,UNHCR,5
+Americas,Latin America and the Caribbean,Belize,Belize City,UNICEF,14
+Americas,Latin America and the Caribbean,Belize,Belmopan,UN,1
+Americas,Latin America and the Caribbean,Belize,Belmopan,UNDP,5
+Americas,Latin America and the Caribbean,Bolivia,Cochabamba,UNICEF,4
+Americas,Latin America and the Caribbean,Bolivia,La Paz,FAO,7
+Americas,Latin America and the Caribbean,Bolivia,La Paz,IFAD,1
+Americas,Latin America and the Caribbean,Bolivia,La Paz,ILO,4
+Americas,Latin America and the Caribbean,Bolivia,La Paz,PAHO,10
+Americas,Latin America and the Caribbean,Bolivia,La Paz,UN,20
+Americas,Latin America and the Caribbean,Bolivia,La Paz,UN WOMEN,3
+Americas,Latin America and the Caribbean,Bolivia,La Paz,UNDP,18
+Americas,Latin America and the Caribbean,Bolivia,La Paz,UNFPA,14
+Americas,Latin America and the Caribbean,Bolivia,La Paz,UNICEF,34
+Americas,Latin America and the Caribbean,Bolivia,La Paz,UNOPS,2
+Americas,Latin America and the Caribbean,Bolivia,La Paz,WFP,4
+Americas,Latin America and the Caribbean,Brazil,Belem,UNICEF,5
+Americas,Latin America and the Caribbean,Brazil,Boa Vista,UNHCR,19
+Americas,Latin America and the Caribbean,Brazil,Brasilia,FAO,9
+Americas,Latin America and the Caribbean,Brazil,Brasilia,IFAD,5
+Americas,Latin America and the Caribbean,Brazil,Brasilia,ILO,35
+Americas,Latin America and the Caribbean,Brazil,Brasilia,IOM,1
+Americas,Latin America and the Caribbean,Brazil,Brasilia,ITU,6
+Americas,Latin America and the Caribbean,Brazil,Brasilia,PAHO,27
+Americas,Latin America and the Caribbean,Brazil,Brasilia,UN,23
+Americas,Latin America and the Caribbean,Brazil,Brasilia,UN WOMEN,12
+Americas,Latin America and the Caribbean,Brazil,Brasilia,UNAIDS,5
+Americas,Latin America and the Caribbean,Brazil,Brasilia,UNDP,42
+Americas,Latin America and the Caribbean,Brazil,Brasilia,UNESCO,18
+Americas,Latin America and the Caribbean,Brazil,Brasilia,UNFPA,8
+Americas,Latin America and the Caribbean,Brazil,Brasilia,UNHCR,32
+Americas,Latin America and the Caribbean,Brazil,Brasilia,UNICEF,75
+Americas,Latin America and the Caribbean,Brazil,Brasilia,UNIDO,2
+Americas,Latin America and the Caribbean,Brazil,Brasilia,WFP,6
+Americas,Latin America and the Caribbean,Brazil,Fortaleza,UNICEF,2
+Americas,Latin America and the Caribbean,Brazil,Manaus,ICAO,1
+Americas,Latin America and the Caribbean,Brazil,Manaus,UNHCR,4
+Americas,Latin America and the Caribbean,Brazil,Manaus,UNICEF,3
+Americas,Latin America and the Caribbean,Brazil,Pacaraima,UNHCR,3
+Americas,Latin America and the Caribbean,Brazil,Recife,UNICEF,6
+Americas,Latin America and the Caribbean,Brazil,Rio De Janeiro,PAHO,19
+Americas,Latin America and the Caribbean,Brazil,Rio De Janeiro,UN,11
+Americas,Latin America and the Caribbean,Brazil,Rio De Janeiro,UNICEF,4
+Americas,Latin America and the Caribbean,Brazil,Rio De Janeiro,WIPO,3
+Americas,Latin America and the Caribbean,Brazil,Salvador,IFAD,2
+Americas,Latin America and the Caribbean,Brazil,Salvador,UNICEF,3
+Americas,Latin America and the Caribbean,Brazil,Sao Luis,UNICEF,2
+Americas,Latin America and the Caribbean,Brazil,Sao Paulo,ILO,1
+Americas,Latin America and the Caribbean,Brazil,Sao Paulo,PAHO,1
+Americas,Latin America and the Caribbean,Brazil,Sao Paulo,UNHCR,13
+Americas,Latin America and the Caribbean,Brazil,Sao Paulo,UNICEF,6
+Americas,Latin America and the Caribbean,Chile,Arica,UNHCR,3
+Americas,Latin America and the Caribbean,Chile,Santiago,FAO,81
+Americas,Latin America and the Caribbean,Chile,Santiago,ILO,27
+Americas,Latin America and the Caribbean,Chile,Santiago,IOM,2
+Americas,Latin America and the Caribbean,Chile,Santiago,ITU,2
+Americas,Latin America and the Caribbean,Chile,Santiago,PAHO,6
+Americas,Latin America and the Caribbean,Chile,Santiago,UN,504
+Americas,Latin America and the Caribbean,Chile,Santiago,UNDP,13
+Americas,Latin America and the Caribbean,Chile,Santiago,UNESCO,12
+Americas,Latin America and the Caribbean,Chile,Santiago,UNFPA,1
+Americas,Latin America and the Caribbean,Chile,Santiago,UNHCR,12
+Americas,Latin America and the Caribbean,Chile,Santiago,UNICEF,38
+Americas,Latin America and the Caribbean,Chile,Santiago,WFP,1
+Americas,Latin America and the Caribbean,Colombia,Apartado,UN,5
+Americas,Latin America and the Caribbean,Colombia,Apartado,UNHCR,6
+Americas,Latin America and the Caribbean,Colombia,Arauca,IOM,6
+Americas,Latin America and the Caribbean,Colombia,Arauca,UN,5
+Americas,Latin America and the Caribbean,Colombia,Arauca,UNHCR,6
+Americas,Latin America and the Caribbean,Colombia,Arauca,WFP,4
+Americas,Latin America and the Caribbean,Colombia,Barrancabermeja,UN,2
+Americas,Latin America and the Caribbean,Colombia,Barranquilla,IOM,6
+Americas,Latin America and the Caribbean,Colombia,Barranquilla,UN,7
+Americas,Latin America and the Caribbean,Colombia,Barranquilla,UNHCR,6
+Americas,Latin America and the Caribbean,Colombia,Bogota,FAO,7
+Americas,Latin America and the Caribbean,Colombia,Bogota,ILO,21
+Americas,Latin America and the Caribbean,Colombia,Bogota,IOM,320
+Americas,Latin America and the Caribbean,Colombia,Bogota,PAHO,11
+Americas,Latin America and the Caribbean,Colombia,Bogota,UN,214
+Americas,Latin America and the Caribbean,Colombia,Bogota,UN WOMEN,15
+Americas,Latin America and the Caribbean,Colombia,Bogota,UNDP,43
+Americas,Latin America and the Caribbean,Colombia,Bogota,UNFPA,8
+Americas,Latin America and the Caribbean,Colombia,Bogota,UNHCR,60
+Americas,Latin America and the Caribbean,Colombia,Bogota,UNICEF,60
+Americas,Latin America and the Caribbean,Colombia,Bogota,UNIDO,3
+Americas,Latin America and the Caribbean,Colombia,Bogota,WFP,48
+Americas,Latin America and the Caribbean,Colombia,Bucaramanga,IOM,5
+Americas,Latin America and the Caribbean,Colombia,Bucaramanga,UN,1
+Americas,Latin America and the Caribbean,Colombia,Buenaventura,UNHCR,1
+Americas,Latin America and the Caribbean,Colombia,Cali,IOM,13
+Americas,Latin America and the Caribbean,Colombia,Cali,UN,13
+Americas,Latin America and the Caribbean,Colombia,Cali,UNDP,1
+Americas,Latin America and the Caribbean,Colombia,Cali,UNHCR,13
+Americas,Latin America and the Caribbean,Colombia,Cali,WFP,6
+Americas,Latin America and the Caribbean,Colombia,Cartagena,IOM,5
+Americas,Latin America and the Caribbean,Colombia,Cartagena,UNESCO,2
+Americas,Latin America and the Caribbean,Colombia,Cartagena,UNOPS,1
+Americas,Latin America and the Caribbean,Colombia,Cucuta,IOM,12
+Americas,Latin America and the Caribbean,Colombia,Cucuta,UN,12
+Americas,Latin America and the Caribbean,Colombia,Cucuta,UNHCR,13
+Americas,Latin America and the Caribbean,Colombia,Cucuta,UNICEF,1
+Americas,Latin America and the Caribbean,Colombia,Cucuta,WFP,5
+Americas,Latin America and the Caribbean,Colombia,Dabeiba,UN,1
+Americas,Latin America and the Caribbean,Colombia,El Bordo,UN,1
+Americas,Latin America and the Caribbean,Colombia,Florencia,IOM,3
+Americas,Latin America and the Caribbean,Colombia,Florencia,UN,7
+Americas,Latin America and the Caribbean,Colombia,Florencia,WFP,3
+Americas,Latin America and the Caribbean,Colombia,Fonseca,UN,1
+Americas,Latin America and the Caribbean,Colombia,Guajira,IOM,12
+Americas,Latin America and the Caribbean,Colombia,Ibague,IOM,1
+Americas,Latin America and the Caribbean,Colombia,Icononzo,UN,1
+Americas,Latin America and the Caribbean,Colombia,Las Colinas,UN,1
+Americas,Latin America and the Caribbean,Colombia,Manizales (Caldas),IOM,1
+Americas,Latin America and the Caribbean,Colombia,Medellin,IOM,16
+Americas,Latin America and the Caribbean,Colombia,Medellin,UN,18
+Americas,Latin America and the Caribbean,Colombia,Medellin,UNHCR,14
+Americas,Latin America and the Caribbean,Colombia,Mesetas,UN,1
+Americas,Latin America and the Caribbean,Colombia,Mocoa,UN,4
+Americas,Latin America and the Caribbean,Colombia,Mocoa,UNHCR,6
+Americas,Latin America and the Caribbean,Colombia,Monteria,UN,3
+Americas,Latin America and the Caribbean,Colombia,Monteria,WFP,6
+Americas,Latin America and the Caribbean,Colombia,Neiva,IOM,1
+Americas,Latin America and the Caribbean,Colombia,Neiva,UN,8
+Americas,Latin America and the Caribbean,Colombia,Pasto,IOM,10
+Americas,Latin America and the Caribbean,Colombia,Pasto,UN,12
+Americas,Latin America and the Caribbean,Colombia,Pasto,UNHCR,8
+Americas,Latin America and the Caribbean,Colombia,Pasto,WFP,8
+Americas,Latin America and the Caribbean,Colombia,Popayan,IOM,1
+Americas,Latin America and the Caribbean,Colombia,Popayan,UN,8
+Americas,Latin America and the Caribbean,Colombia,Puerto Asis,UN,1
+Americas,Latin America and the Caribbean,Colombia,Quibdo,IOM,2
+Americas,Latin America and the Caribbean,Colombia,Quibdo,UN,11
+Americas,Latin America and the Caribbean,Colombia,Quibdo,UNHCR,6
+Americas,Latin America and the Caribbean,Colombia,Quibdo,UNICEF,1
+Americas,Latin America and the Caribbean,Colombia,Quibdo,WFP,5
+Americas,Latin America and the Caribbean,Colombia,Riohacha,UNHCR,13
+Americas,Latin America and the Caribbean,Colombia,Riohacha,UNICEF,1
+Americas,Latin America and the Caribbean,Colombia,Riohacha,WFP,6
+Americas,Latin America and the Caribbean,Colombia,San Josedel Guaviare,UN,9
+Americas,Latin America and the Caribbean,Colombia,San Vincente Caguan,UN,1
+Americas,Latin America and the Caribbean,Colombia,Santa Marta,IOM,2
+Americas,Latin America and the Caribbean,Colombia,Santander de Quilinchao,UN,1
+Americas,Latin America and the Caribbean,Colombia,Sincelejo,IOM,2
+Americas,Latin America and the Caribbean,Colombia,Sincelejo,UN,2
+Americas,Latin America and the Caribbean,Colombia,Tumaco,UN,1
+Americas,Latin America and the Caribbean,Colombia,Tunja,IOM,1
+Americas,Latin America and the Caribbean,Colombia,Valledupar,IOM,4
+Americas,Latin America and the Caribbean,Colombia,Valledupar,UN,8
+Americas,Latin America and the Caribbean,Colombia,Villavicencio,UN,11
+Americas,Latin America and the Caribbean,Colombia,Vista Hermosa,UN,1
+Americas,Latin America and the Caribbean,Colombia,Yarumal,UN,1
+Americas,Latin America and the Caribbean,Costa Rica,San Jose,FAO,2
+Americas,Latin America and the Caribbean,Costa Rica,San Jose,ILO,35
+Americas,Latin America and the Caribbean,Costa Rica,San Jose,IOM,23
+Americas,Latin America and the Caribbean,Costa Rica,San Jose,PAHO,7
+Americas,Latin America and the Caribbean,Costa Rica,San Jose,UN,10
+Americas,Latin America and the Caribbean,Costa Rica,San Jose,UNDP,11
+Americas,Latin America and the Caribbean,Costa Rica,San Jose,UNESCO,13
+Americas,Latin America and the Caribbean,Costa Rica,San Jose,UNFPA,4
+Americas,Latin America and the Caribbean,Costa Rica,San Jose,UNHCR,21
+Americas,Latin America and the Caribbean,Costa Rica,San Jose,UNICEF,16
+Americas,Latin America and the Caribbean,Costa Rica,San Jose,UNOPS,2
+Americas,Latin America and the Caribbean,Costa Rica,San Jose,UPU,1
+Americas,Latin America and the Caribbean,Costa Rica,San Jose,WHO,1
+Americas,Latin America and the Caribbean,Costa Rica,San Jose,WMO,4
+Americas,Latin America and the Caribbean,Costa Rica,Upala,UNHCR,3
+Americas,Latin America and the Caribbean,Cuba,Havana,FAO,4
+Americas,Latin America and the Caribbean,Cuba,Havana,PAHO,1
+Americas,Latin America and the Caribbean,Cuba,Havana,UN,7
+Americas,Latin America and the Caribbean,Cuba,Havana,UNDP,31
+Americas,Latin America and the Caribbean,Cuba,Havana,UNESCO,20
+Americas,Latin America and the Caribbean,Cuba,Havana,UNFPA,5
+Americas,Latin America and the Caribbean,Cuba,Havana,UNHCR,2
+Americas,Latin America and the Caribbean,Cuba,Havana,UNICEF,17
+Americas,Latin America and the Caribbean,Cuba,Havana,WFP,21
+Americas,Latin America and the Caribbean,Dominica,Roseau,PAHO,1
+Americas,Latin America and the Caribbean,Dominica,Roseau,UN,1
+Americas,Latin America and the Caribbean,Dominica,Roseau,UNDP,1
+Americas,Latin America and the Caribbean,Dominican Republic,Santo Domingo,FAO,4
+Americas,Latin America and the Caribbean,Dominican Republic,Santo Domingo,ILO,4
+Americas,Latin America and the Caribbean,Dominican Republic,Santo Domingo,IOM,8
+Americas,Latin America and the Caribbean,Dominican Republic,Santo Domingo,PAHO,10
+Americas,Latin America and the Caribbean,Dominican Republic,Santo Domingo,UN,12
+Americas,Latin America and the Caribbean,Dominican Republic,Santo Domingo,UN WOMEN,1
+Americas,Latin America and the Caribbean,Dominican Republic,Santo Domingo,UNAIDS,4
+Americas,Latin America and the Caribbean,Dominican Republic,Santo Domingo,UNDP,21
+Americas,Latin America and the Caribbean,Dominican Republic,Santo Domingo,UNFPA,7
+Americas,Latin America and the Caribbean,Dominican Republic,Santo Domingo,UNHCR,14
+Americas,Latin America and the Caribbean,Dominican Republic,Santo Domingo,UNICEF,24
+Americas,Latin America and the Caribbean,Dominican Republic,Santo Domingo,UNOPS,1
+Americas,Latin America and the Caribbean,Dominican Republic,Santo Domingo,WFP,11
+Americas,Latin America and the Caribbean,Ecuador,Ambato,UNHCR,1
+Americas,Latin America and the Caribbean,Ecuador,Cuenca,UNHCR,1
+Americas,Latin America and the Caribbean,Ecuador,Esmeraldas,IOM,1
+Americas,Latin America and the Caribbean,Ecuador,Esmeraldas,UNHCR,6
+Americas,Latin America and the Caribbean,Ecuador,Esmeraldas,UNICEF,1
+Americas,Latin America and the Caribbean,Ecuador,Guayaquil,UNHCR,6
+Americas,Latin America and the Caribbean,Ecuador,Huaquillas,UNHCR,3
+Americas,Latin America and the Caribbean,Ecuador,Ibarra,UNHCR,6
+Americas,Latin America and the Caribbean,Ecuador,Lago Agrio,IOM,3
+Americas,Latin America and the Caribbean,Ecuador,Lago Agrio,UNHCR,5
+Americas,Latin America and the Caribbean,Ecuador,Lago Agrio,UNICEF,1
+Americas,Latin America and the Caribbean,Ecuador,Quito,FAO,3
+Americas,Latin America and the Caribbean,Ecuador,Quito,ILO,9
+Americas,Latin America and the Caribbean,Ecuador,Quito,IOM,92
+Americas,Latin America and the Caribbean,Ecuador,Quito,PAHO,9
+Americas,Latin America and the Caribbean,Ecuador,Quito,UN,12
+Americas,Latin America and the Caribbean,Ecuador,Quito,UN WOMEN,9
+Americas,Latin America and the Caribbean,Ecuador,Quito,UNDP,23
+Americas,Latin America and the Caribbean,Ecuador,Quito,UNESCO,9
+Americas,Latin America and the Caribbean,Ecuador,Quito,UNFPA,9
+Americas,Latin America and the Caribbean,Ecuador,Quito,UNHCR,47
+Americas,Latin America and the Caribbean,Ecuador,Quito,UNICEF,32
+Americas,Latin America and the Caribbean,Ecuador,Quito,UNIDO,1
+Americas,Latin America and the Caribbean,Ecuador,Quito,UNOPS,1
+Americas,Latin America and the Caribbean,Ecuador,Quito,WFP,11
+Americas,Latin America and the Caribbean,Ecuador,Tulcan,IOM,3
+Americas,Latin America and the Caribbean,Ecuador,Tulce,UNHCR,5
+Americas,Latin America and the Caribbean,El Salvador,San Salvador,FAO,6
+Americas,Latin America and the Caribbean,El Salvador,San Salvador,ILO,2
+Americas,Latin America and the Caribbean,El Salvador,San Salvador,IOM,145
+Americas,Latin America and the Caribbean,El Salvador,San Salvador,PAHO,6
+Americas,Latin America and the Caribbean,El Salvador,San Salvador,UN,16
+Americas,Latin America and the Caribbean,El Salvador,San Salvador,UN WOMEN,3
+Americas,Latin America and the Caribbean,El Salvador,San Salvador,UNAIDS,1
+Americas,Latin America and the Caribbean,El Salvador,San Salvador,UNDP,25
+Americas,Latin America and the Caribbean,El Salvador,San Salvador,UNFPA,11
+Americas,Latin America and the Caribbean,El Salvador,San Salvador,UNHCR,31
+Americas,Latin America and the Caribbean,El Salvador,San Salvador,UNICEF,25
+Americas,Latin America and the Caribbean,El Salvador,San Salvador,UNOPS,2
+Americas,Latin America and the Caribbean,El Salvador,San Salvador,WFP,18
+Americas,Latin America and the Caribbean,Grenada,St. Georges,PAHO,1
+Americas,Latin America and the Caribbean,Grenada,St. Georges,UN,1
+Americas,Latin America and the Caribbean,Guatemala,Esquipulas,UNHCR,6
+Americas,Latin America and the Caribbean,Guatemala,Guatemala City,FAO,7
+Americas,Latin America and the Caribbean,Guatemala,Guatemala City,IAEA,1
+Americas,Latin America and the Caribbean,Guatemala,Guatemala City,IFAD,1
+Americas,Latin America and the Caribbean,Guatemala,Guatemala City,ILO,8
+Americas,Latin America and the Caribbean,Guatemala,Guatemala City,IOM,46
+Americas,Latin America and the Caribbean,Guatemala,Guatemala City,PAHO,17
+Americas,Latin America and the Caribbean,Guatemala,Guatemala City,UN,49
+Americas,Latin America and the Caribbean,Guatemala,Guatemala City,UN WOMEN,4
+Americas,Latin America and the Caribbean,Guatemala,Guatemala City,UNAIDS,3
+Americas,Latin America and the Caribbean,Guatemala,Guatemala City,UNDP,33
+Americas,Latin America and the Caribbean,Guatemala,Guatemala City,UNESCO,7
+Americas,Latin America and the Caribbean,Guatemala,Guatemala City,UNFPA,12
+Americas,Latin America and the Caribbean,Guatemala,Guatemala City,UNHCR,39
+Americas,Latin America and the Caribbean,Guatemala,Guatemala City,UNICEF,32
+Americas,Latin America and the Caribbean,Guatemala,Guatemala City,UNOPS,2
+Americas,Latin America and the Caribbean,Guatemala,Guatemala City,WFP,19
+Americas,Latin America and the Caribbean,Guatemala,Puerto Barrios,UNHCR,5
+Americas,Latin America and the Caribbean,Guatemala,Santa Elena,UNHCR,7
+Americas,Latin America and the Caribbean,Guatemala,Tecun Uman,UNHCR,5
+Americas,Latin America and the Caribbean,Guyana,Georgetown,FAO,7
+Americas,Latin America and the Caribbean,Guyana,Georgetown,IOM,4
+Americas,Latin America and the Caribbean,Guyana,Georgetown,PAHO,8
+Americas,Latin America and the Caribbean,Guyana,Georgetown,UN,9
+Americas,Latin America and the Caribbean,Guyana,Georgetown,UNAIDS,3
+Americas,Latin America and the Caribbean,Guyana,Georgetown,UNDP,15
+Americas,Latin America and the Caribbean,Guyana,Georgetown,UNFPA,2
+Americas,Latin America and the Caribbean,Guyana,Georgetown,UNHCR,4
+Americas,Latin America and the Caribbean,Guyana,Georgetown,UNICEF,19
+Americas,Latin America and the Caribbean,Haiti,Cap Haitien,WFP,2
+Americas,Latin America and the Caribbean,Haiti,Gonaives,UNICEF,2
+Americas,Latin America and the Caribbean,Haiti,Gonaives,WFP,2
+Americas,Latin America and the Caribbean,Haiti,Les Cayes,UN,1
+Americas,Latin America and the Caribbean,Haiti,Les Cayes,UNICEF,4
+Americas,Latin America and the Caribbean,Haiti,Port-Au-Prince,FAO,6
+Americas,Latin America and the Caribbean,Haiti,Port-Au-Prince,IFAD,2
+Americas,Latin America and the Caribbean,Haiti,Port-Au-Prince,ILO,19
+Americas,Latin America and the Caribbean,Haiti,Port-Au-Prince,IOM,5
+Americas,Latin America and the Caribbean,Haiti,Port-Au-Prince,PAHO,15
+Americas,Latin America and the Caribbean,Haiti,Port-Au-Prince,UN,110
+Americas,Latin America and the Caribbean,Haiti,Port-Au-Prince,UN WOMEN,8
+Americas,Latin America and the Caribbean,Haiti,Port-Au-Prince,UNAIDS,7
+Americas,Latin America and the Caribbean,Haiti,Port-Au-Prince,UNDP,43
+Americas,Latin America and the Caribbean,Haiti,Port-Au-Prince,UNESCO,8
+Americas,Latin America and the Caribbean,Haiti,Port-Au-Prince,UNFPA,24
+Americas,Latin America and the Caribbean,Haiti,Port-Au-Prince,UNICEF,82
+Americas,Latin America and the Caribbean,Haiti,Port-Au-Prince,UNOPS,2
+Americas,Latin America and the Caribbean,Haiti,Port-Au-Prince,WFP,28
+Americas,Latin America and the Caribbean,Honduras,Choluteca,UNHCR,1
+Americas,Latin America and the Caribbean,Honduras,Mercedes,UNHCR,1
+Americas,Latin America and the Caribbean,Honduras,Other,WFP,3
+Americas,Latin America and the Caribbean,Honduras,San Pedro Sula,IOM,6
+Americas,Latin America and the Caribbean,Honduras,San Pedro Sula,UNHCR,10
+Americas,Latin America and the Caribbean,Honduras,San Pedro Sula,WFP,2
+Americas,Latin America and the Caribbean,Honduras,Tegucigalpa,FAO,5
+Americas,Latin America and the Caribbean,Honduras,Tegucigalpa,ILO,7
+Americas,Latin America and the Caribbean,Honduras,Tegucigalpa,IOM,24
+Americas,Latin America and the Caribbean,Honduras,Tegucigalpa,ITU,3
+Americas,Latin America and the Caribbean,Honduras,Tegucigalpa,PAHO,16
+Americas,Latin America and the Caribbean,Honduras,Tegucigalpa,UN,30
+Americas,Latin America and the Caribbean,Honduras,Tegucigalpa,UN WOMEN,1
+Americas,Latin America and the Caribbean,Honduras,Tegucigalpa,UNDP,21
+Americas,Latin America and the Caribbean,Honduras,Tegucigalpa,UNFPA,14
+Americas,Latin America and the Caribbean,Honduras,Tegucigalpa,UNHCR,31
+Americas,Latin America and the Caribbean,Honduras,Tegucigalpa,UNICEF,30
+Americas,Latin America and the Caribbean,Honduras,Tegucigalpa,UNOPS,3
+Americas,Latin America and the Caribbean,Honduras,Tegucigalpa,WFP,48
+Americas,Latin America and the Caribbean,Jamaica,Kingston,FAO,7
+Americas,Latin America and the Caribbean,Jamaica,Kingston,IOM,1
+Americas,Latin America and the Caribbean,Jamaica,Kingston,ISA,42
+Americas,Latin America and the Caribbean,Jamaica,Kingston,PAHO,9
+Americas,Latin America and the Caribbean,Jamaica,Kingston,UN,32
+Americas,Latin America and the Caribbean,Jamaica,Kingston,UN WOMEN,1
+Americas,Latin America and the Caribbean,Jamaica,Kingston,UNAIDS,5
+Americas,Latin America and the Caribbean,Jamaica,Kingston,UNDP,14
+Americas,Latin America and the Caribbean,Jamaica,Kingston,UNESCO,14
+Americas,Latin America and the Caribbean,Jamaica,Kingston,UNFPA,10
+Americas,Latin America and the Caribbean,Jamaica,Kingston,UNICEF,17
+Americas,Latin America and the Caribbean,Mexico,Acayucan,UNHCR,2
+Americas,Latin America and the Caribbean,Mexico,Aguascalientes,UNHCR,1
+Americas,Latin America and the Caribbean,Mexico,Cancun,UNHCR,1
+Americas,Latin America and the Caribbean,Mexico,Mexico City,FAO,7
+Americas,Latin America and the Caribbean,Mexico,Mexico City,ICAO,23
+Americas,Latin America and the Caribbean,Mexico,Mexico City,ILO,25
+Americas,Latin America and the Caribbean,Mexico,Mexico City,IOM,14
+Americas,Latin America and the Caribbean,Mexico,Mexico City,PAHO,12
+Americas,Latin America and the Caribbean,Mexico,Mexico City,UN,126
+Americas,Latin America and the Caribbean,Mexico,Mexico City,UN WOMEN,16
+Americas,Latin America and the Caribbean,Mexico,Mexico City,UNDP,26
+Americas,Latin America and the Caribbean,Mexico,Mexico City,UNESCO,7
+Americas,Latin America and the Caribbean,Mexico,Mexico City,UNFPA,11
+Americas,Latin America and the Caribbean,Mexico,Mexico City,UNHCR,57
+Americas,Latin America and the Caribbean,Mexico,Mexico City,UNICEF,62
+Americas,Latin America and the Caribbean,Mexico,Mexico City,UNIDO,6
+Americas,Latin America and the Caribbean,Mexico,Mexico City,UNOPS,1
+Americas,Latin America and the Caribbean,Mexico,Mexico City,WHO,2
+Americas,Latin America and the Caribbean,Mexico,Monterrey,UNHCR,7
+Americas,Latin America and the Caribbean,Mexico,Palenque,UNHCR,1
+Americas,Latin America and the Caribbean,Mexico,Saltillo,UNHCR,3
+Americas,Latin America and the Caribbean,Mexico,Tapachula,IOM,1
+Americas,Latin America and the Caribbean,Mexico,Tapachula,UNHCR,12
+Americas,Latin America and the Caribbean,Mexico,Tapachula,UNICEF,2
+Americas,Latin America and the Caribbean,Mexico,Tenosique,UNHCR,4
+Americas,Latin America and the Caribbean,Mexico,Tijuana,UNHCR,2
+Americas,Latin America and the Caribbean,Mexico,Tijuana,UNICEF,1
+Americas,Latin America and the Caribbean,Mexico,Tuxtla Gutierrez,UNHCR,3
+Americas,Latin America and the Caribbean,Nicaragua,Managua,FAO,6
+Americas,Latin America and the Caribbean,Nicaragua,Managua,ILO,5
+Americas,Latin America and the Caribbean,Nicaragua,Managua,IOM,1
+Americas,Latin America and the Caribbean,Nicaragua,Managua,PAHO,12
+Americas,Latin America and the Caribbean,Nicaragua,Managua,UN,2
+Americas,Latin America and the Caribbean,Nicaragua,Managua,UNDP,2
+Americas,Latin America and the Caribbean,Nicaragua,Managua,UNFPA,13
+Americas,Latin America and the Caribbean,Nicaragua,Managua,UNICEF,23
+Americas,Latin America and the Caribbean,Nicaragua,Managua,UNIDO,1
+Americas,Latin America and the Caribbean,Nicaragua,Managua,UNOPS,1
+Americas,Latin America and the Caribbean,Nicaragua,Managua,WFP,26
+Americas,Latin America and the Caribbean,Panama,Panama City,FAO,22
+Americas,Latin America and the Caribbean,Panama,Panama City,IFAD,12
+Americas,Latin America and the Caribbean,Panama,Panama City,ILO,4
+Americas,Latin America and the Caribbean,Panama,Panama City,IOM,82
+Americas,Latin America and the Caribbean,Panama,Panama City,PAHO,9
+Americas,Latin America and the Caribbean,Panama,Panama City,UN,131
+Americas,Latin America and the Caribbean,Panama,Panama City,UN WOMEN,20
+Americas,Latin America and the Caribbean,Panama,Panama City,UNAIDS,15
+Americas,Latin America and the Caribbean,Panama,Panama City,UNDP,118
+Americas,Latin America and the Caribbean,Panama,Panama City,UNFPA,36
+Americas,Latin America and the Caribbean,Panama,Panama City,UNHCR,86
+Americas,Latin America and the Caribbean,Panama,Panama City,UNICEF,111
+Americas,Latin America and the Caribbean,Panama,Panama City,UNOPS,7
+Americas,Latin America and the Caribbean,Panama,Panama City,WFP,64
+Americas,Latin America and the Caribbean,Paraguay,Asuncion,FAO,4
+Americas,Latin America and the Caribbean,Paraguay,Asuncion,ILO,4
+Americas,Latin America and the Caribbean,Paraguay,Asuncion,IOM,4
+Americas,Latin America and the Caribbean,Paraguay,Asuncion,PAHO,9
+Americas,Latin America and the Caribbean,Paraguay,Asuncion,UN,12
+Americas,Latin America and the Caribbean,Paraguay,Asuncion,UN WOMEN,1
+Americas,Latin America and the Caribbean,Paraguay,Asuncion,UNDP,23
+Americas,Latin America and the Caribbean,Paraguay,Asuncion,UNFPA,6
+Americas,Latin America and the Caribbean,Paraguay,Asuncion,UNICEF,22
+Americas,Latin America and the Caribbean,Paraguay,Asuncion,WMO,6
+Americas,Latin America and the Caribbean,Peru,Arequipa,UNHCR,1
+Americas,Latin America and the Caribbean,Peru,Lima,FAO,8
+Americas,Latin America and the Caribbean,Peru,Lima,ICAO,32
+Americas,Latin America and the Caribbean,Peru,Lima,IFAD,9
+Americas,Latin America and the Caribbean,Peru,Lima,ILO,76
+Americas,Latin America and the Caribbean,Peru,Lima,IOM,11
+Americas,Latin America and the Caribbean,Peru,Lima,PAHO,18
+Americas,Latin America and the Caribbean,Peru,Lima,UN,21
+Americas,Latin America and the Caribbean,Peru,Lima,UNAIDS,4
+Americas,Latin America and the Caribbean,Peru,Lima,UNDP,24
+Americas,Latin America and the Caribbean,Peru,Lima,UNESCO,6
+Americas,Latin America and the Caribbean,Peru,Lima,UNFPA,8
+Americas,Latin America and the Caribbean,Peru,Lima,UNHCR,28
+Americas,Latin America and the Caribbean,Peru,Lima,UNICEF,49
+Americas,Latin America and the Caribbean,Peru,Lima,UNOPS,2
+Americas,Latin America and the Caribbean,Peru,Lima,WFP,9
+Americas,Latin America and the Caribbean,Peru,Tacna,UNHCR,2
+Americas,Latin America and the Caribbean,Peru,Tumbes,UNHCR,5
+Americas,Latin America and the Caribbean,Puerto Rico,San Juan,UN,1
+Americas,Latin America and the Caribbean,Saint Kitts and Nevis,Basseterre,PAHO,1
+Americas,Latin America and the Caribbean,Saint Kitts and Nevis,Saint Kitts and Nevis,UN,1
+Americas,Latin America and the Caribbean,Saint Lucia,Castries,PAHO,1
+Americas,Latin America and the Caribbean,Saint Lucia,Castries,UNICEF,1
+Americas,Latin America and the Caribbean,Saint Lucia,Castries,UPU,1
+Americas,Latin America and the Caribbean,Saint Vincent & The Grenadines,Kingstown,PAHO,1
+Americas,Latin America and the Caribbean,Saint Vincent & The Grenadines,Kingstown,UN,1
+Americas,Latin America and the Caribbean,Suriname,Paramaribo,FAO,3
+Americas,Latin America and the Caribbean,Suriname,Paramaribo,PAHO,5
+Americas,Latin America and the Caribbean,Suriname,Paramaribo,UN,4
+Americas,Latin America and the Caribbean,Suriname,Paramaribo,UNDP,10
+Americas,Latin America and the Caribbean,Suriname,Paramaribo,UNFPA,1
+Americas,Latin America and the Caribbean,Suriname,Paramaribo,UNICEF,8
+Americas,Latin America and the Caribbean,Trinidad and Tobago,Port Of Spain,FAO,6
+Americas,Latin America and the Caribbean,Trinidad and Tobago,Port Of Spain,ILO,21
+Americas,Latin America and the Caribbean,Trinidad and Tobago,Port Of Spain,IMO,1
+Americas,Latin America and the Caribbean,Trinidad and Tobago,Port Of Spain,PAHO,7
+Americas,Latin America and the Caribbean,Trinidad and Tobago,Port Of Spain,UN,49
+Americas,Latin America and the Caribbean,Trinidad and Tobago,Port Of Spain,UNAIDS,1
+Americas,Latin America and the Caribbean,Trinidad and Tobago,Port Of Spain,UNDP,17
+Americas,Latin America and the Caribbean,Trinidad and Tobago,Port Of Spain,UNFPA,2
+Americas,Latin America and the Caribbean,Trinidad and Tobago,Port Of Spain,UNHCR,10
+Americas,Latin America and the Caribbean,Trinidad and Tobago,Port Of Spain,UNICEF,3
+Americas,Latin America and the Caribbean,Uruguay,Montevideo,FAO,4
+Americas,Latin America and the Caribbean,Uruguay,Montevideo,ICAO,2
+Americas,Latin America and the Caribbean,Uruguay,Montevideo,ILO,12
+Americas,Latin America and the Caribbean,Uruguay,Montevideo,IOM,1
+Americas,Latin America and the Caribbean,Uruguay,Montevideo,PAHO,9
+Americas,Latin America and the Caribbean,Uruguay,Montevideo,UN,10
+Americas,Latin America and the Caribbean,Uruguay,Montevideo,UN WOMEN,2
+Americas,Latin America and the Caribbean,Uruguay,Montevideo,UNDP,17
+Americas,Latin America and the Caribbean,Uruguay,Montevideo,UNESCO,18
+Americas,Latin America and the Caribbean,Uruguay,Montevideo,UNFPA,6
+Americas,Latin America and the Caribbean,Uruguay,Montevideo,UNICEF,24
+Americas,Latin America and the Caribbean,Uruguay,Montevideo,UNIDO,4
+Americas,Latin America and the Caribbean,Venezuela,Caracas,FAO,3
+Americas,Latin America and the Caribbean,Venezuela,Caracas,IOM,1
+Americas,Latin America and the Caribbean,Venezuela,Caracas,PAHO,17
+Americas,Latin America and the Caribbean,Venezuela,Caracas,UN,33
+Americas,Latin America and the Caribbean,Venezuela,Caracas,UNAIDS,3
+Americas,Latin America and the Caribbean,Venezuela,Caracas,UNDP,27
+Americas,Latin America and the Caribbean,Venezuela,Caracas,UNESCO,4
+Americas,Latin America and the Caribbean,Venezuela,Caracas,UNFPA,14
+Americas,Latin America and the Caribbean,Venezuela,Caracas,UNHCR,49
+Americas,Latin America and the Caribbean,Venezuela,Caracas,UNICEF,61
+Americas,Latin America and the Caribbean,Venezuela,Caracas,WFP,8
+Americas,Latin America and the Caribbean,Venezuela,Ciudad Guayana,UN,3
+Americas,Latin America and the Caribbean,Venezuela,Ciudad Guayana,UNHCR,17
+Americas,Latin America and the Caribbean,Venezuela,Ciudad Guayana,UNICEF,10
+Americas,Latin America and the Caribbean,Venezuela,Guasdualito,UNHCR,16
+Americas,Latin America and the Caribbean,Venezuela,Maracaibo,UN,3
+Americas,Latin America and the Caribbean,Venezuela,Maracaibo,UNHCR,18
+Americas,Latin America and the Caribbean,Venezuela,Maracaibo,UNICEF,11
+Americas,Latin America and the Caribbean,Venezuela,San Antonio del Tachira,UNHCR,2
+Americas,Latin America and the Caribbean,Venezuela,San Cristobal,UN,3
+Americas,Latin America and the Caribbean,Venezuela,San Cristobal,UNHCR,16
+Americas,Latin America and the Caribbean,Venezuela,San Cristobal,UNICEF,11
+Americas,Northern America,Canada,Montreal,ICAO,521
+Americas,Northern America,Canada,Montreal,UN,146
+Americas,Northern America,Canada,Montreal,UNESCO,38
+Americas,Northern America,Canada,Montreal,UNHCR,4
+Americas,Northern America,Canada,Montreal,WFP,1
+Americas,Northern America,Canada,Ottawa,ILO,1
+Americas,Northern America,Canada,Ottawa,UNAIDS,1
+Americas,Northern America,Canada,Ottawa,UNHCR,15
+Americas,Northern America,Canada,Ottawa,WFP,1
+Americas,Northern America,Canada,Ottawa,WHO,2
+Americas,Northern America,Canada,Toronto,IAEA,6
+Americas,Northern America,Canada,Toronto,UNAIDS,1
+Americas,Northern America,Canada,Toronto,UNHCR,15
+Americas,Northern America,Canada,Toronto,UNU,4
+Americas,Northern America,Canada,Toronto,WHO,4
+Americas,Northern America,Canada,Vancouver,UNHCR,3
+Americas,Northern America,United States of America,Chapel-Hill,WHO,1
+Americas,Northern America,United States of America,Chicago,IOM,11
+Americas,Northern America,United States of America,Cincinnati,WHO,2
+Americas,Northern America,United States of America,Dulles,IOM,7
+Americas,Northern America,United States of America,El Paso,UNHCR,2
+Americas,Northern America,United States of America,Guantanamo,IOM,7
+Americas,Northern America,United States of America,Houston,IOM,11
+Americas,Northern America,United States of America,Los Angeles,IOM,16
+Americas,Northern America,United States of America,Miami,UNHCR,1
+Americas,Northern America,United States of America,New York,CEB,8
+Americas,Northern America,United States of America,New York,FAO,10
+Americas,Northern America,United States of America,New York,IAEA,2
+Americas,Northern America,United States of America,New York,ICSC,45
+Americas,Northern America,United States of America,New York,ILO,7
+Americas,Northern America,United States of America,New York,IOM,42
+Americas,Northern America,United States of America,New York,ISA,1
+Americas,Northern America,United States of America,New York,ITC,1
+Americas,Northern America,United States of America,New York,ITU,6
+Americas,Northern America,United States of America,New York,UN,6 434
+Americas,Northern America,United States of America,New York,UN WOMEN,326
+Americas,Northern America,United States of America,New York,UNAIDS,6
+Americas,Northern America,United States of America,New York,UNDP,897
+Americas,Northern America,United States of America,New York,UNESCO,6
+Americas,Northern America,United States of America,New York,UNFPA,338
+Americas,Northern America,United States of America,New York,UNHCR,43
+Americas,Northern America,United States of America,New York,UNICC,46
+Americas,Northern America,United States of America,New York,UNICEF,1 093
+Americas,Northern America,United States of America,New York,UNIDO,2
+Americas,Northern America,United States of America,New York,UNITAR,1
+Americas,Northern America,United States of America,New York,UNJSPF,293
+Americas,Northern America,United States of America,New York,UNOPS,93
+Americas,Northern America,United States of America,New York,UNRWA,3
+Americas,Northern America,United States of America,New York,UNSSC,1
+Americas,Northern America,United States of America,New York,UNU,4
+Americas,Northern America,United States of America,New York,WFP,19
+Americas,Northern America,United States of America,New York,WHO,14
+Americas,Northern America,United States of America,New York,WIPO,2
+Americas,Northern America,United States of America,New York,WMO,1
+Americas,Northern America,United States of America,San Francisco,UNFPA,1
+Americas,Northern America,United States of America,San Francisco,UNHCR,2
+Americas,Northern America,United States of America,Seattle,WHO,4
+Americas,Northern America,United States of America,Washington,FAO,8
+Americas,Northern America,United States of America,Washington,IFAD,4
+Americas,Northern America,United States of America,Washington,ILO,4
+Americas,Northern America,United States of America,Washington,IOM,76
+Americas,Northern America,United States of America,Washington,PAHO,469
+Americas,Northern America,United States of America,Washington,UN,30
+Americas,Northern America,United States of America,Washington,UNAIDS,4
+Americas,Northern America,United States of America,Washington,UNDP,7
+Americas,Northern America,United States of America,Washington,UNFPA,2
+Americas,Northern America,United States of America,Washington,UNHCR,39
+Americas,Northern America,United States of America,Washington,UNICC,2
+Americas,Northern America,United States of America,Washington,UNICEF,2
+Americas,Northern America,United States of America,Washington,UNOPS,1
+Americas,Northern America,United States of America,Washington,UNRWA,3
+Americas,Northern America,United States of America,Washington,WFP,26
+Americas,Northern America,United States of America,Washington,WHO,3
+Asia,Central Asia,Kazakhstan,Almaty,IOM,11
+Asia,Central Asia,Kazakhstan,Almaty,UN,21
+Asia,Central Asia,Kazakhstan,Almaty,UNAIDS,4
+Asia,Central Asia,Kazakhstan,Almaty,UNDP,1
+Asia,Central Asia,Kazakhstan,Almaty,UNESCO,10
+Asia,Central Asia,Kazakhstan,Almaty,UNFPA,6
+Asia,Central Asia,Kazakhstan,Almaty,UNHCR,15
+Asia,Central Asia,Kazakhstan,Almaty,UNICEF,7
+Asia,Central Asia,Kazakhstan,Almaty,WHO,9
+Asia,Central Asia,Kazakhstan,Nur-Sultan,IOM,11
+Asia,Central Asia,Kazakhstan,Nur-Sultan,UN,12
+Asia,Central Asia,Kazakhstan,Nur-Sultan,UN WOMEN,5
+Asia,Central Asia,Kazakhstan,Nur-Sultan,UNDP,27
+Asia,Central Asia,Kazakhstan,Nur-Sultan,UNFPA,9
+Asia,Central Asia,Kazakhstan,Nur-Sultan,UNHCR,3
+Asia,Central Asia,Kazakhstan,Nur-Sultan,UNICEF,26
+Asia,Central Asia,Kazakhstan,Nur-Sultan,WHO,8
+Asia,Central Asia,Kyrgyzstan,Bishkek,FAO,4
+Asia,Central Asia,Kyrgyzstan,Bishkek,ILO,2
+Asia,Central Asia,Kyrgyzstan,Bishkek,IOM,12
+Asia,Central Asia,Kyrgyzstan,Bishkek,UN,25
+Asia,Central Asia,Kyrgyzstan,Bishkek,UN WOMEN,8
+Asia,Central Asia,Kyrgyzstan,Bishkek,UNAIDS,2
+Asia,Central Asia,Kyrgyzstan,Bishkek,UNDP,38
+Asia,Central Asia,Kyrgyzstan,Bishkek,UNFPA,12
+Asia,Central Asia,Kyrgyzstan,Bishkek,UNHCR,5
+Asia,Central Asia,Kyrgyzstan,Bishkek,UNICEF,32
+Asia,Central Asia,Kyrgyzstan,Bishkek,WFP,23
+Asia,Central Asia,Kyrgyzstan,Bishkek,WHO,21
+Asia,Central Asia,Kyrgyzstan,Osh,IOM,2
+Asia,Central Asia,Kyrgyzstan,Osh,UN,1
+Asia,Central Asia,Kyrgyzstan,Osh,UNICEF,6
+Asia,Central Asia,Kyrgyzstan,Osh,WFP,1
+Asia,Central Asia,Tajikistan,Dushanbe,FAO,3
+Asia,Central Asia,Tajikistan,Dushanbe,IOM,15
+Asia,Central Asia,Tajikistan,Dushanbe,UN,16
+Asia,Central Asia,Tajikistan,Dushanbe,UN WOMEN,1
+Asia,Central Asia,Tajikistan,Dushanbe,UNAIDS,2
+Asia,Central Asia,Tajikistan,Dushanbe,UNDP,33
+Asia,Central Asia,Tajikistan,Dushanbe,UNFPA,13
+Asia,Central Asia,Tajikistan,Dushanbe,UNHCR,12
+Asia,Central Asia,Tajikistan,Dushanbe,UNICEF,53
+Asia,Central Asia,Tajikistan,Dushanbe,WFP,28
+Asia,Central Asia,Tajikistan,Dushanbe,WHO,21
+Asia,Central Asia,Tajikistan,Gharm,UNICEF,1
+Asia,Central Asia,Tajikistan,Gharm,WFP,2
+Asia,Central Asia,Tajikistan,Khorog,UNICEF,1
+Asia,Central Asia,Tajikistan,Khorog,WFP,4
+Asia,Central Asia,Tajikistan,Khujand,UNICEF,1
+Asia,Central Asia,Tajikistan,Khujand,WFP,3
+Asia,Central Asia,Tajikistan,Qurghonteppa,UNICEF,1
+Asia,Central Asia,Tajikistan,Qurghonteppa,WFP,1
+Asia,Central Asia,Turkmenistan,Ashkhabad,IOM,2
+Asia,Central Asia,Turkmenistan,Ashkhabad,UN,39
+Asia,Central Asia,Turkmenistan,Ashkhabad,UNDP,21
+Asia,Central Asia,Turkmenistan,Ashkhabad,UNFPA,8
+Asia,Central Asia,Turkmenistan,Ashkhabad,UNICEF,22
+Asia,Central Asia,Turkmenistan,Ashkhabad,WHO,12
+Asia,Central Asia,Uzbekistan,Tashkent,FAO,1
+Asia,Central Asia,Uzbekistan,Tashkent,ILO,6
+Asia,Central Asia,Uzbekistan,Tashkent,UN,28
+Asia,Central Asia,Uzbekistan,Tashkent,UNAIDS,2
+Asia,Central Asia,Uzbekistan,Tashkent,UNDP,32
+Asia,Central Asia,Uzbekistan,Tashkent,UNESCO,8
+Asia,Central Asia,Uzbekistan,Tashkent,UNFPA,16
+Asia,Central Asia,Uzbekistan,Tashkent,UNHCR,1
+Asia,Central Asia,Uzbekistan,Tashkent,UNICEF,44
+Asia,Central Asia,Uzbekistan,Tashkent,WHO,23
+Asia,Eastern Asia,China,Beijing,FAO,11
+Asia,Eastern Asia,China,Beijing,ICAO,4
+Asia,Eastern Asia,China,Beijing,IFAD,12
+Asia,Eastern Asia,China,Beijing,ILO,20
+Asia,Eastern Asia,China,Beijing,IOM,3
+Asia,Eastern Asia,China,Beijing,UN,31
+Asia,Eastern Asia,China,Beijing,UN WOMEN,5
+Asia,Eastern Asia,China,Beijing,UNAIDS,6
+Asia,Eastern Asia,China,Beijing,UNDP,20
+Asia,Eastern Asia,China,Beijing,UNESCO,15
+Asia,Eastern Asia,China,Beijing,UNFPA,14
+Asia,Eastern Asia,China,Beijing,UNHCR,21
+Asia,Eastern Asia,China,Beijing,UNICEF,108
+Asia,Eastern Asia,China,Beijing,UNIDO,7
+Asia,Eastern Asia,China,Beijing,WFP,18
+Asia,Eastern Asia,China,Beijing,WHO,32
+Asia,Eastern Asia,China,Beijing,WIPO,5
+Asia,Eastern Asia,China,Guangzhou,WFP,1
+Asia,Eastern Asia,China,Hong Kong,IOM,4
+Asia,Eastern Asia,China,Hong Kong,UNHCR,9
+Asia,Eastern Asia,China,Macao (China),UNU,4
+Asia,Eastern Asia,Japan,Fukuoka,UN,9
+Asia,Eastern Asia,Japan,Fukushima,IAEA,1
+Asia,Eastern Asia,Japan,Kobe,UN,5
+Asia,Eastern Asia,Japan,Kobe,WHO,11
+Asia,Eastern Asia,Japan,Nagoya,UN,4
+Asia,Eastern Asia,Japan,Nara,UNWTO,1
+Asia,Eastern Asia,Japan,Osaka,UN,5
+Asia,Eastern Asia,Japan,Tokyo,IAEA,23
+Asia,Eastern Asia,Japan,Tokyo,ILO,5
+Asia,Eastern Asia,Japan,Tokyo,IOM,8
+Asia,Eastern Asia,Japan,Tokyo,UN,18
+Asia,Eastern Asia,Japan,Tokyo,UN WOMEN,1
+Asia,Eastern Asia,Japan,Tokyo,UNDP,12
+Asia,Eastern Asia,Japan,Tokyo,UNFPA,2
+Asia,Eastern Asia,Japan,Tokyo,UNHCR,25
+Asia,Eastern Asia,Japan,Tokyo,UNICEF,9
+Asia,Eastern Asia,Japan,Tokyo,UNIDO,5
+Asia,Eastern Asia,Japan,Tokyo,UNOPS,1
+Asia,Eastern Asia,Japan,Tokyo,UNU,30
+Asia,Eastern Asia,Japan,Tokyo,WFP,9
+Asia,Eastern Asia,Japan,Tokyo,WIPO,5
+Asia,Eastern Asia,Japan,Toyama,UN,2
+Asia,Eastern Asia,Japan,Yokoyama,FAO,3
+Asia,Eastern Asia,Japan,Yokoyama,IFAD,1
+Asia,Eastern Asia,Mongolia,Ulan Bator,FAO,3
+Asia,Eastern Asia,Mongolia,Ulan Bator,ILO,3
+Asia,Eastern Asia,Mongolia,Ulan Bator,IOM,17
+Asia,Eastern Asia,Mongolia,Ulan Bator,UN,9
+Asia,Eastern Asia,Mongolia,Ulan Bator,UNDP,18
+Asia,Eastern Asia,Mongolia,Ulan Bator,UNFPA,19
+Asia,Eastern Asia,Mongolia,Ulan Bator,UNICEF,31
+Asia,Eastern Asia,Mongolia,Ulan Bator,UNOPS,1
+Asia,Eastern Asia,Mongolia,Ulan Bator,WHO,17
+Asia,Eastern Asia,North Korea,Pyongyang,FAO,1
+Asia,Eastern Asia,North Korea,Pyongyang,UN,3
+Asia,Eastern Asia,North Korea,Pyongyang,UNDP,5
+Asia,Eastern Asia,North Korea,Pyongyang,UNFPA,3
+Asia,Eastern Asia,North Korea,Pyongyang,WFP,4
+Asia,Eastern Asia,North Korea,Pyongyang,WHO,3
+Asia,Eastern Asia,South Korea,Daejon,UN,1
+Asia,Eastern Asia,South Korea,Inchon,UN,40
+Asia,Eastern Asia,South Korea,Seoul,FAO,3
+Asia,Eastern Asia,South Korea,Seoul,IOM,5
+Asia,Eastern Asia,South Korea,Seoul,UN,9
+Asia,Eastern Asia,South Korea,Seoul,UNDP,6
+Asia,Eastern Asia,South Korea,Seoul,UNFPA,1
+Asia,Eastern Asia,South Korea,Seoul,UNHCR,29
+Asia,Eastern Asia,South Korea,Seoul,UNICEF,4
+Asia,Eastern Asia,South Korea,Seoul,WFP,5
+Asia,Eastern Asia,South Korea,Seoul,WHO,4
+Asia,South-eastern Asia,Cambodia,Battambang,ILO,1
+Asia,South-eastern Asia,Cambodia,Kratie,UNICEF,10
+Asia,South-eastern Asia,Cambodia,Phnom Penh,FAO,16
+Asia,South-eastern Asia,Cambodia,Phnom Penh,IFAD,1
+Asia,South-eastern Asia,Cambodia,Phnom Penh,ILO,67
+Asia,South-eastern Asia,Cambodia,Phnom Penh,IOM,29
+Asia,South-eastern Asia,Cambodia,Phnom Penh,UN,87
+Asia,South-eastern Asia,Cambodia,Phnom Penh,UNAIDS,4
+Asia,South-eastern Asia,Cambodia,Phnom Penh,UNDP,52
+Asia,South-eastern Asia,Cambodia,Phnom Penh,UNESCO,17
+Asia,South-eastern Asia,Cambodia,Phnom Penh,UNFPA,18
+Asia,South-eastern Asia,Cambodia,Phnom Penh,UNICEF,87
+Asia,South-eastern Asia,Cambodia,Phnom Penh,UNIDO,2
+Asia,South-eastern Asia,Cambodia,Phnom Penh,UNOPS,3
+Asia,South-eastern Asia,Cambodia,Phnom Penh,WFP,46
+Asia,South-eastern Asia,Cambodia,Phnom Penh,WHO,44
+Asia,South-eastern Asia,Cambodia,Siem Reap,ILO,3
+Asia,South-eastern Asia,Cambodia,Siem Reap,UNICEF,6
+Asia,South-eastern Asia,Cambodia,Siem Reap,WFP,12
+Asia,South-eastern Asia,Indonesia,Ambon,UNICEF,2
+Asia,South-eastern Asia,Indonesia,Banda Aceh,UN,1
+Asia,South-eastern Asia,Indonesia,Banda Aceh,UNICEF,7
+Asia,South-eastern Asia,Indonesia,Batam,IOM,3
+Asia,South-eastern Asia,Indonesia,Denpasar,UN,1
+Asia,South-eastern Asia,Indonesia,Jakarta,FAO,8
+Asia,South-eastern Asia,Indonesia,Jakarta,IFAD,6
+Asia,South-eastern Asia,Indonesia,Jakarta,ILO,48
+Asia,South-eastern Asia,Indonesia,Jakarta,IOM,68
+Asia,South-eastern Asia,Indonesia,Jakarta,ITU,3
+Asia,South-eastern Asia,Indonesia,Jakarta,UN,21
+Asia,South-eastern Asia,Indonesia,Jakarta,UN WOMEN,13
+Asia,South-eastern Asia,Indonesia,Jakarta,UNAIDS,7
+Asia,South-eastern Asia,Indonesia,Jakarta,UNDP,30
+Asia,South-eastern Asia,Indonesia,Jakarta,UNESCO,17
+Asia,South-eastern Asia,Indonesia,Jakarta,UNFPA,27
+Asia,South-eastern Asia,Indonesia,Jakarta,UNHCR,28
+Asia,South-eastern Asia,Indonesia,Jakarta,UNICEF,126
+Asia,South-eastern Asia,Indonesia,Jakarta,UNIDO,4
+Asia,South-eastern Asia,Indonesia,Jakarta,WFP,9
+Asia,South-eastern Asia,Indonesia,Jakarta,WHO,59
+Asia,South-eastern Asia,Indonesia,Jayapura,UN,1
+Asia,South-eastern Asia,Indonesia,Jayapura,UNICEF,14
+Asia,South-eastern Asia,Indonesia,Kupang,IOM,7
+Asia,South-eastern Asia,Indonesia,Kupang,UN,1
+Asia,South-eastern Asia,Indonesia,Kupang,UNICEF,8
+Asia,South-eastern Asia,Indonesia,Makassar,IOM,28
+Asia,South-eastern Asia,Indonesia,Makassar,UN,2
+Asia,South-eastern Asia,Indonesia,Makassar,UNHCR,1
+Asia,South-eastern Asia,Indonesia,Makassar,UNICEF,9
+Asia,South-eastern Asia,Indonesia,Manado,ILO,1
+Asia,South-eastern Asia,Indonesia,Manokwari,UNICEF,2
+Asia,South-eastern Asia,Indonesia,Medan,IOM,29
+Asia,South-eastern Asia,Indonesia,Medan,UN,2
+Asia,South-eastern Asia,Indonesia,Medan,UNHCR,1
+Asia,South-eastern Asia,Indonesia,Pekanbaru,IOM,10
+Asia,South-eastern Asia,Indonesia,Pekanbaru,UN,1
+Asia,South-eastern Asia,Indonesia,Semarang,IOM,4
+Asia,South-eastern Asia,Indonesia,Surabaya,IOM,7
+Asia,South-eastern Asia,Indonesia,Surabaya,UNICEF,8
+Asia,South-eastern Asia,Indonesia,Tangerang,IOM,25
+Asia,South-eastern Asia,Indonesia,Tanjung Pinang,IOM,11
+Asia,South-eastern Asia,Laos,Luang Prabang,ILO,1
+Asia,South-eastern Asia,Laos,Other,WFP,3
+Asia,South-eastern Asia,Laos,Oudomxay,WFP,7
+Asia,South-eastern Asia,Laos,Phongsali,WFP,2
+Asia,South-eastern Asia,Laos,Sam Neua,WFP,2
+Asia,South-eastern Asia,Laos,Vientiane,FAO,6
+Asia,South-eastern Asia,Laos,Vientiane,ILO,13
+Asia,South-eastern Asia,Laos,Vientiane,IOM,2
+Asia,South-eastern Asia,Laos,Vientiane,UN,14
+Asia,South-eastern Asia,Laos,Vientiane,UNAIDS,1
+Asia,South-eastern Asia,Laos,Vientiane,UNDP,37
+Asia,South-eastern Asia,Laos,Vientiane,UNFPA,23
+Asia,South-eastern Asia,Laos,Vientiane,UNICEF,68
+Asia,South-eastern Asia,Laos,Vientiane,UNIDO,1
+Asia,South-eastern Asia,Laos,Vientiane,WFP,40
+Asia,South-eastern Asia,Laos,Vientiane,WHO,49
+Asia,South-eastern Asia,Malaysia,Kuala Lumpur,ILO,12
+Asia,South-eastern Asia,Malaysia,Kuala Lumpur,IOM,5
+Asia,South-eastern Asia,Malaysia,Kuala Lumpur,UN,15
+Asia,South-eastern Asia,Malaysia,Kuala Lumpur,UNDP,332
+Asia,South-eastern Asia,Malaysia,Kuala Lumpur,UNFPA,5
+Asia,South-eastern Asia,Malaysia,Kuala Lumpur,UNHCR,102
+Asia,South-eastern Asia,Malaysia,Kuala Lumpur,UNICEF,59
+Asia,South-eastern Asia,Malaysia,Kuala Lumpur,UNU,21
+Asia,South-eastern Asia,Malaysia,Kuala Lumpur,WFP,13
+Asia,South-eastern Asia,Malaysia,Kuala Lumpur,WHO,266
+Asia,South-eastern Asia,Myanmar,Bhamo,UNHCR,5
+Asia,South-eastern Asia,Myanmar,Hakha,UNICEF,6
+Asia,South-eastern Asia,Myanmar,Hakha,WFP,6
+Asia,South-eastern Asia,Myanmar,Hpa-An,UNFPA,3
+Asia,South-eastern Asia,Myanmar,Hpa-An,UNHCR,7
+Asia,South-eastern Asia,Myanmar,Hpa-An,UNICEF,10
+Asia,South-eastern Asia,Myanmar,Hpa-An,WFP,6
+Asia,South-eastern Asia,Myanmar,Lashio,UN,1
+Asia,South-eastern Asia,Myanmar,Lashio,UNFPA,1
+Asia,South-eastern Asia,Myanmar,Lashio,UNICEF,7
+Asia,South-eastern Asia,Myanmar,Lashio,WFP,18
+Asia,South-eastern Asia,Myanmar,Laukkai,WFP,1
+Asia,South-eastern Asia,Myanmar,Loikaw,UNHCR,2
+Asia,South-eastern Asia,Myanmar,Mandalay,UNICEF,1
+Asia,South-eastern Asia,Myanmar,Maungdaw,UNFPA,1
+Asia,South-eastern Asia,Myanmar,Maungdaw,UNHCR,21
+Asia,South-eastern Asia,Myanmar,Maungdaw,UNICEF,8
+Asia,South-eastern Asia,Myanmar,Maungdaw,WFP,46
+Asia,South-eastern Asia,Myanmar,Mawlamyine,IOM,2
+Asia,South-eastern Asia,Myanmar,Mawlamyine,UN WOMEN,1
+Asia,South-eastern Asia,Myanmar,Mawlamyine,UNDP,2
+Asia,South-eastern Asia,Myanmar,Mawlamyine,WFP,1
+Asia,South-eastern Asia,Myanmar,Myitkyina,UN,8
+Asia,South-eastern Asia,Myanmar,Myitkyina,UNDP,1
+Asia,South-eastern Asia,Myanmar,Myitkyina,UNFPA,4
+Asia,South-eastern Asia,Myanmar,Myitkyina,UNHCR,12
+Asia,South-eastern Asia,Myanmar,Myitkyina,UNICEF,9
+Asia,South-eastern Asia,Myanmar,Myitkyina,WFP,18
+Asia,South-eastern Asia,Myanmar,Nay Pyi Taw,FAO,4
+Asia,South-eastern Asia,Myanmar,Nay Pyi Taw,ILO,4
+Asia,South-eastern Asia,Myanmar,Nay Pyi Taw,UN,4
+Asia,South-eastern Asia,Myanmar,Nay Pyi Taw,UN WOMEN,5
+Asia,South-eastern Asia,Myanmar,Nay Pyi Taw,UNDP,4
+Asia,South-eastern Asia,Myanmar,Nay Pyi Taw,UNFPA,14
+Asia,South-eastern Asia,Myanmar,Nay Pyi Taw,UNHCR,1
+Asia,South-eastern Asia,Myanmar,Nay Pyi Taw,UNICEF,45
+Asia,South-eastern Asia,Myanmar,Nay Pyi Taw,WFP,35
+Asia,South-eastern Asia,Myanmar,Nay Pyi Taw,WHO,15
+Asia,South-eastern Asia,Myanmar,Pakokku,WFP,18
+Asia,South-eastern Asia,Myanmar,Panghsang,WFP,7
+Asia,South-eastern Asia,Myanmar,Sittwe,UN,13
+Asia,South-eastern Asia,Myanmar,Sittwe,UN WOMEN,3
+Asia,South-eastern Asia,Myanmar,Sittwe,UNDP,2
+Asia,South-eastern Asia,Myanmar,Sittwe,UNFPA,6
+Asia,South-eastern Asia,Myanmar,Sittwe,UNHCR,19
+Asia,South-eastern Asia,Myanmar,Sittwe,UNICEF,17
+Asia,South-eastern Asia,Myanmar,Sittwe,WFP,32
+Asia,South-eastern Asia,Myanmar,Taunggyi,ILO,1
+Asia,South-eastern Asia,Myanmar,Taunggyi,UNDP,1
+Asia,South-eastern Asia,Myanmar,Taunggyi,UNICEF,8
+Asia,South-eastern Asia,Myanmar,Taunggyi,WFP,1
+Asia,South-eastern Asia,Myanmar,Yangon,FAO,3
+Asia,South-eastern Asia,Myanmar,Yangon,ILO,53
+Asia,South-eastern Asia,Myanmar,Yangon,IOM,15
+Asia,South-eastern Asia,Myanmar,Yangon,UN,56
+Asia,South-eastern Asia,Myanmar,Yangon,UN WOMEN,11
+Asia,South-eastern Asia,Myanmar,Yangon,UNAIDS,11
+Asia,South-eastern Asia,Myanmar,Yangon,UNDP,47
+Asia,South-eastern Asia,Myanmar,Yangon,UNFPA,36
+Asia,South-eastern Asia,Myanmar,Yangon,UNHCR,30
+Asia,South-eastern Asia,Myanmar,Yangon,UNICEF,101
+Asia,South-eastern Asia,Myanmar,Yangon,UNOPS,15
+Asia,South-eastern Asia,Myanmar,Yangon,WFP,47
+Asia,South-eastern Asia,Myanmar,Yangon,WHO,47
+Asia,South-eastern Asia,Philippines,Cotabato,ILO,11
+Asia,South-eastern Asia,Philippines,Cotabato,UN,4
+Asia,South-eastern Asia,Philippines,Cotabato,UNFPA,4
+Asia,South-eastern Asia,Philippines,Cotabato,UNICEF,15
+Asia,South-eastern Asia,Philippines,Cotabato City,IOM,16
+Asia,South-eastern Asia,Philippines,Cotabato City,UN,3
+Asia,South-eastern Asia,Philippines,Cotabato City,UNHCR,11
+Asia,South-eastern Asia,Philippines,Iloilo,ILO,1
+Asia,South-eastern Asia,Philippines,Iloilo City,ILO,2
+Asia,South-eastern Asia,Philippines,Kidapawan City,IOM,1
+Asia,South-eastern Asia,Philippines,Legaspi City,IOM,2
+Asia,South-eastern Asia,Philippines,Manila,FAO,9
+Asia,South-eastern Asia,Philippines,Manila,IFAD,3
+Asia,South-eastern Asia,Philippines,Manila,ILO,34
+Asia,South-eastern Asia,Philippines,Manila,IMO,1
+Asia,South-eastern Asia,Philippines,Manila,IOM,453
+Asia,South-eastern Asia,Philippines,Manila,UN,31
+Asia,South-eastern Asia,Philippines,Manila,UNAIDS,5
+Asia,South-eastern Asia,Philippines,Manila,UNDP,38
+Asia,South-eastern Asia,Philippines,Manila,UNFPA,26
+Asia,South-eastern Asia,Philippines,Manila,UNHCR,14
+Asia,South-eastern Asia,Philippines,Manila,UNICEF,92
+Asia,South-eastern Asia,Philippines,Manila,UNIDO,3
+Asia,South-eastern Asia,Philippines,Manila,WFP,11
+Asia,South-eastern Asia,Philippines,Manila,WHO,304
+Asia,South-eastern Asia,Philippines,Marawi,IOM,14
+Asia,South-eastern Asia,Philippines,Zamboanga,IOM,10
+Asia,South-eastern Asia,Singapore,Singapore,UN,1
+Asia,South-eastern Asia,Singapore,Singapore,UNDP,4
+Asia,South-eastern Asia,Singapore,Singapore,WIPO,4
+Asia,South-eastern Asia,Singapore,Singapore,WMO,6
+Asia,South-eastern Asia,Thailand,Bangkok,FAO,120
+Asia,South-eastern Asia,Thailand,Bangkok,ICAO,30
+Asia,South-eastern Asia,Thailand,Bangkok,ILO,141
+Asia,South-eastern Asia,Thailand,Bangkok,IOM,96
+Asia,South-eastern Asia,Thailand,Bangkok,ITU,9
+Asia,South-eastern Asia,Thailand,Bangkok,UN,749
+Asia,South-eastern Asia,Thailand,Bangkok,UN WOMEN,38
+Asia,South-eastern Asia,Thailand,Bangkok,UNAIDS,25
+Asia,South-eastern Asia,Thailand,Bangkok,UNDP,170
+Asia,South-eastern Asia,Thailand,Bangkok,UNESCO,35
+Asia,South-eastern Asia,Thailand,Bangkok,UNFPA,54
+Asia,South-eastern Asia,Thailand,Bangkok,UNHCR,138
+Asia,South-eastern Asia,Thailand,Bangkok,UNICEF,171
+Asia,South-eastern Asia,Thailand,Bangkok,UNIDO,5
+Asia,South-eastern Asia,Thailand,Bangkok,UNITAR,1
+Asia,South-eastern Asia,Thailand,Bangkok,UNOPS,20
+Asia,South-eastern Asia,Thailand,Bangkok,UPU,1
+Asia,South-eastern Asia,Thailand,Bangkok,WFP,85
+Asia,South-eastern Asia,Thailand,Bangkok,WHO,25
+Asia,South-eastern Asia,Thailand,Mae Hong Son,IOM,6
+Asia,South-eastern Asia,Thailand,Mae Hong Son,UNHCR,13
+Asia,South-eastern Asia,Thailand,Mae Sariang,IOM,4
+Asia,South-eastern Asia,Thailand,Mae Sot,IOM,32
+Asia,South-eastern Asia,Thailand,Mae Sot,UNHCR,17
+Asia,South-eastern Asia,Timor-Leste,Aileu,ILO,1
+Asia,South-eastern Asia,Timor-Leste,Ainaro,ILO,1
+Asia,South-eastern Asia,Timor-Leste,Baucau,ILO,12
+Asia,South-eastern Asia,Timor-Leste,Bobonaro,ILO,1
+Asia,South-eastern Asia,Timor-Leste,Dili,FAO,3
+Asia,South-eastern Asia,Timor-Leste,Dili,ILO,35
+Asia,South-eastern Asia,Timor-Leste,Dili,IOM,9
+Asia,South-eastern Asia,Timor-Leste,Dili,UN,17
+Asia,South-eastern Asia,Timor-Leste,Dili,UN WOMEN,11
+Asia,South-eastern Asia,Timor-Leste,Dili,UNDP,34
+Asia,South-eastern Asia,Timor-Leste,Dili,UNFPA,18
+Asia,South-eastern Asia,Timor-Leste,Dili,UNICEF,51
+Asia,South-eastern Asia,Timor-Leste,Dili,WFP,17
+Asia,South-eastern Asia,Timor-Leste,Dili,WHO,25
+Asia,South-eastern Asia,Timor-Leste,Ermera,ILO,1
+Asia,South-eastern Asia,Timor-Leste,Liquica,ILO,1
+Asia,South-eastern Asia,Timor-Leste,Los Palos,ILO,1
+Asia,South-eastern Asia,Timor-Leste,Maliana,ILO,1
+Asia,South-eastern Asia,Timor-Leste,Manatuto,ILO,1
+Asia,South-eastern Asia,Timor-Leste,Same,ILO,2
+Asia,South-eastern Asia,Timor-Leste,Viqueque,ILO,1
+Asia,South-eastern Asia,Vietnam,Hanoi,FAO,8
+Asia,South-eastern Asia,Vietnam,Hanoi,IFAD,9
+Asia,South-eastern Asia,Vietnam,Hanoi,ILO,66
+Asia,South-eastern Asia,Vietnam,Hanoi,IOM,34
+Asia,South-eastern Asia,Vietnam,Hanoi,UN,11
+Asia,South-eastern Asia,Vietnam,Hanoi,UN WOMEN,7
+Asia,South-eastern Asia,Vietnam,Hanoi,UNAIDS,5
+Asia,South-eastern Asia,Vietnam,Hanoi,UNDP,40
+Asia,South-eastern Asia,Vietnam,Hanoi,UNESCO,8
+Asia,South-eastern Asia,Vietnam,Hanoi,UNFPA,19
+Asia,South-eastern Asia,Vietnam,Hanoi,UNICEF,46
+Asia,South-eastern Asia,Vietnam,Hanoi,UNIDO,3
+Asia,South-eastern Asia,Vietnam,Hanoi,WHO,40
+Asia,South-eastern Asia,Vietnam,Ho Chi Minh Ville,FAO,2
+Asia,South-eastern Asia,Vietnam,Ho Chi Minh Ville,ILO,34
+Asia,South-eastern Asia,Vietnam,Ho Chi Minh Ville,IOM,45
+Asia,South-eastern Asia,Vietnam,Ho Chi Minh Ville,UNICEF,5
+Asia,Southern Asia,Afghanistan,Badghis,UNICEF,4
+Asia,Southern Asia,Afghanistan,Bamyan,UN,35
+Asia,Southern Asia,Afghanistan,Bamyan,UNHCR,8
+Asia,Southern Asia,Afghanistan,Bamyan,UNICEF,9
+Asia,Southern Asia,Afghanistan,Bamyan,WFP,1
+Asia,Southern Asia,Afghanistan,Faizabad,UN,16
+Asia,Southern Asia,Afghanistan,Faizabad,UNICEF,6
+Asia,Southern Asia,Afghanistan,Faizabad,WFP,18
+Asia,Southern Asia,Afghanistan,Faizabad,WHO,2
+Asia,Southern Asia,Afghanistan,Faryab,UN,12
+Asia,Southern Asia,Afghanistan,Gardez,UN,39
+Asia,Southern Asia,Afghanistan,Gardez,UNHCR,1
+Asia,Southern Asia,Afghanistan,Gardez,UNICEF,9
+Asia,Southern Asia,Afghanistan,Gardez,WHO,1
+Asia,Southern Asia,Afghanistan,Ghor,UNICEF,6
+Asia,Southern Asia,Afghanistan,Herat,IOM,5
+Asia,Southern Asia,Afghanistan,Herat,UN,42
+Asia,Southern Asia,Afghanistan,Herat,UNDP,1
+Asia,Southern Asia,Afghanistan,Herat,UNHCR,20
+Asia,Southern Asia,Afghanistan,Herat,UNICEF,25
+Asia,Southern Asia,Afghanistan,Herat,WFP,19
+Asia,Southern Asia,Afghanistan,Herat,WHO,6
+Asia,Southern Asia,Afghanistan,Jalalabad,UN,59
+Asia,Southern Asia,Afghanistan,Jalalabad,UNHCR,33
+Asia,Southern Asia,Afghanistan,Jalalabad,UNICEF,27
+Asia,Southern Asia,Afghanistan,Jalalabad,WFP,19
+Asia,Southern Asia,Afghanistan,Jalalabad,WHO,5
+Asia,Southern Asia,Afghanistan,Kabul,FAO,21
+Asia,Southern Asia,Afghanistan,Kabul,ILO,6
+Asia,Southern Asia,Afghanistan,Kabul,IOM,36
+Asia,Southern Asia,Afghanistan,Kabul,UN,739
+Asia,Southern Asia,Afghanistan,Kabul,UN WOMEN,26
+Asia,Southern Asia,Afghanistan,Kabul,UNDP,99
+Asia,Southern Asia,Afghanistan,Kabul,UNESCO,17
+Asia,Southern Asia,Afghanistan,Kabul,UNFPA,46
+Asia,Southern Asia,Afghanistan,Kabul,UNHCR,99
+Asia,Southern Asia,Afghanistan,Kabul,UNICEF,222
+Asia,Southern Asia,Afghanistan,Kabul,UNIDO,1
+Asia,Southern Asia,Afghanistan,Kabul,UNOPS,5
+Asia,Southern Asia,Afghanistan,Kabul,WFP,134
+Asia,Southern Asia,Afghanistan,Kabul,WHO,76
+Asia,Southern Asia,Afghanistan,Kandahar,UN,55
+Asia,Southern Asia,Afghanistan,Kandahar,UNDP,1
+Asia,Southern Asia,Afghanistan,Kandahar,UNHCR,15
+Asia,Southern Asia,Afghanistan,Kandahar,UNICEF,28
+Asia,Southern Asia,Afghanistan,Kandahar,WFP,18
+Asia,Southern Asia,Afghanistan,Kandahar,WHO,9
+Asia,Southern Asia,Afghanistan,Kunduz,UN,42
+Asia,Southern Asia,Afghanistan,Kunduz,UNHCR,8
+Asia,Southern Asia,Afghanistan,Kunduz,WFP,1
+Asia,Southern Asia,Afghanistan,Kunduz,WHO,1
+Asia,Southern Asia,Afghanistan,Lashkar Gah,UNICEF,1
+Asia,Southern Asia,Afghanistan,Maimana,UN,1
+Asia,Southern Asia,Afghanistan,Mazar-I-Sharif,ILO,5
+Asia,Southern Asia,Afghanistan,Mazar-I-Sharif,UN,56
+Asia,Southern Asia,Afghanistan,Mazar-I-Sharif,UNDP,1
+Asia,Southern Asia,Afghanistan,Mazar-I-Sharif,UNHCR,31
+Asia,Southern Asia,Afghanistan,Mazar-I-Sharif,UNICEF,24
+Asia,Southern Asia,Afghanistan,Mazar-I-Sharif,WFP,22
+Asia,Southern Asia,Afghanistan,Mazar-I-Sharif,WHO,4
+Asia,Southern Asia,Afghanistan,Nili,UN,1
+Asia,Southern Asia,Afghanistan,Nili,UNICEF,6
+Asia,Southern Asia,Afghanistan,Pul-I-Khumri,UN,22
+Asia,Southern Asia,Bangladesh,Barisal,UNICEF,10
+Asia,Southern Asia,Bangladesh,Chittagong,UNICEF,9
+Asia,Southern Asia,Bangladesh,Chittagong,WFP,1
+Asia,Southern Asia,Bangladesh,Coxs Bazar,FAO,1
+Asia,Southern Asia,Bangladesh,Coxs Bazar,ILO,2
+Asia,Southern Asia,Bangladesh,Coxs Bazar,IOM,16
+Asia,Southern Asia,Bangladesh,Coxs Bazar,UN WOMEN,3
+Asia,Southern Asia,Bangladesh,Coxs Bazar,UNDP,2
+Asia,Southern Asia,Bangladesh,Coxs Bazar,UNFPA,25
+Asia,Southern Asia,Bangladesh,Coxs Bazar,UNHCR,226
+Asia,Southern Asia,Bangladesh,Coxs Bazar,UNICEF,68
+Asia,Southern Asia,Bangladesh,Coxs Bazar,WFP,28
+Asia,Southern Asia,Bangladesh,Coxs Bazar,WHO,6
+Asia,Southern Asia,Bangladesh,Dhaka,FAO,13
+Asia,Southern Asia,Bangladesh,Dhaka,IFAD,4
+Asia,Southern Asia,Bangladesh,Dhaka,ILO,127
+Asia,Southern Asia,Bangladesh,Dhaka,IOM,44
+Asia,Southern Asia,Bangladesh,Dhaka,ITCILO,1
+Asia,Southern Asia,Bangladesh,Dhaka,UN,20
+Asia,Southern Asia,Bangladesh,Dhaka,UN WOMEN,9
+Asia,Southern Asia,Bangladesh,Dhaka,UNAIDS,1
+Asia,Southern Asia,Bangladesh,Dhaka,UNDP,53
+Asia,Southern Asia,Bangladesh,Dhaka,UNESCO,6
+Asia,Southern Asia,Bangladesh,Dhaka,UNFPA,43
+Asia,Southern Asia,Bangladesh,Dhaka,UNHCR,32
+Asia,Southern Asia,Bangladesh,Dhaka,UNICEF,140
+Asia,Southern Asia,Bangladesh,Dhaka,UNIDO,1
+Asia,Southern Asia,Bangladesh,Dhaka,UNOPS,1
+Asia,Southern Asia,Bangladesh,Dhaka,WFP,64
+Asia,Southern Asia,Bangladesh,Dhaka,WHO,74
+Asia,Southern Asia,Bangladesh,Khulna Mongla,UNICEF,10
+Asia,Southern Asia,Bangladesh,Khulna Mongla,WFP,6
+Asia,Southern Asia,Bangladesh,Mymensingh,UNICEF,9
+Asia,Southern Asia,Bangladesh,Rangamati,UNICEF,4
+Asia,Southern Asia,Bangladesh,Rangamati,WFP,4
+Asia,Southern Asia,Bangladesh,Rangpur,UNICEF,11
+Asia,Southern Asia,Bangladesh,Rangpur,WFP,3
+Asia,Southern Asia,Bangladesh,Rangpur,WHO,1
+Asia,Southern Asia,Bangladesh,Sylhet,IOM,3
+Asia,Southern Asia,Bangladesh,Sylhet,UNICEF,10
+Asia,Southern Asia,Bhutan,Thimphu,FAO,4
+Asia,Southern Asia,Bhutan,Thimphu,UN,6
+Asia,Southern Asia,Bhutan,Thimphu,UNDP,30
+Asia,Southern Asia,Bhutan,Thimphu,UNFPA,3
+Asia,Southern Asia,Bhutan,Thimphu,UNICEF,28
+Asia,Southern Asia,Bhutan,Thimphu,WFP,12
+Asia,Southern Asia,Bhutan,Thimphu,WHO,18
+Asia,Southern Asia,India,Bangalore,WHO,3
+Asia,Southern Asia,India,Bhopal,UNICEF,21
+Asia,Southern Asia,India,Bhubaneshwar,UNICEF,20
+Asia,Southern Asia,India,Bhubaneshwar,WFP,4
+Asia,Southern Asia,India,Calcutta,UNICEF,19
+Asia,Southern Asia,India,Calcutta,WHO,2
+Asia,Southern Asia,India,Chennai,UNHCR,3
+Asia,Southern Asia,India,Chennai,UNICEF,7
+Asia,Southern Asia,India,Gandhinagar,UNICEF,13
+Asia,Southern Asia,India,Guwahati,UN,1
+Asia,Southern Asia,India,Guwahati,UNICEF,18
+Asia,Southern Asia,India,Hyderabad,UNICEF,18
+Asia,Southern Asia,India,Jaipur,UNICEF,24
+Asia,Southern Asia,India,Lucknow,UNICEF,35
+Asia,Southern Asia,India,Mumbai,UNICEF,21
+Asia,Southern Asia,India,New Delhi,FAO,7
+Asia,Southern Asia,India,New Delhi,IFAD,13
+Asia,Southern Asia,India,New Delhi,ILO,56
+Asia,Southern Asia,India,New Delhi,IOM,6
+Asia,Southern Asia,India,New Delhi,UN,41
+Asia,Southern Asia,India,New Delhi,UN WOMEN,10
+Asia,Southern Asia,India,New Delhi,UNAIDS,8
+Asia,Southern Asia,India,New Delhi,UNDP,29
+Asia,Southern Asia,India,New Delhi,UNESCO,33
+Asia,Southern Asia,India,New Delhi,UNFPA,44
+Asia,Southern Asia,India,New Delhi,UNHCR,30
+Asia,Southern Asia,India,New Delhi,UNICEF,162
+Asia,Southern Asia,India,New Delhi,UNIDO,4
+Asia,Southern Asia,India,New Delhi,UNOPS,1
+Asia,Southern Asia,India,New Delhi,WFP,61
+Asia,Southern Asia,India,New Delhi,WHO,374
+Asia,Southern Asia,India,Patna,UNICEF,33
+Asia,Southern Asia,India,Patna,WHO,1
+Asia,Southern Asia,India,Pune,WHO,2
+Asia,Southern Asia,India,Raipur,UNICEF,20
+Asia,Southern Asia,India,Ranchi,UNICEF,18
+Asia,Southern Asia,India,Srinagar,UN,6
+Asia,Southern Asia,India,Srinagar,UNICEF,2
+Asia,Southern Asia,India,Trivandrum,WHO,1
+Asia,Southern Asia,India,Uttar Pradesh,WHO,1
+Asia,Southern Asia,Iran,Dogharoon,UNHCR,3
+Asia,Southern Asia,Iran,Esfahan,UNHCR,5
+Asia,Southern Asia,Iran,Kerman,UNHCR,11
+Asia,Southern Asia,Iran,Mashhad,UNHCR,15
+Asia,Southern Asia,Iran,Shiraz,UNHCR,9
+Asia,Southern Asia,Iran,Teheran,FAO,5
+Asia,Southern Asia,Iran,Teheran,IOM,8
+Asia,Southern Asia,Iran,Teheran,UN,30
+Asia,Southern Asia,Iran,Teheran,UNAIDS,3
+Asia,Southern Asia,Iran,Teheran,UNDP,28
+Asia,Southern Asia,Iran,Teheran,UNESCO,9
+Asia,Southern Asia,Iran,Teheran,UNFPA,16
+Asia,Southern Asia,Iran,Teheran,UNHCR,65
+Asia,Southern Asia,Iran,Teheran,UNICEF,38
+Asia,Southern Asia,Iran,Teheran,UNIDO,3
+Asia,Southern Asia,Iran,Teheran,WFP,15
+Asia,Southern Asia,Iran,Teheran,WHO,37
+Asia,Southern Asia,Maldives,Male,ICAO,1
+Asia,Southern Asia,Maldives,Male,UN,9
+Asia,Southern Asia,Maldives,Male,UNDP,18
+Asia,Southern Asia,Maldives,Male,UNFPA,2
+Asia,Southern Asia,Maldives,Male,UNICEF,16
+Asia,Southern Asia,Maldives,Male,WHO,21
+Asia,Southern Asia,Nepal,Bhairawa,UNICEF,13
+Asia,Southern Asia,Nepal,Butwal,UNDP,1
+Asia,Southern Asia,Nepal,Butwal,UNFPA,4
+Asia,Southern Asia,Nepal,Damak,IOM,10
+Asia,Southern Asia,Nepal,Dhangadi,UNDP,1
+Asia,Southern Asia,Nepal,Dhangadi,UNFPA,1
+Asia,Southern Asia,Nepal,Dhangadi,WFP,1
+Asia,Southern Asia,Nepal,Dipayal,WFP,5
+Asia,Southern Asia,Nepal,Janakpur,UNFPA,1
+Asia,Southern Asia,Nepal,Janakpur,UNICEF,20
+Asia,Southern Asia,Nepal,Kathmandu,FAO,7
+Asia,Southern Asia,Nepal,Kathmandu,IFAD,2
+Asia,Southern Asia,Nepal,Kathmandu,ILO,36
+Asia,Southern Asia,Nepal,Kathmandu,IOM,53
+Asia,Southern Asia,Nepal,Kathmandu,ITC,1
+Asia,Southern Asia,Nepal,Kathmandu,UN,20
+Asia,Southern Asia,Nepal,Kathmandu,UN WOMEN,9
+Asia,Southern Asia,Nepal,Kathmandu,UNAIDS,3
+Asia,Southern Asia,Nepal,Kathmandu,UNDP,51
+Asia,Southern Asia,Nepal,Kathmandu,UNESCO,6
+Asia,Southern Asia,Nepal,Kathmandu,UNFPA,36
+Asia,Southern Asia,Nepal,Kathmandu,UNHCR,25
+Asia,Southern Asia,Nepal,Kathmandu,UNICEF,165
+Asia,Southern Asia,Nepal,Kathmandu,UNOPS,2
+Asia,Southern Asia,Nepal,Kathmandu,WFP,32
+Asia,Southern Asia,Nepal,Kathmandu,WHO,66
+Asia,Southern Asia,Nepal,Nepalganj,IOM,1
+Asia,Southern Asia,Nepal,Nepalganj,UNICEF,20
+Asia,Southern Asia,Nepal,Other,WFP,1
+Asia,Southern Asia,Nepal,Surkhet,UNDP,1
+Asia,Southern Asia,Nepal,Surkhet,WFP,5
+Asia,Southern Asia,Pakistan,Abbottabad,WHO,1
+Asia,Southern Asia,Pakistan,Chaman,UNHCR,1
+Asia,Southern Asia,Pakistan,Daggar,UNHCR,2
+Asia,Southern Asia,Pakistan,Faisalabad,WHO,1
+Asia,Southern Asia,Pakistan,Haripur,UNHCR,3
+Asia,Southern Asia,Pakistan,Hyderabad,WFP,1
+Asia,Southern Asia,Pakistan,Islamabad,FAO,16
+Asia,Southern Asia,Pakistan,Islamabad,IFAD,2
+Asia,Southern Asia,Pakistan,Islamabad,ILO,28
+Asia,Southern Asia,Pakistan,Islamabad,IOM,94
+Asia,Southern Asia,Pakistan,Islamabad,UN,106
+Asia,Southern Asia,Pakistan,Islamabad,UN WOMEN,13
+Asia,Southern Asia,Pakistan,Islamabad,UNAIDS,7
+Asia,Southern Asia,Pakistan,Islamabad,UNDP,65
+Asia,Southern Asia,Pakistan,Islamabad,UNESCO,11
+Asia,Southern Asia,Pakistan,Islamabad,UNFPA,28
+Asia,Southern Asia,Pakistan,Islamabad,UNHCR,83
+Asia,Southern Asia,Pakistan,Islamabad,UNICEF,143
+Asia,Southern Asia,Pakistan,Islamabad,UNIDO,3
+Asia,Southern Asia,Pakistan,Islamabad,WFP,96
+Asia,Southern Asia,Pakistan,Islamabad,WHO,57
+Asia,Southern Asia,Pakistan,Karachi,ILO,4
+Asia,Southern Asia,Pakistan,Karachi,IOM,11
+Asia,Southern Asia,Pakistan,Karachi,UN,3
+Asia,Southern Asia,Pakistan,Karachi,UNFPA,6
+Asia,Southern Asia,Pakistan,Karachi,UNICEF,39
+Asia,Southern Asia,Pakistan,Karachi,WFP,18
+Asia,Southern Asia,Pakistan,Karachi,WHO,13
+Asia,Southern Asia,Pakistan,Kohat,UNHCR,3
+Asia,Southern Asia,Pakistan,Lahore,ILO,3
+Asia,Southern Asia,Pakistan,Lahore,IOM,14
+Asia,Southern Asia,Pakistan,Lahore,UN,2
+Asia,Southern Asia,Pakistan,Lahore,UNFPA,1
+Asia,Southern Asia,Pakistan,Lahore,UNICEF,37
+Asia,Southern Asia,Pakistan,Lahore,WFP,2
+Asia,Southern Asia,Pakistan,Lahore,WHO,14
+Asia,Southern Asia,Pakistan,Loralai,UNHCR,2
+Asia,Southern Asia,Pakistan,Mirpur,IOM,5
+Asia,Southern Asia,Pakistan,Multan,FAO,1
+Asia,Southern Asia,Pakistan,Multan,WHO,1
+Asia,Southern Asia,Pakistan,Muzaffarabad,UN,1
+Asia,Southern Asia,Pakistan,Muzaffarabad,WFP,5
+Asia,Southern Asia,Pakistan,Muzaffarabad,WHO,2
+Asia,Southern Asia,Pakistan,Peshawar,ILO,1
+Asia,Southern Asia,Pakistan,Peshawar,IOM,1
+Asia,Southern Asia,Pakistan,Peshawar,UN,4
+Asia,Southern Asia,Pakistan,Peshawar,UN WOMEN,1
+Asia,Southern Asia,Pakistan,Peshawar,UNDP,2
+Asia,Southern Asia,Pakistan,Peshawar,UNFPA,1
+Asia,Southern Asia,Pakistan,Peshawar,UNHCR,55
+Asia,Southern Asia,Pakistan,Peshawar,UNICEF,43
+Asia,Southern Asia,Pakistan,Peshawar,WFP,54
+Asia,Southern Asia,Pakistan,Peshawar,WHO,17
+Asia,Southern Asia,Pakistan,Quetta,FAO,1
+Asia,Southern Asia,Pakistan,Quetta,UN,4
+Asia,Southern Asia,Pakistan,Quetta,UN WOMEN,1
+Asia,Southern Asia,Pakistan,Quetta,UNDP,1
+Asia,Southern Asia,Pakistan,Quetta,UNHCR,46
+Asia,Southern Asia,Pakistan,Quetta,UNICEF,37
+Asia,Southern Asia,Pakistan,Quetta,WFP,10
+Asia,Southern Asia,Pakistan,Quetta,WHO,12
+Asia,Southern Asia,Sri Lanka,Badulla,UNICEF,1
+Asia,Southern Asia,Sri Lanka,Batticoloa,IOM,3
+Asia,Southern Asia,Sri Lanka,Batticoloa,UNICEF,5
+Asia,Southern Asia,Sri Lanka,Colombo,FAO,7
+Asia,Southern Asia,Sri Lanka,Colombo,ILO,27
+Asia,Southern Asia,Sri Lanka,Colombo,IOM,46
+Asia,Southern Asia,Sri Lanka,Colombo,UN,28
+Asia,Southern Asia,Sri Lanka,Colombo,UN WOMEN,1
+Asia,Southern Asia,Sri Lanka,Colombo,UNDP,31
+Asia,Southern Asia,Sri Lanka,Colombo,UNFPA,12
+Asia,Southern Asia,Sri Lanka,Colombo,UNHCR,16
+Asia,Southern Asia,Sri Lanka,Colombo,UNICEF,44
+Asia,Southern Asia,Sri Lanka,Colombo,UNOPS,1
+Asia,Southern Asia,Sri Lanka,Colombo,WFP,30
+Asia,Southern Asia,Sri Lanka,Colombo,WHO,29
+Asia,Southern Asia,Sri Lanka,Jaffna,IOM,2
+Asia,Southern Asia,Sri Lanka,Jaffna,UNHCR,4
+Asia,Southern Asia,Sri Lanka,Kilinochchi,ILO,10
+Asia,Southern Asia,Sri Lanka,Kilinochchi,IOM,3
+Asia,Southern Asia,Sri Lanka,Kilinochchi,UN,1
+Asia,Southern Asia,Sri Lanka,Kilinochchi,UNICEF,9
+Asia,Southern Asia,Sri Lanka,Kilinochchi,WFP,2
+Asia,Western Asia,Armenia,Yerevan,FAO,2
+Asia,Western Asia,Armenia,Yerevan,ILO,3
+Asia,Western Asia,Armenia,Yerevan,IOM,6
+Asia,Western Asia,Armenia,Yerevan,UN,9
+Asia,Western Asia,Armenia,Yerevan,UN WOMEN,1
+Asia,Western Asia,Armenia,Yerevan,UNAIDS,1
+Asia,Western Asia,Armenia,Yerevan,UNDP,27
+Asia,Western Asia,Armenia,Yerevan,UNFPA,10
+Asia,Western Asia,Armenia,Yerevan,UNHCR,20
+Asia,Western Asia,Armenia,Yerevan,UNICEF,33
+Asia,Western Asia,Armenia,Yerevan,UNIDO,1
+Asia,Western Asia,Armenia,Yerevan,WFP,12
+Asia,Western Asia,Armenia,Yerevan,WHO,13
+Asia,Western Asia,Azerbaijan,Baku,FAO,4
+Asia,Western Asia,Azerbaijan,Baku,IOM,13
+Asia,Western Asia,Azerbaijan,Baku,UN,14
+Asia,Western Asia,Azerbaijan,Baku,UNDP,16
+Asia,Western Asia,Azerbaijan,Baku,UNFPA,6
+Asia,Western Asia,Azerbaijan,Baku,UNHCR,19
+Asia,Western Asia,Azerbaijan,Baku,UNICEF,21
+Asia,Western Asia,Azerbaijan,Baku,WHO,16
+Asia,Western Asia,Azerbaijan,Mingachevir,IOM,1
+Asia,Western Asia,Bahrain,Manama,IOM,3
+Asia,Western Asia,Bahrain,Manama,UN,13
+Asia,Western Asia,Bahrain,Manama,UNDP,6
+Asia,Western Asia,Bahrain,Manama,UNIDO,8
+Asia,Western Asia,Bahrain,Manama,WHO,1
+Asia,Western Asia,Bahrain,Manama,WMO,1
+Asia,Western Asia,Cyprus,Nicosia,IOM,6
+Asia,Western Asia,Cyprus,Nicosia,UN,180
+Asia,Western Asia,Cyprus,Nicosia,UNDP,4
+Asia,Western Asia,Cyprus,Nicosia,UNHCR,13
+Asia,Western Asia,Georgia,Gali,UNHCR,6
+Asia,Western Asia,Georgia,Sukhumi,UN,2
+Asia,Western Asia,Georgia,Sukhumi,UNDP,1
+Asia,Western Asia,Georgia,Sukhumi,UNHCR,2
+Asia,Western Asia,Georgia,Sukhumi,UNICEF,9
+Asia,Western Asia,Georgia,Tbilisi,FAO,8
+Asia,Western Asia,Georgia,Tbilisi,ILO,5
+Asia,Western Asia,Georgia,Tbilisi,IOM,23
+Asia,Western Asia,Georgia,Tbilisi,UN,16
+Asia,Western Asia,Georgia,Tbilisi,UN WOMEN,13
+Asia,Western Asia,Georgia,Tbilisi,UNDP,31
+Asia,Western Asia,Georgia,Tbilisi,UNFPA,9
+Asia,Western Asia,Georgia,Tbilisi,UNHCR,20
+Asia,Western Asia,Georgia,Tbilisi,UNICEF,34
+Asia,Western Asia,Georgia,Tbilisi,WHO,17
+Asia,Western Asia,Georgia,Zugdidi,UN,1
+Asia,Western Asia,Iraq,Al-Qaim,UNHCR,1
+Asia,Western Asia,Iraq,An Najaf,UN,2
+Asia,Western Asia,Iraq,Arbil,FAO,1
+Asia,Western Asia,Iraq,Arbil,UNHCR,119
+Asia,Western Asia,Iraq,Arbil,WHO,26
+Asia,Western Asia,Iraq,Babil,UN,1
+Asia,Western Asia,Iraq,Baghdad,FAO,8
+Asia,Western Asia,Iraq,Baghdad,ILO,10
+Asia,Western Asia,Iraq,Baghdad,IOM,11
+Asia,Western Asia,Iraq,Baghdad,UN,598
+Asia,Western Asia,Iraq,Baghdad,UN WOMEN,5
+Asia,Western Asia,Iraq,Baghdad,UNDP,58
+Asia,Western Asia,Iraq,Baghdad,UNESCO,11
+Asia,Western Asia,Iraq,Baghdad,UNFPA,14
+Asia,Western Asia,Iraq,Baghdad,UNHCR,68
+Asia,Western Asia,Iraq,Baghdad,UNICEF,79
+Asia,Western Asia,Iraq,Baghdad,UNOPS,4
+Asia,Western Asia,Iraq,Baghdad,WFP,46
+Asia,Western Asia,Iraq,Baghdad,WHO,29
+Asia,Western Asia,Iraq,Baqubah,UN,1
+Asia,Western Asia,Iraq,Baqubah,UNHCR,2
+Asia,Western Asia,Iraq,Baqubah,WFP,1
+Asia,Western Asia,Iraq,Basrah,IOM,1
+Asia,Western Asia,Iraq,Basrah,UN,21
+Asia,Western Asia,Iraq,Basrah,UNDP,5
+Asia,Western Asia,Iraq,Basrah,UNICEF,18
+Asia,Western Asia,Iraq,Basrah,WFP,2
+Asia,Western Asia,Iraq,Basrah,WHO,1
+Asia,Western Asia,Iraq,Dahuk,WHO,1
+Asia,Western Asia,Iraq,Dohuk,UN,34
+Asia,Western Asia,Iraq,Dohuk,UNHCR,48
+Asia,Western Asia,Iraq,Dohuk,UNICEF,25
+Asia,Western Asia,Iraq,Dohuk,WFP,11
+Asia,Western Asia,Iraq,Erbil,ILO,15
+Asia,Western Asia,Iraq,Erbil,IOM,19
+Asia,Western Asia,Iraq,Erbil,UN,171
+Asia,Western Asia,Iraq,Erbil,UN WOMEN,2
+Asia,Western Asia,Iraq,Erbil,UNDP,48
+Asia,Western Asia,Iraq,Erbil,UNESCO,9
+Asia,Western Asia,Iraq,Erbil,UNFPA,15
+Asia,Western Asia,Iraq,Erbil,UNICEF,66
+Asia,Western Asia,Iraq,Erbil,UNOPS,3
+Asia,Western Asia,Iraq,Erbil,WFP,35
+Asia,Western Asia,Iraq,Karbala,UN,1
+Asia,Western Asia,Iraq,Karbala,UNDP,1
+Asia,Western Asia,Iraq,Kirkuk,UN,37
+Asia,Western Asia,Iraq,Kirkuk,UNHCR,18
+Asia,Western Asia,Iraq,Maysan,UN,1
+Asia,Western Asia,Iraq,Mosul,IOM,1
+Asia,Western Asia,Iraq,Mosul,UN,17
+Asia,Western Asia,Iraq,Mosul,UNDP,1
+Asia,Western Asia,Iraq,Mosul,UNHCR,16
+Asia,Western Asia,Iraq,Mosul,WFP,2
+Asia,Western Asia,Iraq,Muthanna,UN,2
+Asia,Western Asia,Iraq,Nasiriya,UN,1
+Asia,Western Asia,Iraq,Qadisiyah,UN,2
+Asia,Western Asia,Iraq,Ramadi,UNDP,1
+Asia,Western Asia,Iraq,Ramadi,UNHCR,4
+Asia,Western Asia,Iraq,Salah Ad Din,UN,3
+Asia,Western Asia,Iraq,Samarra,UNHCR,3
+Asia,Western Asia,Iraq,Sulaymaniyah,IOM,1
+Asia,Western Asia,Iraq,Sulaymaniyah,UN,4
+Asia,Western Asia,Iraq,Sulaymaniyah,UNHCR,23
+Asia,Western Asia,Iraq,Sulaymaniyah,WFP,5
+Asia,Western Asia,Iraq,Sulaymaniyah,WHO,1
+Asia,Western Asia,Iraq,Tikrit,UN,1
+Asia,Western Asia,Iraq,Tikrit,WFP,1
+Asia,Western Asia,Iraq,Wasit,UN,2
+Asia,Western Asia,Israel,Ashdod,WFP,1
+Asia,Western Asia,Israel,Haifa,UNDP,2
+Asia,Western Asia,Israel,Jerusalem,ILO,5
+Asia,Western Asia,Israel,Jerusalem,UN,195
+Asia,Western Asia,Israel,Jerusalem,UNFPA,1
+Asia,Western Asia,Israel,Tel Aviv,UNHCR,15
+Asia,Western Asia,Israel,Tel Aviv,WHO,1
+Asia,Western Asia,Israel,Tiberias,UN,16
+Asia,Western Asia,Jordan,Amman,FAO,4
+Asia,Western Asia,Jordan,Amman,ILO,56
+Asia,Western Asia,Jordan,Amman,IOM,283
+Asia,Western Asia,Jordan,Amman,UN,134
+Asia,Western Asia,Jordan,Amman,UN WOMEN,20
+Asia,Western Asia,Jordan,Amman,UNDP,117
+Asia,Western Asia,Jordan,Amman,UNESCO,16
+Asia,Western Asia,Jordan,Amman,UNFPA,33
+Asia,Western Asia,Jordan,Amman,UNHCR,325
+Asia,Western Asia,Jordan,Amman,UNICEF,288
+Asia,Western Asia,Jordan,Amman,UNIDO,1
+Asia,Western Asia,Jordan,Amman,UNOPS,5
+Asia,Western Asia,Jordan,Amman,UNRWA,85
+Asia,Western Asia,Jordan,Amman,WFP,136
+Asia,Western Asia,Jordan,Amman,WHO,94
+Asia,Western Asia,Jordan,Azraq,UNHCR,33
+Asia,Western Asia,Jordan,Irbid,ILO,2
+Asia,Western Asia,Jordan,Irbid,UN,1
+Asia,Western Asia,Jordan,Irbid,UNHCR,19
+Asia,Western Asia,Jordan,Jerash,ILO,1
+Asia,Western Asia,Jordan,Mafraq,UNHCR,46
+Asia,Western Asia,Jordan,Zarqa,ILO,1
+Asia,Western Asia,Kuwait,Kuwait,ICAO,5
+Asia,Western Asia,Kuwait,Kuwait,ILO,2
+Asia,Western Asia,Kuwait,Kuwait,IOM,3
+Asia,Western Asia,Kuwait,Kuwait,UN,124
+Asia,Western Asia,Kuwait,Kuwait,UNDP,13
+Asia,Western Asia,Kuwait,Kuwait,UNHCR,11
+Asia,Western Asia,Kuwait,Kuwait,UNICEF,2
+Asia,Western Asia,Kuwait,Kuwait,WHO,1
+Asia,Western Asia,Lebanon,Al Qoubaiyat,UNHCR,16
+Asia,Western Asia,Lebanon,Aley,ILO,1
+Asia,Western Asia,Lebanon,Beirut,FAO,7
+Asia,Western Asia,Lebanon,Beirut,ILO,72
+Asia,Western Asia,Lebanon,Beirut,IOM,8
+Asia,Western Asia,Lebanon,Beirut,UN,548
+Asia,Western Asia,Lebanon,Beirut,UN WOMEN,6
+Asia,Western Asia,Lebanon,Beirut,UNDP,57
+Asia,Western Asia,Lebanon,Beirut,UNESCO,22
+Asia,Western Asia,Lebanon,Beirut,UNFPA,8
+Asia,Western Asia,Lebanon,Beirut,UNHCR,217
+Asia,Western Asia,Lebanon,Beirut,UNICEF,141
+Asia,Western Asia,Lebanon,Beirut,UNIDO,2
+Asia,Western Asia,Lebanon,Beirut,UNOPS,2
+Asia,Western Asia,Lebanon,Beirut,UNRWA,12
+Asia,Western Asia,Lebanon,Beirut,WFP,60
+Asia,Western Asia,Lebanon,Beirut,WHO,18
+Asia,Western Asia,Lebanon,Kobayat,UNICEF,2
+Asia,Western Asia,Lebanon,Naqoura,UN,802
+Asia,Western Asia,Lebanon,Other,WFP,1
+Asia,Western Asia,Lebanon,Saida/Sidon,ILO,1
+Asia,Western Asia,Lebanon,Tripoli,ILO,1
+Asia,Western Asia,Lebanon,Tripoli,UN,2
+Asia,Western Asia,Lebanon,Tripoli,UNHCR,48
+Asia,Western Asia,Lebanon,Tripoli,UNICEF,11
+Asia,Western Asia,Lebanon,Tripoli,WFP,1
+Asia,Western Asia,Lebanon,Tyre,UNHCR,41
+Asia,Western Asia,Lebanon,Tyre,UNICEF,2
+Asia,Western Asia,Lebanon,Zahle,ILO,1
+Asia,Western Asia,Lebanon,Zahle,UNHCR,64
+Asia,Western Asia,Lebanon,Zahle,UNICEF,11
+Asia,Western Asia,Oman,Muscat,FAO,1
+Asia,Western Asia,Oman,Muscat,UNFPA,7
+Asia,Western Asia,Oman,Muscat,UNICEF,7
+Asia,Western Asia,Oman,Muscat,WHO,11
+Asia,Western Asia,Oman,Salalah,UNICEF,1
+Asia,Western Asia,Palestine,Ain Ziouani,UN,12
+Asia,Western Asia,Palestine,East Jerusalem,ILO,2
+Asia,Western Asia,Palestine,East Jerusalem,UN,39
+Asia,Western Asia,Palestine,East Jerusalem,UN WOMEN,7
+Asia,Western Asia,Palestine,East Jerusalem,UNDP,32
+Asia,Western Asia,Palestine,East Jerusalem,UNFPA,2
+Asia,Western Asia,Palestine,East Jerusalem,UNICEF,54
+Asia,Western Asia,Palestine,East Jerusalem,UNOPS,6
+Asia,Western Asia,Palestine,East Jerusalem,WFP,25
+Asia,Western Asia,Palestine,Gaza,FAO,4
+Asia,Western Asia,Palestine,Gaza,UN,37
+Asia,Western Asia,Palestine,Gaza,UN WOMEN,1
+Asia,Western Asia,Palestine,Gaza,UNDP,11
+Asia,Western Asia,Palestine,Gaza,UNFPA,2
+Asia,Western Asia,Palestine,Gaza,UNICEF,27
+Asia,Western Asia,Palestine,Gaza,UNRWA,11
+Asia,Western Asia,Palestine,Gaza,WFP,17
+Asia,Western Asia,Palestine,Gaza,WHO,10
+Asia,Western Asia,Palestine,Hebron,UN,2
+Asia,Western Asia,Palestine,Hebron,WFP,3
+Asia,Western Asia,Palestine,Jerusalem,UNRWA,36
+Asia,Western Asia,Palestine,Jerusalem,WHO,23
+Asia,Western Asia,Palestine,Nablus,UN,2
+Asia,Western Asia,Palestine,Ramallah,ILO,4
+Asia,Western Asia,Palestine,Ramallah,UN,21
+Asia,Western Asia,Palestine,Ramallah,UN WOMEN,2
+Asia,Western Asia,Palestine,Ramallah,UNESCO,9
+Asia,Western Asia,Palestine,Ramallah,UNIDO,1
+Asia,Western Asia,Palestine,West Bank,UN,17
+Asia,Western Asia,Palestine,West Bank,UNDP,1
+Asia,Western Asia,Palestine,West Bank,UNFPA,9
+Asia,Western Asia,Palestine,West Bank,UNRWA,1
+Asia,Western Asia,Qatar,Doha,ILO,10
+Asia,Western Asia,Qatar,Doha,IOM,3
+Asia,Western Asia,Qatar,Doha,UN,12
+Asia,Western Asia,Qatar,Doha,UNDP,1
+Asia,Western Asia,Qatar,Doha,UNESCO,9
+Asia,Western Asia,Qatar,Doha,UNHCR,3
+Asia,Western Asia,Qatar,Doha,UNICEF,2
+Asia,Western Asia,Qatar,Doha,WHO,1
+Asia,Western Asia,Saudi Arabia,Jeddah,ICAO,1
+Asia,Western Asia,Saudi Arabia,Jeddah,UNOPS,2
+Asia,Western Asia,Saudi Arabia,Riyadh,FAO,30
+Asia,Western Asia,Saudi Arabia,Riyadh,ICAO,20
+Asia,Western Asia,Saudi Arabia,Riyadh,IFAD,2
+Asia,Western Asia,Saudi Arabia,Riyadh,IOM,1
+Asia,Western Asia,Saudi Arabia,Riyadh,ITU,1
+Asia,Western Asia,Saudi Arabia,Riyadh,UN,23
+Asia,Western Asia,Saudi Arabia,Riyadh,UNDP,30
+Asia,Western Asia,Saudi Arabia,Riyadh,UNHCR,17
+Asia,Western Asia,Saudi Arabia,Riyadh,UNICEF,13
+Asia,Western Asia,Saudi Arabia,Riyadh,UNWTO,3
+Asia,Western Asia,Saudi Arabia,Riyadh,WHO,8
+Asia,Western Asia,Syria,Al Hasakah,UN,3
+Asia,Western Asia,Syria,Al Hasakah,UNHCR,46
+Asia,Western Asia,Syria,Al Hasakah,WFP,3
+Asia,Western Asia,Syria,Aleppo,UN,5
+Asia,Western Asia,Syria,Aleppo,UNDP,6
+Asia,Western Asia,Syria,Aleppo,UNFPA,6
+Asia,Western Asia,Syria,Aleppo,UNHCR,43
+Asia,Western Asia,Syria,Aleppo,UNICEF,17
+Asia,Western Asia,Syria,Aleppo,WFP,18
+Asia,Western Asia,Syria,Aleppo,WHO,8
+Asia,Western Asia,Syria,Damascus,FAO,12
+Asia,Western Asia,Syria,Damascus,ILO,1
+Asia,Western Asia,Syria,Damascus,UN,153
+Asia,Western Asia,Syria,Damascus,UNDP,72
+Asia,Western Asia,Syria,Damascus,UNFPA,42
+Asia,Western Asia,Syria,Damascus,UNHCR,199
+Asia,Western Asia,Syria,Damascus,UNICEF,123
+Asia,Western Asia,Syria,Damascus,UNOPS,5
+Asia,Western Asia,Syria,Damascus,UNRWA,16
+Asia,Western Asia,Syria,Damascus,WFP,148
+Asia,Western Asia,Syria,Damascus,WHO,53
+Asia,Western Asia,Syria,Daraa,UNHCR,19
+Asia,Western Asia,Syria,Deir Ez Zor,UN,1
+Asia,Western Asia,Syria,Deir Ez Zor,UNDP,4
+Asia,Western Asia,Syria,Deir Ez Zor,UNFPA,1
+Asia,Western Asia,Syria,Deir Ez Zor,UNICEF,6
+Asia,Western Asia,Syria,Deir Ez Zor,WFP,3
+Asia,Western Asia,Syria,Faouar,UN,95
+Asia,Western Asia,Syria,Hama,UNDP,1
+Asia,Western Asia,Syria,Homs,UN,10
+Asia,Western Asia,Syria,Homs,UNDP,3
+Asia,Western Asia,Syria,Homs,UNFPA,4
+Asia,Western Asia,Syria,Homs,UNHCR,35
+Asia,Western Asia,Syria,Homs,UNICEF,16
+Asia,Western Asia,Syria,Homs,WFP,16
+Asia,Western Asia,Syria,Homs,WHO,3
+Asia,Western Asia,Syria,Latakia,UNDP,2
+Asia,Western Asia,Syria,Latakia,WFP,5
+Asia,Western Asia,Syria,Latakia,WHO,2
+Asia,Western Asia,Syria,Qamishli,UN,4
+Asia,Western Asia,Syria,Qamishli,UNDP,3
+Asia,Western Asia,Syria,Qamishli,UNICEF,22
+Asia,Western Asia,Syria,Qamishli,WFP,20
+Asia,Western Asia,Syria,Qamishli,WHO,3
+Asia,Western Asia,Syria,Sweida,UNDP,1
+Asia,Western Asia,Syria,Tartus,UNDP,2
+Asia,Western Asia,Syria,Tartus,UNHCR,23
+Asia,Western Asia,Syria,Tartus,UNICEF,10
+Asia,Western Asia,Syria,Tartus,WFP,26
+Asia,Western Asia,Türkiye,Ankara,FAO,22
+Asia,Western Asia,Türkiye,Ankara,ILO,53
+Asia,Western Asia,Türkiye,Ankara,IOM,92
+Asia,Western Asia,Türkiye,Ankara,UN,20
+Asia,Western Asia,Türkiye,Ankara,UN WOMEN,20
+Asia,Western Asia,Türkiye,Ankara,UNDP,31
+Asia,Western Asia,Türkiye,Ankara,UNFPA,14
+Asia,Western Asia,Türkiye,Ankara,UNHCR,200
+Asia,Western Asia,Türkiye,Ankara,UNICEF,110
+Asia,Western Asia,Türkiye,Ankara,UNIDO,2
+Asia,Western Asia,Türkiye,Ankara,WFP,25
+Asia,Western Asia,Türkiye,Ankara,WHO,34
+Asia,Western Asia,Türkiye,Antalya,WFP,4
+Asia,Western Asia,Türkiye,Edirne,IOM,9
+Asia,Western Asia,Türkiye,Gaziantep,ILO,1
+Asia,Western Asia,Türkiye,Gaziantep,IOM,40
+Asia,Western Asia,Türkiye,Gaziantep,UN,47
+Asia,Western Asia,Türkiye,Gaziantep,UNDP,2
+Asia,Western Asia,Türkiye,Gaziantep,UNFPA,6
+Asia,Western Asia,Türkiye,Gaziantep,UNHCR,49
+Asia,Western Asia,Türkiye,Gaziantep,UNICEF,38
+Asia,Western Asia,Türkiye,Gaziantep,WFP,9
+Asia,Western Asia,Türkiye,Gaziantep,WHO,17
+Asia,Western Asia,Türkiye,Gebze,UN,16
+Asia,Western Asia,Türkiye,Hatay,IOM,1
+Asia,Western Asia,Türkiye,Hatay,UNHCR,12
+Asia,Western Asia,Türkiye,Istanbul,IFAD,13
+Asia,Western Asia,Türkiye,Istanbul,IOM,76
+Asia,Western Asia,Türkiye,Istanbul,UN,32
+Asia,Western Asia,Türkiye,Istanbul,UN WOMEN,25
+Asia,Western Asia,Türkiye,Istanbul,UNDP,145
+Asia,Western Asia,Türkiye,Istanbul,UNFPA,32
+Asia,Western Asia,Türkiye,Istanbul,UNHCR,20
+Asia,Western Asia,Türkiye,Istanbul,UNICEF,12
+Asia,Western Asia,Türkiye,Istanbul,WFP,1
+Asia,Western Asia,Türkiye,Istanbul,WHO,2
+Asia,Western Asia,Türkiye,Izmir,IOM,2
+Asia,Western Asia,Türkiye,Izmir,UNHCR,8
+Asia,Western Asia,Türkiye,Izmir,WFP,2
+Asia,Western Asia,Türkiye,Sanliurfa,UNHCR,9
+Asia,Western Asia,Türkiye,Sanliurfa,WFP,2
+Asia,Western Asia,Türkiye,Van,UNHCR,1
+Asia,Western Asia,United Arab Emirates,Abu Dhabi,FAO,8
+Asia,Western Asia,United Arab Emirates,Abu Dhabi,UN,19
+Asia,Western Asia,United Arab Emirates,Abu Dhabi,UN WOMEN,4
+Asia,Western Asia,United Arab Emirates,Abu Dhabi,UNDP,2
+Asia,Western Asia,United Arab Emirates,Abu Dhabi,UNHCR,16
+Asia,Western Asia,United Arab Emirates,Abu Dhabi,UNICEF,2
+Asia,Western Asia,United Arab Emirates,Abu Dhabi,WFP,2
+Asia,Western Asia,United Arab Emirates,Dubai,IOM,1
+Asia,Western Asia,United Arab Emirates,Dubai,UN,3
+Asia,Western Asia,United Arab Emirates,Dubai,UNDP,2
+Asia,Western Asia,United Arab Emirates,Dubai,UNHCR,20
+Asia,Western Asia,United Arab Emirates,Dubai,UNICEF,10
+Asia,Western Asia,United Arab Emirates,Dubai,WFP,30
+Asia,Western Asia,United Arab Emirates,Dubai,WHO,10
+Asia,Western Asia,United Arab Emirates,Sharjah,WFP,2
+Asia,Western Asia,Yemen,Aden,FAO,3
+Asia,Western Asia,Yemen,Aden,IOM,15
+Asia,Western Asia,Yemen,Aden,UN,28
+Asia,Western Asia,Yemen,Aden,UNDP,34
+Asia,Western Asia,Yemen,Aden,UNFPA,2
+Asia,Western Asia,Yemen,Aden,UNHCR,52
+Asia,Western Asia,Yemen,Aden,UNICEF,32
+Asia,Western Asia,Yemen,Aden,WFP,67
+Asia,Western Asia,Yemen,Aden,WHO,28
+Asia,Western Asia,Yemen,Ahwar,UN,1
+Asia,Western Asia,Yemen,Al Kharaz,UNHCR,6
+Asia,Western Asia,Yemen,Al Mukalla,UNICEF,2
+Asia,Western Asia,Yemen,Al Mukalla,WFP,1
+Asia,Western Asia,Yemen,Al Mukalla,WHO,1
+Asia,Western Asia,Yemen,Hodeidah,UN,59
+Asia,Western Asia,Yemen,Hodeidah,UNDP,3
+Asia,Western Asia,Yemen,Hodeidah,UNHCR,8
+Asia,Western Asia,Yemen,Hodeidah,UNICEF,23
+Asia,Western Asia,Yemen,Hodeidah,UNOPS,2
+Asia,Western Asia,Yemen,Hodeidah,WFP,59
+Asia,Western Asia,Yemen,Hodeidah,WHO,12
+Asia,Western Asia,Yemen,Ibb,UN,3
+Asia,Western Asia,Yemen,Ibb,UNDP,2
+Asia,Western Asia,Yemen,Ibb,UNHCR,4
+Asia,Western Asia,Yemen,Ibb,UNICEF,18
+Asia,Western Asia,Yemen,Ibb,WFP,14
+Asia,Western Asia,Yemen,Ibb,WHO,3
+Asia,Western Asia,Yemen,Marib,IOM,6
+Asia,Western Asia,Yemen,Marib,UN,3
+Asia,Western Asia,Yemen,Marib,UNICEF,1
+Asia,Western Asia,Yemen,Mocha,WFP,1
+Asia,Western Asia,Yemen,Saada,UN,3
+Asia,Western Asia,Yemen,Saada,UNDP,1
+Asia,Western Asia,Yemen,Saada,UNHCR,9
+Asia,Western Asia,Yemen,Saada,UNICEF,19
+Asia,Western Asia,Yemen,Saada,WFP,33
+Asia,Western Asia,Yemen,Saada,WHO,4
+Asia,Western Asia,Yemen,Sanaa,FAO,15
+Asia,Western Asia,Yemen,Sanaa,ILO,4
+Asia,Western Asia,Yemen,Sanaa,IOM,25
+Asia,Western Asia,Yemen,Sanaa,UN,160
+Asia,Western Asia,Yemen,Sanaa,UNDP,115
+Asia,Western Asia,Yemen,Sanaa,UNFPA,28
+Asia,Western Asia,Yemen,Sanaa,UNHCR,77
+Asia,Western Asia,Yemen,Sanaa,UNICEF,178
+Asia,Western Asia,Yemen,Sanaa,UNOPS,4
+Asia,Western Asia,Yemen,Sanaa,WFP,247
+Asia,Western Asia,Yemen,Sanaa,WHO,87
+Asia,Western Asia,Yemen,Taizz,UN,2
+Asia,Western Asia,Yemen,Taizz,WHO,1
+Europe,Eastern Europe,Belarus,Minsk,IOM,14
+Europe,Eastern Europe,Belarus,Minsk,UN,9
+Europe,Eastern Europe,Belarus,Minsk,UNAIDS,2
+Europe,Eastern Europe,Belarus,Minsk,UNDP,20
+Europe,Eastern Europe,Belarus,Minsk,UNFPA,8
+Europe,Eastern Europe,Belarus,Minsk,UNHCR,7
+Europe,Eastern Europe,Belarus,Minsk,UNICEF,22
+Europe,Eastern Europe,Belarus,Minsk,WHO,6
+Europe,Eastern Europe,Bulgaria,Bourgas,FAO,2
+Europe,Eastern Europe,Bulgaria,Sofia,IOM,25
+Europe,Eastern Europe,Bulgaria,Sofia,UNHCR,16
+Europe,Eastern Europe,Bulgaria,Sofia,UNICEF,25
+Europe,Eastern Europe,Bulgaria,Sofia,WHO,4
+Europe,Eastern Europe,Czech Republic,Prague,IOM,4
+Europe,Eastern Europe,Czech Republic,Prague,UN,3
+Europe,Eastern Europe,Czech Republic,Prague,UNHCR,4
+Europe,Eastern Europe,Czech Republic,Prague,WHO,2
+Europe,Eastern Europe,Hungary,Budapest,FAO,142
+Europe,Eastern Europe,Hungary,Budapest,ILO,26
+Europe,Eastern Europe,Hungary,Budapest,IOM,8
+Europe,Eastern Europe,Hungary,Budapest,UN,19
+Europe,Eastern Europe,Hungary,Budapest,UNHCR,430
+Europe,Eastern Europe,Hungary,Budapest,UNICEF,323
+Europe,Eastern Europe,Hungary,Budapest,WFP,1
+Europe,Eastern Europe,Hungary,Budapest,WHO,41
+Europe,Eastern Europe,Poland,Warsaw,IOM,11
+Europe,Eastern Europe,Poland,Warsaw,UN,3
+Europe,Eastern Europe,Poland,Warsaw,UNHCR,11
+Europe,Eastern Europe,Poland,Warsaw,WHO,2
+Europe,Eastern Europe,Republic of Moldova,Chisinau,ILO,4
+Europe,Eastern Europe,Republic of Moldova,Chisinau,IOM,26
+Europe,Eastern Europe,Republic of Moldova,Chisinau,UN,18
+Europe,Eastern Europe,Republic of Moldova,Chisinau,UN WOMEN,8
+Europe,Eastern Europe,Republic of Moldova,Chisinau,UNAIDS,1
+Europe,Eastern Europe,Republic of Moldova,Chisinau,UNDP,29
+Europe,Eastern Europe,Republic of Moldova,Chisinau,UNFPA,9
+Europe,Eastern Europe,Republic of Moldova,Chisinau,UNICEF,22
+Europe,Eastern Europe,Republic of Moldova,Chisinau,WHO,12
+Europe,Eastern Europe,Republic of Moldova,Kishinev,FAO,1
+Europe,Eastern Europe,Romania,Bucharest,IOM,16
+Europe,Eastern Europe,Romania,Bucharest,UN,1
+Europe,Eastern Europe,Romania,Bucharest,UNHCR,6
+Europe,Eastern Europe,Romania,Bucharest,UNICEF,26
+Europe,Eastern Europe,Romania,Bucharest,WHO,4
+Europe,Eastern Europe,Romania,Timisoara,UNHCR,2
+Europe,Eastern Europe,Russia,Moscow,FAO,3
+Europe,Eastern Europe,Russia,Moscow,ILO,30
+Europe,Eastern Europe,Russia,Moscow,IOM,22
+Europe,Eastern Europe,Russia,Moscow,ITU,4
+Europe,Eastern Europe,Russia,Moscow,UN,16
+Europe,Eastern Europe,Russia,Moscow,UNAIDS,14
+Europe,Eastern Europe,Russia,Moscow,UNDP,2
+Europe,Eastern Europe,Russia,Moscow,UNESCO,6
+Europe,Eastern Europe,Russia,Moscow,UNHCR,17
+Europe,Eastern Europe,Russia,Moscow,UNIDO,1
+Europe,Eastern Europe,Russia,Moscow,WHO,25
+Europe,Eastern Europe,Russia,Moscow,WIPO,4
+Europe,Eastern Europe,Slovakia,Bratislava,IOM,18
+Europe,Eastern Europe,Slovakia,Bratislava,UNDP,1
+Europe,Eastern Europe,Slovakia,Bratislava,WHO,2
+Europe,Eastern Europe,Slovakia,Kosice,IOM,1
+Europe,Eastern Europe,Ukraine,Dnipropetrovsk,UNHCR,1
+Europe,Eastern Europe,Ukraine,Donetsk,UN,12
+Europe,Eastern Europe,Ukraine,Donetsk,UNHCR,8
+Europe,Eastern Europe,Ukraine,Donetsk,UNICEF,5
+Europe,Eastern Europe,Ukraine,Donetsk,WHO,4
+Europe,Eastern Europe,Ukraine,Kharkiv,UN,3
+Europe,Eastern Europe,Ukraine,Kramatorsk,IOM,4
+Europe,Eastern Europe,Ukraine,Kramatorsk,UN,17
+Europe,Eastern Europe,Ukraine,Kramatorsk,UNDP,2
+Europe,Eastern Europe,Ukraine,Kramatorsk,UNICEF,9
+Europe,Eastern Europe,Ukraine,Kyev,FAO,2
+Europe,Eastern Europe,Ukraine,Kyev,ILO,12
+Europe,Eastern Europe,Ukraine,Kyev,IOM,172
+Europe,Eastern Europe,Ukraine,Kyev,UN,61
+Europe,Eastern Europe,Ukraine,Kyev,UN WOMEN,10
+Europe,Eastern Europe,Ukraine,Kyev,UNAIDS,6
+Europe,Eastern Europe,Ukraine,Kyev,UNDP,45
+Europe,Eastern Europe,Ukraine,Kyev,UNFPA,15
+Europe,Eastern Europe,Ukraine,Kyev,UNHCR,43
+Europe,Eastern Europe,Ukraine,Kyev,UNICEF,55
+Europe,Eastern Europe,Ukraine,Kyev,WHO,49
+Europe,Eastern Europe,Ukraine,Luhansk,IOM,1
+Europe,Eastern Europe,Ukraine,Luhansk,UN,7
+Europe,Eastern Europe,Ukraine,Luhansk,UNHCR,9
+Europe,Eastern Europe,Ukraine,Luhansk,UNICEF,1
+Europe,Eastern Europe,Ukraine,Luhansk,WHO,2
+Europe,Eastern Europe,Ukraine,Mariupol,UN,4
+Europe,Eastern Europe,Ukraine,Mariupol,UNHCR,7
+Europe,Eastern Europe,Ukraine,Mariupol,UNICEF,2
+Europe,Eastern Europe,Ukraine,Mariupol,WHO,1
+Europe,Eastern Europe,Ukraine,Odessa,IOM,7
+Europe,Eastern Europe,Ukraine,Odessa,UN,5
+Europe,Eastern Europe,Ukraine,Severodonetsk,IOM,2
+Europe,Eastern Europe,Ukraine,Severodonetsk,UN,2
+Europe,Eastern Europe,Ukraine,Severodonetsk,UNDP,1
+Europe,Eastern Europe,Ukraine,Severodonetsk,UNHCR,8
+Europe,Eastern Europe,Ukraine,Sloviansk,UNHCR,19
+Europe,Northern Europe,Denmark,Copenhagen,IOM,2
+Europe,Northern Europe,Denmark,Copenhagen,UN,5
+Europe,Northern Europe,Denmark,Copenhagen,UN WOMEN,1
+Europe,Northern Europe,Denmark,Copenhagen,UNDP,201
+Europe,Northern Europe,Denmark,Copenhagen,UNESCO,1
+Europe,Northern Europe,Denmark,Copenhagen,UNFPA,78
+Europe,Northern Europe,Denmark,Copenhagen,UNHCR,141
+Europe,Northern Europe,Denmark,Copenhagen,UNICEF,454
+Europe,Northern Europe,Denmark,Copenhagen,UNIDO,1
+Europe,Northern Europe,Denmark,Copenhagen,UNOPS,52
+Europe,Northern Europe,Denmark,Copenhagen,WFP,2
+Europe,Northern Europe,Denmark,Copenhagen,WHO,316
+Europe,Northern Europe,Estonia,Tallinn,IOM,2
+Europe,Northern Europe,Estonia,Tallinn,UN,2
+Europe,Northern Europe,Estonia,Tallinn,WHO,2
+Europe,Northern Europe,Finland,Helsinki,IOM,25
+Europe,Northern Europe,Finland,Helsinki,UNDP,1
+Europe,Northern Europe,Finland,Helsinki,UNHCR,1
+Europe,Northern Europe,Finland,Helsinki,UNIDO,1
+Europe,Northern Europe,Finland,Helsinki,UNOPS,9
+Europe,Northern Europe,Finland,Helsinki,UNU,24
+Europe,Northern Europe,Great Britain,Birmingham,WHO,1
+Europe,Northern Europe,Great Britain,London,IMO,245
+Europe,Northern Europe,Great Britain,London,IOM,36
+Europe,Northern Europe,Great Britain,London,UN,7
+Europe,Northern Europe,Great Britain,London,UNDP,3
+Europe,Northern Europe,Great Britain,London,UNFPA,2
+Europe,Northern Europe,Great Britain,London,UNHCR,43
+Europe,Northern Europe,Great Britain,London,UNICEF,6
+Europe,Northern Europe,Great Britain,London,UNOPS,3
+Europe,Northern Europe,Great Britain,London,WFP,5
+Europe,Northern Europe,Great Britain,London,WHO,21
+Europe,Northern Europe,Ireland,Dublin,IOM,4
+Europe,Northern Europe,Ireland,Dublin,UNHCR,10
+Europe,Northern Europe,Ireland,Dublin,WHO,2
+Europe,Northern Europe,Latvia,Riga,IOM,2
+Europe,Northern Europe,Latvia,Riga,WHO,3
+Europe,Northern Europe,Lithuania,Vilnius,IOM,7
+Europe,Northern Europe,Lithuania,Vilnius,UNHCR,2
+Europe,Northern Europe,Lithuania,Vilnius,WHO,2
+Europe,Northern Europe,Norway,Oslo,ILO,1
+Europe,Northern Europe,Norway,Oslo,IOM,13
+Europe,Northern Europe,Norway,Oslo,UNDP,7
+Europe,Northern Europe,Norway,Oslo,UNHCR,2
+Europe,Northern Europe,Norway,Oslo,WHO,1
+Europe,Northern Europe,Sweden,Stockholm,UNDP,5
+Europe,Northern Europe,Sweden,Stockholm,UNHCR,17
+Europe,Northern Europe,Sweden,Stockholm,UNICEF,6
+Europe,Southern Europe,Albania,Tirana,FAO,2
+Europe,Southern Europe,Albania,Tirana,ILO,2
+Europe,Southern Europe,Albania,Tirana,IOM,7
+Europe,Southern Europe,Albania,Tirana,UN,9
+Europe,Southern Europe,Albania,Tirana,UN WOMEN,6
+Europe,Southern Europe,Albania,Tirana,UNDP,17
+Europe,Southern Europe,Albania,Tirana,UNFPA,7
+Europe,Southern Europe,Albania,Tirana,UNHCR,12
+Europe,Southern Europe,Albania,Tirana,UNICEF,21
+Europe,Southern Europe,Albania,Tirana,UNOPS,1
+Europe,Southern Europe,Albania,Tirana,WHO,7
+Europe,Southern Europe,Bosnia and Herzegovina,Banja Luka,UNDP,1
+Europe,Southern Europe,Bosnia and Herzegovina,Banja Luka,WHO,1
+Europe,Southern Europe,Bosnia and Herzegovina,Bihac,IOM,1
+Europe,Southern Europe,Bosnia and Herzegovina,Bihac,UNHCR,2
+Europe,Southern Europe,Bosnia and Herzegovina,Bihac,UNICEF,2
+Europe,Southern Europe,Bosnia and Herzegovina,Mostar,UNDP,1
+Europe,Southern Europe,Bosnia and Herzegovina,Sarajevo,ILO,9
+Europe,Southern Europe,Bosnia and Herzegovina,Sarajevo,IOM,25
+Europe,Southern Europe,Bosnia and Herzegovina,Sarajevo,UN,16
+Europe,Southern Europe,Bosnia and Herzegovina,Sarajevo,UN WOMEN,5
+Europe,Southern Europe,Bosnia and Herzegovina,Sarajevo,UNDP,46
+Europe,Southern Europe,Bosnia and Herzegovina,Sarajevo,UNESCO,2
+Europe,Southern Europe,Bosnia and Herzegovina,Sarajevo,UNFPA,7
+Europe,Southern Europe,Bosnia and Herzegovina,Sarajevo,UNHCR,25
+Europe,Southern Europe,Bosnia and Herzegovina,Sarajevo,UNICEF,30
+Europe,Southern Europe,Bosnia and Herzegovina,Sarajevo,WHO,6
+Europe,Southern Europe,Bosnia and Herzegovina,Tuzla,UNHCR,2
+Europe,Southern Europe,Croatia,Zagreb,IOM,2
+Europe,Southern Europe,Croatia,Zagreb,UNHCR,17
+Europe,Southern Europe,Croatia,Zagreb,UNICEF,32
+Europe,Southern Europe,Croatia,Zagreb,WHO,3
+Europe,Southern Europe,Croatia,Zagreb,WMO,1
+Europe,Southern Europe,Gibraltar,Gibraltar,UN,3
+Europe,Southern Europe,Greece,Athens,IOM,20
+Europe,Southern Europe,Greece,Athens,UN,25
+Europe,Southern Europe,Greece,Athens,UNHCR,82
+Europe,Southern Europe,Greece,Athens,UNICEF,26
+Europe,Southern Europe,Greece,Athens,WHO,6
+Europe,Southern Europe,Greece,Chios,UNHCR,6
+Europe,Southern Europe,Greece,Evros,UNHCR,3
+Europe,Southern Europe,Greece,Kos,UNHCR,6
+Europe,Southern Europe,Greece,Leros,UNHCR,1
+Europe,Southern Europe,Greece,Lesvos,UNHCR,17
+Europe,Southern Europe,Greece,Samos,UNHCR,5
+Europe,Southern Europe,Greece,Thessaloniki,IOM,1
+Europe,Southern Europe,Greece,Thessaloniki,UNHCR,9
+Europe,Southern Europe,Italy,Ancona,UNHCR,1
+Europe,Southern Europe,Italy,Bari,UNHCR,10
+Europe,Southern Europe,Italy,Bari,UNIDO,1
+Europe,Southern Europe,Italy,Bologna,UNU,1
+Europe,Southern Europe,Italy,Brescia,UNHCR,1
+Europe,Southern Europe,Italy,Brindisi,UN,384
+Europe,Southern Europe,Italy,Brindisi,UNICC,53
+Europe,Southern Europe,Italy,Brindisi,UNOPS,46
+Europe,Southern Europe,Italy,Brindisi,WFP,25
+Europe,Southern Europe,Italy,Cagliari,UNHCR,1
+Europe,Southern Europe,Italy,Catania,UNHCR,2
+Europe,Southern Europe,Italy,Crotone,UNHCR,1
+Europe,Southern Europe,Italy,Florence,UNHCR,2
+Europe,Southern Europe,Italy,Florence,UNICEF,40
+Europe,Southern Europe,Italy,Milan,UNHCR,4
+Europe,Southern Europe,Italy,Milan,UNIDO,1
+Europe,Southern Europe,Italy,Palermo,UNHCR,1
+Europe,Southern Europe,Italy,Perugia,UNESCO,9
+Europe,Southern Europe,Italy,Rome,FAO,1 625
+Europe,Southern Europe,Italy,Rome,IFAD,503
+Europe,Southern Europe,Italy,Rome,ILO,5
+Europe,Southern Europe,Italy,Rome,IOM,44
+Europe,Southern Europe,Italy,Rome,UN,7
+Europe,Southern Europe,Italy,Rome,UNDP,3
+Europe,Southern Europe,Italy,Rome,UNHCR,82
+Europe,Southern Europe,Italy,Rome,UNICC,8
+Europe,Southern Europe,Italy,Rome,UNICEF,8
+Europe,Southern Europe,Italy,Rome,UNIDO,3
+Europe,Southern Europe,Italy,Rome,WFP,1 025
+Europe,Southern Europe,Italy,Rome,WHO,1
+Europe,Southern Europe,Italy,Salerno,UNHCR,1
+Europe,Southern Europe,Italy,Treviso,UNHCR,1
+Europe,Southern Europe,Italy,Trieste,UNESCO,183
+Europe,Southern Europe,Italy,Trieste,UNHCR,2
+Europe,Southern Europe,Italy,Turin,ILO,4
+Europe,Southern Europe,Italy,Turin,ITCILO,170
+Europe,Southern Europe,Italy,Turin,UN,3
+Europe,Southern Europe,Italy,Turin,UNHCR,2
+Europe,Southern Europe,Italy,Turin,UNSSC,35
+Europe,Southern Europe,Italy,Venice,UNESCO,15
+Europe,Southern Europe,Italy,Venice,WHO,8
+Europe,Southern Europe,Italy,Verona,UNHCR,1
+Europe,Southern Europe,Kosovo (UN administered province of Serbia),Kosovska Mitrovica,UN,57
+Europe,Southern Europe,Kosovo (UN administered province of Serbia),Pec,UN,3
+Europe,Southern Europe,Kosovo (UN administered province of Serbia),Pristina,FAO,4
+Europe,Southern Europe,Kosovo (UN administered province of Serbia),Pristina,ILO,1
+Europe,Southern Europe,Kosovo (UN administered province of Serbia),Pristina,IOM,1
+Europe,Southern Europe,Kosovo (UN administered province of Serbia),Pristina,UN,247
+Europe,Southern Europe,Kosovo (UN administered province of Serbia),Pristina,UN WOMEN,1
+Europe,Southern Europe,Kosovo (UN administered province of Serbia),Pristina,UNDP,23
+Europe,Southern Europe,Kosovo (UN administered province of Serbia),Pristina,UNFPA,4
+Europe,Southern Europe,Kosovo (UN administered province of Serbia),Pristina,UNHCR,17
+Europe,Southern Europe,Kosovo (UN administered province of Serbia),Pristina,UNICEF,28
+Europe,Southern Europe,Kosovo (UN administered province of Serbia),Pristina,UNOPS,1
+Europe,Southern Europe,Kosovo (UN administered province of Serbia),Pristina,WHO,6
+Europe,Southern Europe,Malta,Valletta,IMO,4
+Europe,Southern Europe,Malta,Valletta,IOM,2
+Europe,Southern Europe,Malta,Valletta,UNHCR,10
+Europe,Southern Europe,Montenegro,Podgorica,ILO,4
+Europe,Southern Europe,Montenegro,Podgorica,IOM,5
+Europe,Southern Europe,Montenegro,Podgorica,UN,8
+Europe,Southern Europe,Montenegro,Podgorica,UNDP,15
+Europe,Southern Europe,Montenegro,Podgorica,UNHCR,10
+Europe,Southern Europe,Montenegro,Podgorica,UNICEF,22
+Europe,Southern Europe,Montenegro,Podgorica,WHO,2
+Europe,Southern Europe,Portugal,Guimaraes,UNU,2
+Europe,Southern Europe,Portugal,Lisbon,ILO,1
+Europe,Southern Europe,Portugal,Lisbon,IOM,17
+Europe,Southern Europe,Portugal,Lisbon,ITCILO,1
+Europe,Southern Europe,Portugal,Lisbon,UN,1
+Europe,Southern Europe,Portugal,Lisbon,UNHCR,1
+Europe,Southern Europe,Portugal,Lisbon,WHO,4
+Europe,Southern Europe,Republic of Northern Macedonia,Skopje,ILO,3
+Europe,Southern Europe,Republic of Northern Macedonia,Skopje,IOM,8
+Europe,Southern Europe,Republic of Northern Macedonia,Skopje,UN,12
+Europe,Southern Europe,Republic of Northern Macedonia,Skopje,UN WOMEN,3
+Europe,Southern Europe,Republic of Northern Macedonia,Skopje,UNDP,23
+Europe,Southern Europe,Republic of Northern Macedonia,Skopje,UNFPA,6
+Europe,Southern Europe,Republic of Northern Macedonia,Skopje,UNHCR,16
+Europe,Southern Europe,Republic of Northern Macedonia,Skopje,UNICEF,23
+Europe,Southern Europe,Republic of Northern Macedonia,Skopje,UNOPS,1
+Europe,Southern Europe,Republic of Northern Macedonia,Skopje,WHO,6
+Europe,Southern Europe,Serbia,Belgrade,FAO,2
+Europe,Southern Europe,Serbia,Belgrade,ILO,1
+Europe,Southern Europe,Serbia,Belgrade,IOM,13
+Europe,Southern Europe,Serbia,Belgrade,UN,29
+Europe,Southern Europe,Serbia,Belgrade,UN WOMEN,1
+Europe,Southern Europe,Serbia,Belgrade,UNDP,27
+Europe,Southern Europe,Serbia,Belgrade,UNFPA,4
+Europe,Southern Europe,Serbia,Belgrade,UNHCR,36
+Europe,Southern Europe,Serbia,Belgrade,UNICEF,32
+Europe,Southern Europe,Serbia,Belgrade,UNOPS,1
+Europe,Southern Europe,Serbia,Belgrade,WHO,18
+Europe,Southern Europe,Serbia,Presevo,UNHCR,1
+Europe,Southern Europe,Slovenia,Ljubljana,IOM,1
+Europe,Southern Europe,Slovenia,Ljubljana,WHO,2
+Europe,Southern Europe,Spain,Barcelona,UN,3
+Europe,Southern Europe,Spain,Barcelona,WHO,10
+Europe,Southern Europe,Spain,Las Palmas,WFP,2
+Europe,Southern Europe,Spain,Madrid,ILO,1
+Europe,Southern Europe,Spain,Madrid,IOM,12
+Europe,Southern Europe,Spain,Madrid,UN,7
+Europe,Southern Europe,Spain,Madrid,UNHCR,32
+Europe,Southern Europe,Spain,Madrid,UNICC,1
+Europe,Southern Europe,Spain,Madrid,UNWTO,80
+Europe,Southern Europe,Spain,Madrid,WHO,1
+Europe,Southern Europe,Spain,Malaga,FAO,2
+Europe,Southern Europe,Spain,Melilla,UNHCR,1
+Europe,Southern Europe,Spain,Valencia,IOM,7
+Europe,Southern Europe,Spain,Valencia,UN,49
+Europe,Southern Europe,Spain,Valencia,UNICC,114
+Europe,Southern Europe,Spain,Valencia,UNICEF,55
+Europe,Southern Europe,Spain,Valencia,UNOPS,113
+Europe,Western Europe,Austria,Seibersdorf,IAEA,217
+Europe,Western Europe,Austria,Vienna,CTBTO,290
+Europe,Western Europe,Austria,Vienna,FAO,10
+Europe,Western Europe,Austria,Vienna,IAEA,2 292
+Europe,Western Europe,Austria,Vienna,IFAD,1
+Europe,Western Europe,Austria,Vienna,IOM,52
+Europe,Western Europe,Austria,Vienna,UN,1 271
+Europe,Western Europe,Austria,Vienna,UNDP,1
+Europe,Western Europe,Austria,Vienna,UNHCR,13
+Europe,Western Europe,Austria,Vienna,UNIDO,478
+Europe,Western Europe,Austria,Vienna,UNOPS,4
+Europe,Western Europe,Austria,Vienna,WHO,1
+Europe,Western Europe,Belgium,Brugge,UNU,3
+Europe,Western Europe,Belgium,Brussels,FAO,6
+Europe,Western Europe,Belgium,Brussels,ILO,6
+Europe,Western Europe,Belgium,Brussels,IOM,106
+Europe,Western Europe,Belgium,Brussels,UN,62
+Europe,Western Europe,Belgium,Brussels,UN WOMEN,5
+Europe,Western Europe,Belgium,Brussels,UNAIDS,1
+Europe,Western Europe,Belgium,Brussels,UNDP,35
+Europe,Western Europe,Belgium,Brussels,UNESCO,8
+Europe,Western Europe,Belgium,Brussels,UNFPA,8
+Europe,Western Europe,Belgium,Brussels,UNHCR,44
+Europe,Western Europe,Belgium,Brussels,UNICEF,16
+Europe,Western Europe,Belgium,Brussels,UNIDO,3
+Europe,Western Europe,Belgium,Brussels,UNOPS,15
+Europe,Western Europe,Belgium,Brussels,UNRWA,5
+Europe,Western Europe,Belgium,Brussels,WFP,14
+Europe,Western Europe,Belgium,Brussels,WHO,20
+Europe,Western Europe,Belgium,Brussels,WMO,2
+Europe,Western Europe,Belgium,Liege,WFP,1
+Europe,Western Europe,France,Brest,WMO,4
+Europe,Western Europe,France,Lyon,UN,3
+Europe,Western Europe,France,Lyon,UNICC,1
+Europe,Western Europe,France,Lyon,WHO,25
+Europe,Western Europe,France,Marseille,UNOPS,4
+Europe,Western Europe,France,Paris,IAEA,1
+Europe,Western Europe,France,Paris,ICAO,24
+Europe,Western Europe,France,Paris,ILO,2
+Europe,Western Europe,France,Paris,IOM,12
+Europe,Western Europe,France,Paris,UN,92
+Europe,Western Europe,France,Paris,UNDP,3
+Europe,Western Europe,France,Paris,UNESCO,1 205
+Europe,Western Europe,France,Paris,UNHCR,24
+Europe,Western Europe,France,Paris,UNOPS,1
+Europe,Western Europe,France,Paris,WHO,3
+Europe,Western Europe,France,Strasbourg,UNHCR,5
+Europe,Western Europe,France,Toulouse,UNESCO,1
+Europe,Western Europe,Germany,Berlin,ILO,1
+Europe,Western Europe,Germany,Berlin,IOM,57
+Europe,Western Europe,Germany,Berlin,ITU,1
+Europe,Western Europe,Germany,Berlin,UNDP,1
+Europe,Western Europe,Germany,Berlin,UNHCR,20
+Europe,Western Europe,Germany,Berlin,UNICEF,1
+Europe,Western Europe,Germany,Berlin,WFP,9
+Europe,Western Europe,Germany,Berlin,WHO,6
+Europe,Western Europe,Germany,Bonn,ILO,1
+Europe,Western Europe,Germany,Bonn,UN,71
+Europe,Western Europe,Germany,Bonn,UNDP,123
+Europe,Western Europe,Germany,Bonn,UNESCO,3
+Europe,Western Europe,Germany,Bonn,UNFCCC,366
+Europe,Western Europe,Germany,Bonn,UNIDO,6
+Europe,Western Europe,Germany,Bonn,UNITAR,2
+Europe,Western Europe,Germany,Bonn,UNOPS,2
+Europe,Western Europe,Germany,Bonn,UNSSC,10
+Europe,Western Europe,Germany,Bonn,UNU,25
+Europe,Western Europe,Germany,Bonn,WHO,26
+Europe,Western Europe,Germany,Dresden,UNU,7
+Europe,Western Europe,Germany,Frankfurt,ILO,1
+Europe,Western Europe,Germany,Frankfurt,WHO,1
+Europe,Western Europe,Germany,Hamburg,UNESCO,10
+Europe,Western Europe,Germany,Hamburg,UNHCR,2
+Europe,Western Europe,Germany,Munich,WFP,3
+Europe,Western Europe,Germany,Nuremberg,IOM,51
+Europe,Western Europe,Germany,Nuremberg,UNHCR,2
+Europe,Western Europe,Luxembourg,Luxembourg,UNDP,1
+Europe,Western Europe,Monaco,Monte Carlo,IAEA,42
+Europe,Western Europe,Netherlands,Amsterdam,IOM,3
+Europe,Western Europe,Netherlands,Amsterdam,UN,1
+Europe,Western Europe,Netherlands,Bilthoven,WHO,1
+Europe,Western Europe,Netherlands,Maastricht,UNU,8
+Europe,Western Europe,Netherlands,The Hague,ICJ,115
+Europe,Western Europe,Netherlands,The Hague,IOM,59
+Europe,Western Europe,Netherlands,The Hague,UN,294
+Europe,Western Europe,Netherlands,The Hague,UNAIDS,1
+Europe,Western Europe,Netherlands,The Hague,UNHCR,18
+Europe,Western Europe,Netherlands,The Hague,WHO,2
+Europe,Western Europe,Netherlands,Willemstad,UN,1
+Europe,Western Europe,Switzerland,Altstatten,IOM,1
+Europe,Western Europe,Switzerland,Basel,IOM,1
+Europe,Western Europe,Switzerland,Bern,IOM,18
+Europe,Western Europe,Switzerland,Bern,UNHCR,7
+Europe,Western Europe,Switzerland,Bern,UPU,238
+Europe,Western Europe,Switzerland,Geneva,CEB,9
+Europe,Western Europe,Switzerland,Geneva,FAO,9
+Europe,Western Europe,Switzerland,Geneva,IAEA,2
+Europe,Western Europe,Switzerland,Geneva,ILO,1 182
+Europe,Western Europe,Switzerland,Geneva,IOM,386
+Europe,Western Europe,Switzerland,Geneva,ITC,354
+Europe,Western Europe,Switzerland,Geneva,ITU,715
+Europe,Western Europe,Switzerland,Geneva,JIU,30
+Europe,Western Europe,Switzerland,Geneva,UN,3 523
+Europe,Western Europe,Switzerland,Geneva,UN WOMEN,13
+Europe,Western Europe,Switzerland,Geneva,UNAIDS,208
+Europe,Western Europe,Switzerland,Geneva,UNDP,46
+Europe,Western Europe,Switzerland,Geneva,UNESCO,12
+Europe,Western Europe,Switzerland,Geneva,UNFPA,25
+Europe,Western Europe,Switzerland,Geneva,UNHCR,704
+Europe,Western Europe,Switzerland,Geneva,UNICC,62
+Europe,Western Europe,Switzerland,Geneva,UNICEF,365
+Europe,Western Europe,Switzerland,Geneva,UNIDO,2
+Europe,Western Europe,Switzerland,Geneva,UNITAR,47
+Europe,Western Europe,Switzerland,Geneva,UNJSPF,45
+Europe,Western Europe,Switzerland,Geneva,UNOPS,104
+Europe,Western Europe,Switzerland,Geneva,UNWTO,1
+Europe,Western Europe,Switzerland,Geneva,WFP,6
+Europe,Western Europe,Switzerland,Geneva,WHO,2 473
+Europe,Western Europe,Switzerland,Geneva,WIPO,1 144
+Europe,Western Europe,Switzerland,Geneva,WMO,275
+Europe,Western Europe,Switzerland,Kreuzlingen,IOM,1
+Europe,Western Europe,Switzerland,Lausanne,WHO,2
+Oceania,Australia and New Zealand,Australia,Brisbane,IOM,2
+Oceania,Australia and New Zealand,Australia,Canberra,IOM,19
+Oceania,Australia and New Zealand,Australia,Canberra,UN,4
+Oceania,Australia and New Zealand,Australia,Canberra,UNHCR,14
+Oceania,Australia and New Zealand,Australia,Canberra,WHO,2
+Oceania,Australia and New Zealand,Australia,Melbourne,IOM,3
+Oceania,Australia and New Zealand,Australia,Perth,IOM,3
+Oceania,Australia and New Zealand,Australia,Perth,UNESCO,2
+Oceania,Australia and New Zealand,Australia,Sydney,IOM,5
+Oceania,Australia and New Zealand,Australia,Sydney,UN,2
+Oceania,Australia and New Zealand,New Zealand,Awarua,UN,1
+Oceania,Melanesia,Fiji,Suva,FAO,2
+Oceania,Melanesia,Fiji,Suva,IFAD,1
+Oceania,Melanesia,Fiji,Suva,ILO,19
+Oceania,Melanesia,Fiji,Suva,IOM,6
+Oceania,Melanesia,Fiji,Suva,UN,47
+Oceania,Melanesia,Fiji,Suva,UN WOMEN,24
+Oceania,Melanesia,Fiji,Suva,UNAIDS,3
+Oceania,Melanesia,Fiji,Suva,UNDP,64
+Oceania,Melanesia,Fiji,Suva,UNESCO,1
+Oceania,Melanesia,Fiji,Suva,UNFPA,28
+Oceania,Melanesia,Fiji,Suva,UNICEF,64
+Oceania,Melanesia,Fiji,Suva,WFP,2
+Oceania,Melanesia,Fiji,Suva,WHO,40
+Oceania,Melanesia,New Caledonia,Noumea,UN,2
+Oceania,Melanesia,Papua New Guinea,Buka,UN,1
+Oceania,Melanesia,Papua New Guinea,Buka,UNDP,1
+Oceania,Melanesia,Papua New Guinea,Mendi,UNDP,2
+Oceania,Melanesia,Papua New Guinea,Port Moresby,FAO,2
+Oceania,Melanesia,Papua New Guinea,Port Moresby,ILO,1
+Oceania,Melanesia,Papua New Guinea,Port Moresby,IOM,6
+Oceania,Melanesia,Papua New Guinea,Port Moresby,UN,14
+Oceania,Melanesia,Papua New Guinea,Port Moresby,UN WOMEN,12
+Oceania,Melanesia,Papua New Guinea,Port Moresby,UNAIDS,2
+Oceania,Melanesia,Papua New Guinea,Port Moresby,UNDP,24
+Oceania,Melanesia,Papua New Guinea,Port Moresby,UNFPA,11
+Oceania,Melanesia,Papua New Guinea,Port Moresby,UNHCR,1
+Oceania,Melanesia,Papua New Guinea,Port Moresby,UNICEF,44
+Oceania,Melanesia,Papua New Guinea,Port Moresby,WHO,34
+Oceania,Melanesia,Papua New Guinea,Wewak,FAO,6
+Oceania,Melanesia,Papua New Guinea,Wewak,ILO,14
+Oceania,Melanesia,Papua New Guinea,Wewak,ITU,1
+Oceania,Melanesia,Solomon Islands,Honiara,FAO,1
+Oceania,Melanesia,Solomon Islands,Honiara,UN,2
+Oceania,Melanesia,Solomon Islands,Honiara,UN WOMEN,1
+Oceania,Melanesia,Solomon Islands,Honiara,UNDP,9
+Oceania,Melanesia,Solomon Islands,Honiara,UNFPA,2
+Oceania,Melanesia,Solomon Islands,Honiara,UNICEF,11
+Oceania,Melanesia,Solomon Islands,Honiara,WHO,8
+Oceania,Melanesia,Vanuatu,Port Vila,FAO,1
+Oceania,Melanesia,Vanuatu,Port Vila,IOM,2
+Oceania,Melanesia,Vanuatu,Port Vila,UN,2
+Oceania,Melanesia,Vanuatu,Port Vila,UN WOMEN,2
+Oceania,Melanesia,Vanuatu,Port Vila,UNDP,2
+Oceania,Melanesia,Vanuatu,Port Vila,UNFPA,4
+Oceania,Melanesia,Vanuatu,Port Vila,UNICEF,15
+Oceania,Melanesia,Vanuatu,Port Vila,WHO,10
+Oceania,Melanesia,Vanuatu,Vanuatu,FAO,1
+Oceania,Micronesia,Federated States of Micronesia,Chuuk,IOM,1
+Oceania,Micronesia,Federated States of Micronesia,Kosrae,IOM,1
+Oceania,Micronesia,Federated States of Micronesia,Pohnpei,IOM,10
+Oceania,Micronesia,Federated States of Micronesia,Pohnpei,UN,2
+Oceania,Micronesia,Federated States of Micronesia,Pohnpei,UNDP,2
+Oceania,Micronesia,Federated States of Micronesia,Pohnpei,UNFPA,2
+Oceania,Micronesia,Federated States of Micronesia,Pohnpei,UNICEF,3
+Oceania,Micronesia,Federated States of Micronesia,Pohnpei,WHO,2
+Oceania,Micronesia,Federated States of Micronesia,Yap,IOM,2
+Oceania,Micronesia,Kiribati,Tarawa,UN,1
+Oceania,Micronesia,Kiribati,Tarawa,UN WOMEN,1
+Oceania,Micronesia,Kiribati,Tarawa,UNDP,1
+Oceania,Micronesia,Kiribati,Tarawa,UNFPA,3
+Oceania,Micronesia,Kiribati,Tarawa,UNICEF,11
+Oceania,Micronesia,Kiribati,Tarawa,WHO,3
+Oceania,Micronesia,Marshall Islands,Majuro,IOM,6
+Oceania,Micronesia,Marshall Islands,Majuro,UNDP,1
+Oceania,Micronesia,Palau,Koror,UN,1
+Oceania,Polynesia,Samoa,Apia,FAO,10
+Oceania,Polynesia,Samoa,Apia,ILO,3
+Oceania,Polynesia,Samoa,Apia,UN,11
+Oceania,Polynesia,Samoa,Apia,UN WOMEN,1
+Oceania,Polynesia,Samoa,Apia,UNDP,27
+Oceania,Polynesia,Samoa,Apia,UNESCO,11
+Oceania,Polynesia,Samoa,Apia,UNFPA,2
+Oceania,Polynesia,Samoa,Apia,WHO,9
+Oceania,Polynesia,Samoa,Apia,WMO,2
+Oceania,Polynesia,Tonga,Nukualofa,UN,2
+Oceania,Polynesia,Tonga,Nukualofa,WHO,3
+Oceania,Polynesia,Tonga,Tongatapu,FAO,1
